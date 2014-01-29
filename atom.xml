@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-01-29T10:37:58+00:00</updated>
+  <updated>2014-01-29T10:40:06+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,53 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/01/29/picks/"/>
+    <updated>2014-01-29T10:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/01/29/picks</id>
+    <content type="html"><![CDATA[<h3>29/01 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the fortieth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://austriagamejam.org/games-agj14">Austria Game Jam 2014</a> &ndash; The links to this year&rsquo;s games are online. Play away!</li>
+<li><a href="http://www.youtube.com/watch?v=zoT8Lbt-jk4">Web applications with Ruby (not Rails)</a> &ndash; David Padilla&rsquo;s talk from ArrrrCamp.</li>
+<li><a href="https://haveibeenpwned.com/">Have I been pwned?</a> &ndash; &hellip;because data breaches.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
+
+<ul>
+<li><a href="http://vimeo.com/68730418">467 tests, 0 failures, 0 confidence</a> &ndash; Katrina Owen about the purpose of tests.</li>
+<li><a href="http://dev.housetrip.com/2014/01/22/deal-with-pull-requests-faster-and-easier-with-trailer/">Trailer</a> &ndash; A faster and easier way to deal with pull requests</li>
+<li><a href="http://tympanus.net/Development/DotNavigationStyles/">Dot Navigation Styles</a> &ndash; Subtle effects for simple dot navigation</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
+
+<ul>
+<li><a href="http://blog.librato.com/posts/confessions-of-a-chatbot">Tales of an Ops Team: Confessions of a Chatbot</a></li>
+<li><a href="http://edgecasesshow.com/077-prototype-based-programming.html">Prototype based programming</a> &ndash; Featuring: Self, NewtonScript, Io, and, yes, JavaScript. Plus: the dunder is back</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
+
+<ul>
+<li><a href="http://www.showterm.io/">$://showterm</a> &ndash; Record Terminal Sessions! And it&rsquo;s in Ruby, too!</li>
+<li><a href="http://odetocode.com/blogs/scott/archive/2014/01/27/of-orcs-and-software-craftsmanship.aspx">Of Orcs and Software Craftsmanship</a> &ndash; XML parsing, a developer&rsquo;s view. Don&rsquo;t let the foreign language (=Java) discourage you!</li>
+<li><a href="http://www.tabletopday.com/">International Table Top Day</a> &ndash; Play More Games! (I admit, I am a fan)</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
@@ -708,37 +755,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://jhollingworth.github.io/bootstrap-wysihtml5/">bootstrap-wysihtml5</a> &ndash; Simple, beautiful wysiwyg editors.</li>
 <li><a href="http://www.devfest.at/agenda">DevFest Vienna</a> &ndash; The program for DevFest Vienna is up, go register (especially for the hackathon &ndash; vienna.rb represent!)</li>
 <li><a href="http://devblog.avdi.org/2013/08/26/confident-ruby-is-finished/">Confident Ruby</a> &ndash; Avdi&rsquo;s lastest brain child (Confident Ruby), is finished. Get your (e)copy!</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
-    <link href="http://vienna-rb.at/blog/2013/08/28/picks/"/>
-    <updated>2013-08-28T12:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2013/08/28/picks</id>
-    <content type="html"><![CDATA[<h3>28/8 Picks!!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the nineteenth edition:</p>
-
-<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
-
-<ul>
-<li><a href="http://about.travis-ci.org/blog/2013-08-08-solving-the-puzzle-of-scalable-log-processing">Solving the Puzzle of Scalable Log Processing</a> &ndash; How Travis CI deals with the logs of AAAAALL the builds.</li>
-<li><a href="https://speakerdeck.com/wfarr/puppet-at-github-puppetconf-2013">Puppet at GitHub</a> &ndash; Will Farrington gives an insight on how GitHub uses Puppet.</li>
-<li><a href="http://www.slideshare.net/PuppetLabs/thur-945-gordonrowell12slides-25538241">Keynote PuppetConf 2013</a> &ndash; Why Did We Think Large Scale Distributed Systems Would be Easy?</li>
-<li><a href="https://github.com/cdarwin/go-koans">go koans</a> &ndash; For those who want to learn Go test driven.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://devfestvienna2013.eventbrite.com/">DevFest Vienna</a> &ndash; DevFest Vienna is a three-day event designed for curious developers. Their Sunday hackathon is OpenHack-styled and aims to get Vienna&rsquo;s user groups working together on projects.</li>
-<li><a href="http://blog.gitlab.org/gitlab-6-dot-0-released/">GitLab 6.0 Released</a> &ndash; My friends at GitLab released their latest version, with loads of improvements. Merge requests ftw!</li>
-<li><a href="https://github.com/cdarwin/go-koans">unerdwear</a> &ndash; Unerdwear created a special &lsquo;nerdie&rsquo; for Rails Girls &ndash; a late summer MUST-HAVE. All profits will be donated to Rails Girls Summer of Code.</li>
 </ul>
 
 ]]></content>
