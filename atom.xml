@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-02-12T15:11:10+00:00</updated>
+  <updated>2014-02-14T17:12:04+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/02/12/picks/"/>
+    <updated>2014-02-12T10:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/02/12/picks</id>
+    <content type="html"><![CDATA[<h3>12/02 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the forty-second edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/thoughtbot/gitsh">GitSh</a> &ndash; An interactive shell for Git</li>
+<li><a href="http://charlotteruby.org/gem_workshop_tutorial">Acts as Charlie Sheen</a> &ndash; Make your own Charlie Sheen gem</li>
+<li><a href="http://punkrockpolly.wordpress.com/2014/01/16/100-days-later/">100 days later</a> &ndash; &ldquo;To form a habit, commit to do it often&rdquo;</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
+
+<ul>
+<li><a href="http://www.cleveralgorithms.com/nature-inspired/index.html">Clever Algorithms</a> &ndash; Nature-Inspired Programming Recipes</li>
+<li><a href="http://brackets.io/">Brackets</a> &ndash; Brackets is an open source code editor for web designers and front-end developers.</li>
+<li><a href="http://docs.docker.io/en/latest/installation/mac/">Docker on Mac</a> &ndash; How To Install Docker On Mac OS X</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
@@ -743,36 +773,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="https://ryanseys.com/blog/177-days-of-github/">Eat, sleep, commit</a> &ndash; How challenging yourself to contributing to open source every day changes your life&hellip; for the better!</li>
 <li><a href="http://googlecreativelab.github.io/coder/">CODER</a> &ndash; A simple way to make web stuff on Raspberry Pi.</li>
 <li><a href="http://blog.codosaur.us/">codosaur.us</a> &ndash; Adventures of a dinosaur evolving to meet today&rsquo;s challenges. Or actually: Dave Aronson sharing his thoughts on writing &lsquo;good Ruby&rsquo;.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
-    <link href="http://vienna-rb.at/blog/2013/09/19/picks/"/>
-    <updated>2013-09-19T11:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2013/09/19/picks</id>
-    <content type="html"><![CDATA[<h3>19/9 Picks!!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the twenty-second edition:</p>
-
-<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
-
-<ul>
-<li><a href="http://emacsredux.com/">Emacs Redux</a> &ndash; Return to the Essence of Text Editing.</li>
-<li><a href="http://explainshell.com/">Explain Shell</a> &ndash; Explain what your command line parameters are doing, also see <a href="https://github.com/schneems/explain_shell">this</a> to use it from your shell.</li>
-<li><a href="http://www.codewars.com/">Codewars</a> &ndash; Enhance your mind with coding katas.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/chrishunt/git-pissed">git-pissed</a> &ndash; <code>git pissed</code> tracks any number of words across your entire git history. And that&rsquo;s hilarious.</li>
-<li><a href="http://thechangelog.com/103/">GitLab</a> &ndash; Talking GitLab and open source with Sytse Sijbrandij.</li>
-<li><a href="http://www.rubyflow.com/items/9780-sinatra-planet-planet-web-app-powered-by-pluto-gem-planet-rub">Planet Ruby</a> &ndash; vienna.rb regular Gerald Bauer doing fun stuff with the pluto gem: <a href="https://github.com/geraldb/pluto.live">pluto.live</a>.</li>
 </ul>
 
 ]]></content>
