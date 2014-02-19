@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-02-19T08:36:52+00:00</updated>
+  <updated>2014-02-19T09:51:06+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/02/19/picks/"/>
+    <updated>2014-02-19T10:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/02/19/picks</id>
+    <content type="html"><![CDATA[<h3>19/02 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the forty-third edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://boxen.github.com">Boxen</a> &ndash; Automate the pain out of your development environment</li>
+<li><a href="https://github.com/alicetragedy/acts_as_enid">Acts As Enid</a> &ndash; Following my own link from last week, I put together a useless gem that spits out quotes from Ghost World. Enidify!</li>
+<li><a href=""></a> &ndash;</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
+
+<ul>
+<li><a href="http://blog.motioninmotion.tv/building-os-x-apps-with-rubymotion">RubyMotion</a> &ndash; Building OS X apps with RubyMotion</li>
+<li><a href="https://github.com/Snugug/north">North</a> &ndash; Design and development standards to align and guide your project.</li>
+<li><a href="http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals">UX Fundamentals</a> &ndash; UX crash course &ndash; 31 fundamentals</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
+
+<ul>
+<li><a href="http://tidbits.com/article/14498?rss=">iPhone</a> &ndash; How Apple Protects Your iPhone from Your Employer</li>
+<li><a href="http://devblog.avdi.org/2014/02/10/the-passion-gospel/">The Passion Gospel</a> &ndash; it&rsquo;s a long piece, make sure to read the whole piece</li>
+<li><a href="http://coreos.com/blog/cluster-level-container-orchestration/">fleet</a> &ndash; Cluster-Level Container Deployment with fleet</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -171,53 +210,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://www.networkworld.com/subnets/opensource/031010-convince-boss-to-use-open-source-opensource-subnet.html">How to</a> &ndash; Convince Your Manager to Use Open Source Software</li>
 <li><a href="https://lists.debian.org/debian-devel-announce/2014/01/msg00006.html">Valve games for Debian Developers</a> &ndash; Open Source Pays Back</li>
 <li><a href="https://github.com/fre5h/DoctrineEnumBundle/pull/12#issuecomment-33076691">The world is watching via unusual channels, too</a> &ndash; Good Luck, Ukraine!</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/01/15/picks/"/>
-    <updated>2014-01-15T10:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/01/15/picks</id>
-    <content type="html"><![CDATA[<h3>15/01 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the thirty-eighth edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/veltman/clmystery">The Command Line Murders</a> &ndash; A command-line murder mystery. How cool is that?</li>
-<li><a href="http://speaking.io/">Speaking.io</a> &ndash; Thoughts on public speaking by GitHub&rsquo;s Zach Holman</li>
-<li><a href="https://github.com/rcorral/github-stargazers/">GitHub Stargazers</a> &ndash; making your stargazers twinkle!</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
-
-<ul>
-<li><a href="http://monkeyandcrow.com/blog/reading_rails_concern/">Rails Concern</a> &ndash; Understanding how &lsquo;Concern&rsquo; works will help you better understand how Ruby&rsquo;s &lsquo;Module&rsquo; works.</li>
-<li><a href="https://github.com/appfolio/gemsurance">Gemsurance</a> &ndash; Gemsurance is a tool for monitoring if any of your Ruby Gems are out-of-date or vulnerable.</li>
-<li><a href="http://insideintercom.io/using-job-stories-design-features-ui-ux/">Job Stories</a> &ndash; Designing features using job stories.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
-
-<ul>
-<li><a href="http://myronmars.to/n/dev-blog/2014/01/new-in-rspec-3-composable-matchers">RSpec Matchers</a> &ndash; Composable Matchers in RSpec 3</li>
-<li><a href="http://walpurgisriot.github.io/blog/2013/12/18/ruby-syntax-trivia.html">Ruby Syntax Trivia</a> &ndash; Neat little Ruby tricks</li>
-<li><a href="http://security.stackexchange.com/questions/20803/how-does-ssl-work">How does SSL work?</a> &ndash; What every developer should know about SSL.</li>
-</ul>
-
-
-<h5><a href="https://www.twitter.com/tony_xpro">Tony</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/citizen428/try_to">try_to</a> &ndash; Sophisticated, configurable error handling that can be used instead of Object#try.</li>
-<li><a href="http://www.benjaminfleischer.com/2013/07/12/make-the-world-a-better-place-put-a-license-in-your-gemspec/">&ldquo;Make the world a better place&rdquo;</a> &ndash; &hellip; put a license in your gemspec.</li>
 </ul>
 
 ]]></content>
