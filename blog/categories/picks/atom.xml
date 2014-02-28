@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-02-28T10:39:15+00:00</updated>
+  <updated>2014-02-28T10:59:05+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,54 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/02/26/picks/"/>
-    <updated>2014-02-26T10:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/02/26/picks</id>
-    <content type="html"><![CDATA[<h3>26/02 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the forty-fourth edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="http://whatthecommit.com">WhatTheCommit</a> &ndash; Inspiration for your commit messages</li>
-<li><a href="http://linz.kod.io">Kod.io Linz</a> &ndash; Guess what&rsquo;s on this weekend? Come join us in Linz!</li>
-<li><a href="http://www.confreaks.com/videos/988-goruco2012-power-rake">Power Rake</a> &ndash; Jim Weirich&rsquo;s GoRuCo 2012 talk about the &ldquo;hidden&rdquo; features of rake</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
-
-<ul>
-<li><a href="http://hipsterdevstack.tumblr.com/">hipster dev deck</a> &ndash; A curated directory of artisanal development tools that we used to like before they went mainstream</li>
-<li><a href="http://firsttimeux.tumblr.com/">First Time User Experiences</a> &ndash; A showcase of new user experiences, good and bad, from a variety of products.</li>
-<li><a href="http://eng.climate.com/2014/02/12/service-oriented-authorization-part-1/">Authorization</a> &ndash; Handling Authorization in a Service-Oriented Architecture</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/kostya/eye">Eye</a> &ndash; Process monitoring tool. Inspired from Bluepill and God.</li>
-<li><a href="http://atom.io/">Atom</a> &ndash; A new Editor by the GitHub guys.</li>
-<li><a href="https://www.destroyallsoftware.com/blog/2011/one-base-class-to-rule-them-all">Base</a> &ndash; One Base Class to Rule Them All</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
-
-<ul>
-<li><a href=""></a> &ndash;</li>
-<li><a href=""></a> &ndash;</li>
-<li><a href=""></a> &ndash;</li>
-</ul>
-
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -219,6 +171,44 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://www.showterm.io/">$://showterm</a> &ndash; Record Terminal Sessions! And it&rsquo;s in Ruby, too!</li>
 <li><a href="http://odetocode.com/blogs/scott/archive/2014/01/27/of-orcs-and-software-craftsmanship.aspx">Of Orcs and Software Craftsmanship</a> &ndash; XML parsing, a developer&rsquo;s view. Don&rsquo;t let the foreign language (=Java) discourage you!</li>
 <li><a href="http://www.tabletopday.com/">International Table Top Day</a> &ndash; Play More Games! (I admit, I am a fan)</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/01/22/picks/"/>
+    <updated>2014-01-22T10:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/01/22/picks</id>
+    <content type="html"><![CDATA[<h3>22/01 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the thirty-ninth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://www.nerdydata.com">Nerdy Data</a> &ndash; A search engine for source code.</li>
+<li><a href="http://www.confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years">Architecture the Lost Years</a> &ndash; Uncle Bob&rsquo;s keynote from Ruby Midwest 2011.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
+
+<ul>
+<li><a href="http://collectiveidea.com/blog/archives/2014/01/21/mocking-html5-apis-using-phantomjs-extensions/">Mocking HTML5 API</a> &ndash; Mocking HTML5 geolocation API using PhantomJS extensions</li>
+<li><a href="https://github.com/elasticsearch/elasticsearch-rails">Elasticsearch</a> &ndash; ActiveModel, ActiveRecord and Ruby on Rails integrations for Elasticsearch</li>
+<li><a href="http://otobrglez.opalab.com/rails/2014/01/21/bower-rails-heroku.html">Bower and Rails</a> &ndash; Bower and Rails on Heroku and S3</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
+
+<ul>
+<li><a href="http://www.networkworld.com/subnets/opensource/031010-convince-boss-to-use-open-source-opensource-subnet.html">How to</a> &ndash; Convince Your Manager to Use Open Source Software</li>
+<li><a href="https://lists.debian.org/debian-devel-announce/2014/01/msg00006.html">Valve games for Debian Developers</a> &ndash; Open Source Pays Back</li>
+<li><a href="https://github.com/fre5h/DoctrineEnumBundle/pull/12#issuecomment-33076691">The world is watching via unusual channels, too</a> &ndash; Good Luck, Ukraine!</li>
 </ul>
 
 ]]></content>
