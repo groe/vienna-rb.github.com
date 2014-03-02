@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-02-28T11:08:16+00:00</updated>
+  <updated>2014-03-02T09:08:46+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/02/26/picks/"/>
+    <updated>2014-02-26T10:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/02/26/picks</id>
+    <content type="html"><![CDATA[<h3>26/02 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the forty-fourth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://whatthecommit.com">WhatTheCommit</a> &ndash; Inspiration for your commit messages</li>
+<li><a href="http://linz.kod.io">Kod.io Linz</a> &ndash; Guess what&rsquo;s on this weekend? Come join us in Linz!</li>
+<li><a href="http://www.confreaks.com/videos/988-goruco2012-power-rake">Power Rake</a> &ndash; Jim Weirich&rsquo;s GoRuCo 2012 talk about the &ldquo;hidden&rdquo; features of rake</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
+
+<ul>
+<li><a href="http://hipsterdevstack.tumblr.com/">hipster dev deck</a> &ndash; A curated directory of artisanal development tools that we used to like before they went mainstream</li>
+<li><a href="http://firsttimeux.tumblr.com/">First Time User Experiences</a> &ndash; A showcase of new user experiences, good and bad, from a variety of products.</li>
+<li><a href="http://eng.climate.com/2014/02/12/service-oriented-authorization-part-1/">Authorization</a> &ndash; Handling Authorization in a Service-Oriented Architecture</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/kostya/eye">Eye</a> &ndash; Process monitoring tool. Inspired from Bluepill and God.</li>
+<li><a href="http://atom.io/">Atom</a> &ndash; A new Editor by the GitHub guys.</li>
+<li><a href="https://www.destroyallsoftware.com/blog/2011/one-base-class-to-rule-them-all">Base</a> &ndash; One Base Class to Rule Them All</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
@@ -751,36 +790,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://www.iloveopensource.io/">iloveopensource</a> &ndash; And I&rsquo;m not afraid to show it!</li>
 <li><a href="http://www1.idc.ac.il/tecs/course/talk.pdf">From Nand to Tetris in 12 Steps</a> &ndash; Currently going through this, super interesting.</li>
 <li><a href="http://www.onextrapixel.com/2013/09/30/the-legacy-of-web-languages">The Legacy of Web Languages</a> &ndash; Compared to the web of old, the way we develop sites has altered drastically. Here&rsquo;s how.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
-    <link href="http://vienna-rb.at/blog/2013/10/02/picks/"/>
-    <updated>2013-10-02T12:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2013/10/02/picks</id>
-    <content type="html"><![CDATA[<h3>02/10 Picks!!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the twenty-fourth edition:</p>
-
-<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
-
-<ul>
-<li><a href="http://www.shellcheck.net/">shellcheck</a> &ndash; automatically detects problems with sh/bash scripts and commands.</li>
-<li><a href="https://github.com/rowanmanning/joblint">joblint</a> &ndash; tests tech job specs for issues with sexism, culture, expectations, and recruiter fails.</li>
-<li><a href="http://www.phenoelit.org/blog/archives/2013/09/24/ruby_on_rails_default_token_database/index.html">Secret Token</a> &ndash; Ruby on Rails Default Token Database detects if a signing token is known somewhere in the Internet, or not.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://gistflow.com/posts/901-sandi_meter-tool-for-checking-sandi-metz-rules">sandi_meter</a> &ndash; Introducing: a gem which automates scanning your code versus Sandi Metz&#8217; rules.</li>
-<li><a href="http://googlevis.frontwise.com/#3|2012|1|">GoogleVis</a> &ndash; Frontwise sure knows how to visualize the Takedown Requests dataset from Google!</li>
-<li><a href="http://www.confreaks.com/videos/432-rubyconf2010-the-road-from-ruby-hacker-to-entrepreneur">RubyConf 2010</a> &ndash; The Road from Ruby Hacker to Entrepreneur (by GitHub&rsquo;s Tom Preston-Werner).</li>
 </ul>
 
 ]]></content>
