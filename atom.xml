@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-03-05T14:36:42+00:00</updated>
+  <updated>2014-03-07T15:26:24+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,54 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/03/05/picks/"/>
+    <updated>2014-03-05T10:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/03/05/picks</id>
+    <content type="html"><![CDATA[<h3>05/03 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the forty-fifth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/lhartikk/ArnoldC">ArnoldC</a> &ndash; Hasta la vista, baby</li>
+<li><a href="https://github.com/karlhorky/talk-notes/blob/master/kod.io-2014-03-01.md">Kod.io by karlhorky</a> &ndash; In case you missed kod.io last week.. Here are some notes</li>
+<li><a href="http://jsforcats.com/">JavaScript For Cats</a> &ndash; because kittens.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
+
+<ul>
+<li><a href="http://incident57.com/codekit/">CodeKit</a> &ndash; CodeKit helps you build websites faster and better.</li>
+<li><a href="https://github.com/elasticsearch/elasticsearch-rails">elasticsearch-rails</a> &ndash; elasticsearch-rails version 0.1.0 is out.</li>
+<li><a href="http://travisjeffery.com/b/2012/02/search-a-git-repo-like-a-ninja/">git grep</a> &ndash; Search a git repo like a ninja.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
+
+<ul>
+<li><a href="http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html">Moon</a> &ndash; If The Moon Was Only 1 Pixel.</li>
+<li><a href="http://arstechnica.com/security/2014/03/critical-crypto-bug-leaves-linux-hundreds-of-apps-open-to-eavesdropping/">goto fail in GNUtls</a> &ndash; Critical crypto bug leaves Linux, hundreds of apps open to eavesdropping</li>
+<li><a href="http://www.spritzinc.com/">Spritz</a> &ndash; Maybe the worst name ever, but they have some nice things about speed reading.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
+
+<ul>
+<li><a href=""></a> &ndash;</li>
+<li><a href=""></a> &ndash;</li>
+<li><a href=""></a> &ndash;</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
@@ -760,36 +808,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="https://devandpencil.herokuapp.com/blog/2013/10/09/being-an-asshole-does-not-make-you-awesome/?utm_content=bufferdd261&amp;utm_source=buffer&amp;utm_medium=twitter&amp;utm_campaign=Buffer">Ruby gems gone wrong</a> &ndash; On inconsiderate gem naming, wholeheartedly agree.</li>
 <li><a href="http://ossperks.com/">OSS Perks</a> &ndash; A listing of tools that are made freely available to open source projects.</li>
 <li><a href="http://www.1stfloorgraphics.nl/2013/10/14/rupy-budapest-2013-the-day-after/">RuPy</a> &ndash; Couldn&rsquo;t make it to this year&rsquo;s RuPy conference? Thank Glob I wrote a recap.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
-    <link href="http://vienna-rb.at/blog/2013/10/09/picks/"/>
-    <updated>2013-10-09T12:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2013/10/09/picks</id>
-    <content type="html"><![CDATA[<h3>09/10 Picks!!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the twenty-fifth edition:</p>
-
-<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
-
-<ul>
-<li><a href="https://www.youtube.com/watch?v=rHIIUPov0DU">Boson for kids</a> &ndash; The boson explained for children (grownups can watch too).</li>
-<li><a href="http://vimeo.com/user18356272/review/66548720/99c7fe5c0c">Applicative functors &ndash; you probably haven&rsquo;t heard of them</a> &ndash; What every hipster should know about Functional Programming (<a href="http://bodil.org/hipster">slides</a>).</li>
-<li><a href="https://www.usenix.org/conference/woot13/page-fault-weird-machine-lessons-instruction-less-computation">Weird Machines</a> &ndash; Lessons in Instruction-less Computation, from the WOOT &lsquo;13 conference.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://www.iloveopensource.io/">iloveopensource</a> &ndash; And I&rsquo;m not afraid to show it!</li>
-<li><a href="http://www1.idc.ac.il/tecs/course/talk.pdf">From Nand to Tetris in 12 Steps</a> &ndash; Currently going through this, super interesting.</li>
-<li><a href="http://www.onextrapixel.com/2013/09/30/the-legacy-of-web-languages">The Legacy of Web Languages</a> &ndash; Compared to the web of old, the way we develop sites has altered drastically. Here&rsquo;s how.</li>
 </ul>
 
 ]]></content>

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-03-05T14:36:42+00:00</updated>
+  <updated>2014-03-07T15:26:24+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,54 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/03/05/picks/"/>
+    <updated>2014-03-05T10:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/03/05/picks</id>
+    <content type="html"><![CDATA[<h3>05/03 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the forty-fifth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/lhartikk/ArnoldC">ArnoldC</a> &ndash; Hasta la vista, baby</li>
+<li><a href="https://github.com/karlhorky/talk-notes/blob/master/kod.io-2014-03-01.md">Kod.io by karlhorky</a> &ndash; In case you missed kod.io last week.. Here are some notes</li>
+<li><a href="http://jsforcats.com/">JavaScript For Cats</a> &ndash; because kittens.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
+
+<ul>
+<li><a href="http://incident57.com/codekit/">CodeKit</a> &ndash; CodeKit helps you build websites faster and better.</li>
+<li><a href="https://github.com/elasticsearch/elasticsearch-rails">elasticsearch-rails</a> &ndash; elasticsearch-rails version 0.1.0 is out.</li>
+<li><a href="http://travisjeffery.com/b/2012/02/search-a-git-repo-like-a-ninja/">git grep</a> &ndash; Search a git repo like a ninja.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
+
+<ul>
+<li><a href="http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html">Moon</a> &ndash; If The Moon Was Only 1 Pixel.</li>
+<li><a href="http://arstechnica.com/security/2014/03/critical-crypto-bug-leaves-linux-hundreds-of-apps-open-to-eavesdropping/">goto fail in GNUtls</a> &ndash; Critical crypto bug leaves Linux, hundreds of apps open to eavesdropping</li>
+<li><a href="http://www.spritzinc.com/">Spritz</a> &ndash; Maybe the worst name ever, but they have some nice things about speed reading.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
+
+<ul>
+<li><a href=""></a> &ndash;</li>
+<li><a href=""></a> &ndash;</li>
+<li><a href=""></a> &ndash;</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -163,53 +211,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="https://github.com/deepakg/switcher">Switcher</a> &ndash; The website switching extension you always wanted. A Chrome Extension for devs.</li>
 <li><a href="http://www.bitnative.com/2014/01/28/who-chooses-quality-client-or-coder/">Who Dictates Software Quality: Client or Coder?</a> &ndash; And how about you?</li>
 <li><a href="http://www.omniref.com/">ominref</a> &ndash; comprehensive ruby documentation search</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/01/29/picks/"/>
-    <updated>2014-01-29T10:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/01/29/picks</id>
-    <content type="html"><![CDATA[<h3>29/01 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the fortieth edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="http://austriagamejam.org/games-agj14">Austria Game Jam 2014</a> &ndash; The links to this year&rsquo;s games are online. Play away!</li>
-<li><a href="http://www.youtube.com/watch?v=zoT8Lbt-jk4">Web applications with Ruby (not Rails)</a> &ndash; David Padilla&rsquo;s talk from ArrrrCamp.</li>
-<li><a href="https://haveibeenpwned.com/">Have I been pwned?</a> &ndash; &hellip;because data breaches.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
-
-<ul>
-<li><a href="http://vimeo.com/68730418">467 tests, 0 failures, 0 confidence</a> &ndash; Katrina Owen about the purpose of tests.</li>
-<li><a href="http://dev.housetrip.com/2014/01/22/deal-with-pull-requests-faster-and-easier-with-trailer/">Trailer</a> &ndash; A faster and easier way to deal with pull requests</li>
-<li><a href="http://tympanus.net/Development/DotNavigationStyles/">Dot Navigation Styles</a> &ndash; Subtle effects for simple dot navigation</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
-
-<ul>
-<li><a href="http://blog.librato.com/posts/confessions-of-a-chatbot">Tales of an Ops Team: Confessions of a Chatbot</a></li>
-<li><a href="http://edgecasesshow.com/077-prototype-based-programming.html">Prototype based programming</a> &ndash; Featuring: Self, NewtonScript, Io, and, yes, JavaScript. Plus: the dunder is back</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
-
-<ul>
-<li><a href="http://www.showterm.io/">$://showterm</a> &ndash; Record Terminal Sessions! And it&rsquo;s in Ruby, too!</li>
-<li><a href="http://odetocode.com/blogs/scott/archive/2014/01/27/of-orcs-and-software-craftsmanship.aspx">Of Orcs and Software Craftsmanship</a> &ndash; XML parsing, a developer&rsquo;s view. Don&rsquo;t let the foreign language (=Java) discourage you!</li>
-<li><a href="http://www.tabletopday.com/">International Table Top Day</a> &ndash; Play More Games! (I admit, I am a fan)</li>
 </ul>
 
 ]]></content>
