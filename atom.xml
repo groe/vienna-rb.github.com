@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-03-11T21:18:10+00:00</updated>
+  <updated>2014-03-12T14:18:39+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,54 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/03/12/picks/"/>
+    <updated>2014-03-12T10:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/03/12/picks</id>
+    <content type="html"><![CDATA[<h3>12/03 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the forty-sixth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/scoutapp/scout_realtime">Scout Realtime</a> &ndash; Realtime server metrics in your browser</li>
+<li><a href="http://curatorscode.org">Curator&rsquo;s Code</a> &ndash; Keep the rabbit hole of the internet open by honoring discovery</li>
+<li><a href="http://www.jurassicsystems.com">Jurassic Systems</a> &ndash; Just. Epic.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
+
+<ul>
+<li><a href="http://www.git-tower.com/blog/command-line-cheat-sheet/">Command Line Cheat Sheet</a> &ndash; Cheat sheet explains the essential tasks on the command line.</li>
+<li><a href="http://robots.thoughtbot.com/announcing-gitsh">gitsh</a> &ndash; gitsh provides you with a dedicated shell just for your Git commands.</li>
+<li><a href="https://github.com/mrap/rails-mrap-seed">rails-mrap-seed</a> &ndash; For those who need to go fast on Rails.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
+
+<ul>
+<li><a href="http://www.cockos.com/licecap/">simple animated screen captures</a> &ndash; create little gifs from your screen</li>
+<li><a href="https://gist.github.com/joannecheng/9292355">Visualizing Rails Issues</a> &ndash; Awesome use of D3.js by @joannecheng at Kod.io Linz 2014</li>
+<li><a href="http://english.martinvarsavsky.net/general/aviation-is-stuck-in-the-60s-a-reflection-on-mh-370.html">Aviation is stuck in the 60s, a reflection on MH 370</a></li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
+
+<ul>
+<li><a href="http://haacked.com/archive/2014/02/21/reviewing-merge-commits/">How to review a merge commit</a> &ndash; Invaluable skill in teams</li>
+<li><a href="https://github.com/RailsApps/rails-omniauth">Rails and OmniAuth</a> &ndash; an example application</li>
+<li><a href="http://railsapps.github.io/">RailsApps Build and Learn</a> &ndash; main page of the above example</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
@@ -769,36 +817,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://jack.minardi.org/projects/displaying-realtime-github-activity-on-a-full-color-led-matrix/">GitHub Arduino</a> &ndash; Fun! Displaying realtime Github activity on a full color LED Matrix.</li>
 <li><a href="http://thechangelog.com/108/">Changelog #108</a> &ndash; The Changelog talking Exercism.io with Katrina Owen.</li>
 <li><a href="http://ec.europa.eu/commission_2010-2014/kroes/en/content/25-30-november-europe-code-week">Europe Code Week</a> &ndash; 25-30 November is Europe Code Week! Join the fun!</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
-    <link href="http://vienna-rb.at/blog/2013/10/16/picks/"/>
-    <updated>2013-10-16T12:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2013/10/16/picks</id>
-    <content type="html"><![CDATA[<h3>16/10 Picks!!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the twenty-sixth edition:</p>
-
-<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
-
-<ul>
-<li><a href="http://vimeo.com/32422551">Nyan Cat RSpec Formatter</a> &ndash; Because&hellip; why the hell not?</li>
-<li><a href="http://government.github.com/">GitHub and Government</a> &ndash; Make government better, together.</li>
-<li><a href="http://rubini.us/2013/10/15/introducing-rubinius-x/">Rubinius X</a> &ndash; Introducing a different kind of Ruby.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="https://devandpencil.herokuapp.com/blog/2013/10/09/being-an-asshole-does-not-make-you-awesome/?utm_content=bufferdd261&amp;utm_source=buffer&amp;utm_medium=twitter&amp;utm_campaign=Buffer">Ruby gems gone wrong</a> &ndash; On inconsiderate gem naming, wholeheartedly agree.</li>
-<li><a href="http://ossperks.com/">OSS Perks</a> &ndash; A listing of tools that are made freely available to open source projects.</li>
-<li><a href="http://www.1stfloorgraphics.nl/2013/10/14/rupy-budapest-2013-the-day-after/">RuPy</a> &ndash; Couldn&rsquo;t make it to this year&rsquo;s RuPy conference? Thank Glob I wrote a recap.</li>
 </ul>
 
 ]]></content>
