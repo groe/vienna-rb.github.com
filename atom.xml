@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-03-17T11:24:12+00:00</updated>
+  <updated>2014-03-21T14:55:09+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/03/19/picks/"/>
+    <updated>2014-03-19T10:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/03/19/picks</id>
+    <content type="html"><![CDATA[<h3>19/03 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the forty-seventh edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://vim-adventures.com/quiz">So you think you know Vim?</a> &ndash; Is it a quiz? Is it a game?</li>
+<li><a href="https://sublime.wbond.net/packages/Gutter%20Color">Gutter Color</a> &ndash; A Sublime Text 3 Package</li>
+<li><a href="https://www.gittip.com">Gittip</a> &ndash; Sustainable Crowdfunding for your favorite people</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/pda/flip">Feature Flipper for Rails</a> &ndash; Flip lets you declare and manage feature flags</li>
+<li><a href="http://nerds.airbnb.com/testing-at-airbnb/">Testing at Airbnb</a> &ndash; &ldquo;[&hellip;]The bar to writing tests should be, &lsquo;so low you can trip over it.&rsquo;[&hellip;]&rdquo;</li>
+<li><a href="http://www.peterbe.com/plog/github-pr-triage">Github Pull Request Triage tool</a> &ndash; Its goal is to try to get an overview of what needs to happen next to open pull requests.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[vienna.rb Anniversary - a Short Flashback]]></title>
@@ -810,36 +840,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://codepen.io/kevinjannis/pen/pyuix">Codepen</a> &ndash; I love browsing codepens, like these cool Chrome logo&rsquo;s.</li>
 <li><a href="http://www.refsmmat.com/statistics/">Statistics Done Wrong</a> &ndash; The woefully complete guide</li>
 <li><a href="https://github.com/skazhy/github-decorator">GitHub profile decorator</a> &ndash; Show off your ASCII skills with  GitHub profile decorator!</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
-    <link href="http://vienna-rb.at/blog/2013/11/06/picks/"/>
-    <updated>2013-11-06T10:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2013/11/06/picks</id>
-    <content type="html"><![CDATA[<h3>6/11 Picks!!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the twenty-eighth edition:</p>
-
-<h5><a href="http://www.twitter.com/pxlpnk">Andy</a>:</h5>
-
-<ul>
-<li><a href="http://www.hokstad.com/compiler/29-the-operators-3">Writing a (Ruby) compiler in Ruby bottom up &ndash; step 29</a> &ndash; The Operators &ndash; Part 3: Operating on our newly minted Fixnums.</li>
-<li><a href="https://index.okfn.org/">Open Data Index</a> &ndash; The Open Data Index assesses the state of open government data around the world.</li>
-<li><a href="http://crypt.codemancers.com/posts/2013-09-26-setting-up-emacs-as-development-environment-on-osx/">Setting up Emacs as Ruby development environment on OSX</a> &ndash; Has a few nice tips and tricks for Emacs operators who write Ruby and Ruby on Rails.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://www.frontendmasters.com/courses/backbone-js-in-depth-testing-mocha-sinon/backbone-model-collection-and-view-code-walkthrough/">backbone</a> &ndash; Check out this free Frontend Masters lesson, where Sam steps through an example using a model, collection and view together in Backbone.js.</li>
-<li><a href="http://www.slideshare.net/wooga/programmin-games-minutecrashcourse">gosu</a> &ndash; Programming games &ndash; A 10 minute crash course with Patrick Huesler (Wooga).</li>
-<li><a href="http://www.tutorials.jumpstartlab.com">jumpstartlab</a> &ndash; Ruby tutorials ftw! &lt;3</li>
 </ul>
 
 ]]></content>
