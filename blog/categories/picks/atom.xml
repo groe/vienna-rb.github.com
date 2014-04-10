@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-04-09T08:30:12+00:00</updated>
+  <updated>2014-04-10T17:02:37+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,54 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/04/09/picks/"/>
+    <updated>2014-04-09T10:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/04/09/picks</id>
+    <content type="html"><![CDATA[<h3>09/04 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the fiftieth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://guides.github.com/overviews/os-contributing">Contributing to Open Source</a> &ndash; A small GitHub guide</li>
+<li><a href="http://durdn.com/blog/2012/11/22/must-have-git-aliases-advanced-examples/">Must-have Git aliases</a> &ndash; Some advanced examples</li>
+<li><a href="http://alistapart.com/article/offline-first">Offline First</a> &ndash; An article on designing offline-first web apps</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
+
+<ul>
+<li><a href="http://ericbrooke.wordpress.com/2014/03/30/visual-overview-of-ruby-on-rails/">Rails 4 overview</a> &ndash; Visual overview of Ruby on Rails 4</li>
+<li><a href="http://www.kavinder.com/blog/2014-04-06-gkg-workflow/">Workflow gem</a> &ndash; A finite state machine library.</li>
+<li><a href="http://www.mikeperham.com/2014/03/28/sidekiq-3-0/">Sidekiq 3.0!</a> &ndash; Sidekiq 3.0 is out.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=bV2m8eBeuu0">HyperLogLog</a> Craig Kerstiens: Scalable Uniques in Postgres</li>
+<li><a href="http://serversforhackers.com/articles/2014/03/20/getting-started-with-docker/">Docker</a> &ndash; Getting Started with Docker</li>
+<li><a href="https://keen.io/blog/53958349217/analytics-for-hackers-how-to-think-about-event-data">Analytics</a> &ndash; Analytics for hackers: How to think about event data</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
+
+<ul>
+<li><a href=""></a> &ndash;</li>
+<li><a href=""></a> &ndash;</li>
+<li><a href=""></a> &ndash;</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -162,45 +210,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://haacked.com/archive/2014/02/21/reviewing-merge-commits/">How to review a merge commit</a> &ndash; Invaluable skill in teams</li>
 <li><a href="https://github.com/RailsApps/rails-omniauth">Rails and OmniAuth</a> &ndash; an example application</li>
 <li><a href="http://railsapps.github.io/">RailsApps Build and Learn</a> &ndash; main page of the above example</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/03/05/picks/"/>
-    <updated>2014-03-05T10:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/03/05/picks</id>
-    <content type="html"><![CDATA[<h3>05/03 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the forty-fifth edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/lhartikk/ArnoldC">ArnoldC</a> &ndash; Hasta la vista, baby</li>
-<li><a href="https://github.com/karlhorky/talk-notes/blob/master/kod.io-2014-03-01.md">Kod.io by karlhorky</a> &ndash; In case you missed kod.io last week.. Here are some notes</li>
-<li><a href="http://jsforcats.com/">JavaScript For Cats</a> &ndash; because kittens.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
-
-<ul>
-<li><a href="http://incident57.com/codekit/">CodeKit</a> &ndash; CodeKit helps you build websites faster and better.</li>
-<li><a href="https://github.com/elasticsearch/elasticsearch-rails">elasticsearch-rails</a> &ndash; elasticsearch-rails version 0.1.0 is out.</li>
-<li><a href="http://travisjeffery.com/b/2012/02/search-a-git-repo-like-a-ninja/">git grep</a> &ndash; Search a git repo like a ninja.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
-
-<ul>
-<li><a href="http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html">Moon</a> &ndash; If The Moon Was Only 1 Pixel.</li>
-<li><a href="http://arstechnica.com/security/2014/03/critical-crypto-bug-leaves-linux-hundreds-of-apps-open-to-eavesdropping/">goto fail in GNUtls</a> &ndash; Critical crypto bug leaves Linux, hundreds of apps open to eavesdropping</li>
-<li><a href="http://www.spritzinc.com/">Spritz</a> &ndash; Maybe the worst name ever, but they have some nice things about speed reading.</li>
 </ul>
 
 ]]></content>
