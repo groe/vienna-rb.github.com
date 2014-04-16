@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-04-16T08:18:43+00:00</updated>
+  <updated>2014-04-16T20:20:58+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,44 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/04/16/picks/"/>
+    <updated>2014-04-16T10:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/04/16/picks</id>
+    <content type="html"><![CDATA[<h3>16/04 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth fifty-first edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/sferik/t">t</a> &ndash; Tweet from the command line, because YES REALLY.</li>
+<li><a href="http://typing.io">typing.io</a> &ndash; A Typing trainer for programmers</li>
+<li><a href="https://github.com/jlord/hack-spots">Hack Spots</a> &ndash; Fork'n'Go! Make a map of your favorite hackspots</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
+
+<ul>
+<li><a href="http://www.amberbit.com/blog/2014/4/10/ruby-the-good-parts/">The good parts</a> &ndash; Ruby: the good parts by amberbit</li>
+<li><a href="http://viget.com/extend/8-insanely-useful-activeadmin-customizations">Active Admin</a> &ndash; 8 Useful ActiveAdmin Customizations</li>
+<li><a href="http://robots.thoughtbot.com/removing-sass-duplication">DRY Sass</a> &ndash; Removing Sass Duplication Using Sass Maps</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
+
+<ul>
+<li><a href="http://weblog.rubyonrails.org/2014/4/8/Rails-4-1/">Rails</a> &ndash; Rails 4.1 just got released</li>
+<li><a href="http://dev.mensfeld.pl/2014/03/rack-argument-error-invalid-byte-sequence-in-utf-8/">UTF-8</a> &ndash; fixing Rails' ArgumentError: invalid byte sequence in UTF-8 forever</li>
+<li><a href="http://www.integralist.co.uk/posts/refactoring-techniques/">Refactoring</a> &ndash; Refactoring Techniques</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -153,54 +191,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="https://github.com/pda/flip">Feature Flipper for Rails</a> &ndash; Flip lets you declare and manage feature flags</li>
 <li><a href="http://nerds.airbnb.com/testing-at-airbnb/">Testing at Airbnb</a> &ndash; &ldquo;[&hellip;]The bar to writing tests should be, &lsquo;so low you can trip over it.&rsquo;[&hellip;]&rdquo;</li>
 <li><a href="http://www.peterbe.com/plog/github-pr-triage">Github Pull Request Triage tool</a> &ndash; Its goal is to try to get an overview of what needs to happen next to open pull requests.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/03/12/picks/"/>
-    <updated>2014-03-12T10:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/03/12/picks</id>
-    <content type="html"><![CDATA[<h3>12/03 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the forty-sixth edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/scoutapp/scout_realtime">Scout Realtime</a> &ndash; Realtime server metrics in your browser</li>
-<li><a href="http://curatorscode.org">Curator&rsquo;s Code</a> &ndash; Keep the rabbit hole of the internet open by honoring discovery</li>
-<li><a href="http://www.jurassicsystems.com">Jurassic Systems</a> &ndash; Just. Epic.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
-
-<ul>
-<li><a href="http://www.git-tower.com/blog/command-line-cheat-sheet/">Command Line Cheat Sheet</a> &ndash; Cheat sheet explains the essential tasks on the command line.</li>
-<li><a href="http://robots.thoughtbot.com/announcing-gitsh">gitsh</a> &ndash; gitsh provides you with a dedicated shell just for your Git commands.</li>
-<li><a href="https://github.com/mrap/rails-mrap-seed">rails-mrap-seed</a> &ndash; For those who need to go fast on Rails.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
-
-<ul>
-<li><a href="http://www.cockos.com/licecap/">simple animated screen captures</a> &ndash; create little gifs from your screen</li>
-<li><a href="https://gist.github.com/joannecheng/9292355">Visualizing Rails Issues</a> &ndash; Awesome use of D3.js by @joannecheng at Kod.io Linz 2014</li>
-<li><a href="http://english.martinvarsavsky.net/general/aviation-is-stuck-in-the-60s-a-reflection-on-mh-370.html">Aviation is stuck in the 60s, a reflection on MH 370</a></li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
-
-<ul>
-<li><a href="http://haacked.com/archive/2014/02/21/reviewing-merge-commits/">How to review a merge commit</a> &ndash; Invaluable skill in teams</li>
-<li><a href="https://github.com/RailsApps/rails-omniauth">Rails and OmniAuth</a> &ndash; an example application</li>
-<li><a href="http://railsapps.github.io/">RailsApps Build and Learn</a> &ndash; main page of the above example</li>
 </ul>
 
 ]]></content>
