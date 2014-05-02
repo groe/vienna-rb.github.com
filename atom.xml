@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-04-30T14:34:10+00:00</updated>
+  <updated>2014-05-02T14:09:05+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/04/30/picks/"/>
+    <updated>2014-04-30T10:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/04/30/picks</id>
+    <content type="html"><![CDATA[<h3>30/04 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the fifty-third edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://alicetragedy.github.io/hack-spots">Austria Hack Spots</a> &ndash; A map of cool places to hack &amp; work in Austria. Feel free to contribute!</li>
+<li><a href="https://github.com/plexus/slippery">Slippery</a> &ndash; Make presentations with Markdown</li>
+<li><a href="https://github.com/tiimgreen/github-cheat-sheet">GitHub Cheatsheet</a> &ndash; Hidden and not-so-hidden features</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
+
+<ul>
+<li><a href="http://insideintercom.io/how-we-design-at-intercom/">Design at Intercom</a> &ndash; Decide what to build and how</li>
+<li><a href="http://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/">Spotify engineering culture</a> &ndash; Part 1 of a Podcast about Spotify&rsquo;s engineering culture.</li>
+<li><a href="http://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/">Bash Scripting</a> &ndash; Tips and tricks about better bash scripting</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
@@ -780,54 +810,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="https://github.com/explore">GitHub Explore</a> &ndash; subscribe to the newsletter to stay up to date on GitHub</li>
 <li><a href="http://tmm1.net/ruby21-profiling/">Ruby 2.1</a> &ndash; Ruby 2.1: Profiling Ruby</li>
 <li><a href="http://papersplea.se">Papers, Please</a> &ndash; have some spare time during the holidays? play Papers, please!</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
-    <link href="http://vienna-rb.at/blog/2013/12/18/picks/"/>
-    <updated>2013-12-18T10:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2013/12/18/picks</id>
-    <content type="html"><![CDATA[<h3>18/12 Picks!!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the thirty-fourth edition:</p>
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://www.indiegogo.com/projects/open-source-programming-book-for-kids">Open Source Programming Book for Kids</a> &ndash; because awesome.</li>
-<li><a href="http://blog.teamtreehouse.com/learn-front-end-frameworks-treehouse">Learn CSS Frameworks on Treehouse</a> &ndash; ain&rsquo;t nobody got time for plain CSS these days.</li>
-<li><a href="http://robm.me.uk/2013/12/13/decoding-almost-sinatra.html">Decoding &ldquo;Almost Sinatra&rdquo;</a> &ndash; Remember Herr Haase bringing Sinatra down to a mere 7 lines of code? Let&rsquo;s take a closer look!</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="http://konichiwaruby.tumblr.com">Hello Ruby</a> &ndash; A very special Advent calendar by Linda Liukas.</li>
-<li><a href="http://spacecalnyc.com">SpaceCalNYC</a> &ndash; Space! A nice app that plots every object observed by NASA&rsquo;s space-based telescopes.</li>
-<li><a href="http://www.youtube.com/watch?v=v0EsVMAyZdI">How To Not Be An Expert</a> &ndash; Jen Myers&#8217; talk at the GitHub Passion Projects</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
-
-<ul>
-<li><a href="http://podcasts.thoughtbot.com/giantrobots">Thoughtbot Podcast</a> &ndash; GIANT ROBOTS SMASHING INTO OTHER GIANT ROBOTS PODCAST</li>
-<li><a href="http://tympanus.net/Development/ProgressButtonStyles/">Progress Button Styles</a> &ndash; Creative effects for loading buttons</li>
-<li><a href="https://medium.com/p/179cfd8238ac">How I Built Emojitracker</a> &ndash; Adventures in Unicode, Real-time Streaming, and Media Culture</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
-
-<ul>
-<li><a href="http://www.youtube.com/watch?v=1-vcErOPofQ">Grace Hopper</a> on Lettermann</li>
-<li><a href="https://github.com/MarkDunne/33-questions">33 questions</a> &ndash; find questions which identify everyone on this planet</li>
-<li><a href="http://www.youtube.com/watch?v=jSlwuafyUUo">Guy Kawasaki</a> &ldquo;The Art of the Start&rdquo;</li>
 </ul>
 
 ]]></content>

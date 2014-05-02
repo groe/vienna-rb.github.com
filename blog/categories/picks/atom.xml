@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-04-30T14:34:10+00:00</updated>
+  <updated>2014-05-02T14:09:05+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/04/30/picks/"/>
+    <updated>2014-04-30T10:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/04/30/picks</id>
+    <content type="html"><![CDATA[<h3>30/04 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the fifty-third edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://alicetragedy.github.io/hack-spots">Austria Hack Spots</a> &ndash; A map of cool places to hack &amp; work in Austria. Feel free to contribute!</li>
+<li><a href="https://github.com/plexus/slippery">Slippery</a> &ndash; Make presentations with Markdown</li>
+<li><a href="https://github.com/tiimgreen/github-cheat-sheet">GitHub Cheatsheet</a> &ndash; Hidden and not-so-hidden features</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
+
+<ul>
+<li><a href="http://insideintercom.io/how-we-design-at-intercom/">Design at Intercom</a> &ndash; Decide what to build and how</li>
+<li><a href="http://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/">Spotify engineering culture</a> &ndash; Part 1 of a Podcast about Spotify&rsquo;s engineering culture.</li>
+<li><a href="http://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/">Bash Scripting</a> &ndash; Tips and tricks about better bash scripting</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -163,43 +193,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://lucaguidi.com/2014/03/27/thread-safety-with-ruby.html">Thread safety with Ruby</a> &ndash; thread safety with ruby, about data mutability and difficult synchronization.</li>
 <li><a href="http://www.zx2c4.com/projects/password-store/">Pass</a> &ndash; A Unix password manager with a new CLI interface</li>
 <li><a href="http://fabiensanglard.net/git_code_review/index.php">Git Review</a> &ndash; A Review of the Git source code</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/03/26/picks/"/>
-    <updated>2014-03-26T10:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/03/26/picks</id>
-    <content type="html"><![CDATA[<h3>26/03 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the forty-eighth edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/bfontaine/term2048">term2048</a> &ndash; play 2048 in your terminal.</li>
-<li><a href="http://flukeout.github.io">CSS Diner</a> &ndash; practice your css selectors</li>
-<li><a href="http://www.confreaks.com/videos/2600-lonestarruby2013-keynote-hacking-passion">Hacking Passion</a> &ndash; Katrina Owen&rsquo;s Lone Star Ruby 2013 Keynote</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
-
-<ul>
-<li><a href="https://twitter.com/alexandertacho/status/448873171174051840/photo/1">What I did the last days.</a> &ndash; All the news I have: I am skiing :)</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
-
-<ul>
-<li><a href="http://fabiokung.com/2014/03/13/memory-inside-linux-containers/">Memory inside Linux containers</a> &ndash; Or why don’t free and top work in a Linux container?</li>
-<li><a href="http://martinfowler.com/articles/microservices.html">Microservice Architecture</a></li>
-<li><a href="http://firstround.com/article/Facebook-VP-of-Engineering-on-Solving-Hard-Things-Early">Solving Hard Things Early</a> Facebook VP of Engineering on Solving Hard Things Early</li>
 </ul>
 
 ]]></content>
