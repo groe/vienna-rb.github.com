@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-05-04T09:36:42+00:00</updated>
+  <updated>2014-05-06T16:18:00+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -151,7 +151,7 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
 
 <ul>
-<li><a href="http://www.youtube.com/watch?v=bV2m8eBeuu0">HyperLogLog</a> Craig Kerstiens: Scalable Uniques in Postgres</li>
+<li><a href="http://www.youtube.com/watch?v=bV2m8eBeuu0">HyperLogLog</a> &ndash; Craig Kerstiens: Scalable Uniques in Postgres</li>
 <li><a href="http://serversforhackers.com/articles/2014/03/20/getting-started-with-docker/">Docker</a> &ndash; Getting Started with Docker</li>
 <li><a href="https://keen.io/blog/53958349217/analytics-for-hackers-how-to-think-about-event-data">Analytics</a> &ndash; Analytics for hackers: How to think about event data</li>
 </ul>
