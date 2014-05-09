@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-05-09T12:44:25+00:00</updated>
+  <updated>2014-05-09T13:00:05+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,54 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/05/07/picks/"/>
+    <updated>2014-05-07T10:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/05/07/picks</id>
+    <content type="html"><![CDATA[<h3>07/05 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the fifty-fourth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://jeet.gs">Jeet</a> &ndash; A grid system for humans</li>
+<li><a href="https://coveralls.io">Coveralls</a> &ndash; Track your code coverage over time</li>
+<li><a href="http://btmills.github.io/geopattern/geopattern.html">More Geopattern</a> &ndash; Live demo of geopattern done with JavaScript</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
+
+<ul>
+<li><a href=""></a> &ndash;</li>
+<li><a href=""></a> &ndash;</li>
+<li><a href=""></a> &ndash;</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
+
+<ul>
+<li><a href=""></a> &ndash;</li>
+<li><a href=""></a> &ndash;</li>
+<li><a href=""></a> &ndash;</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
+
+<ul>
+<li><a href="http://blog.8thlight.com/uncle-bob/2014/04/30/When-tdd-does-not-work.html">When TDD doesn&rsquo;t work.</a> &ndash; Opinionated piece by Robert &ldquo;Uncle Bob&rdquo; Martin.</li>
+<li><a href="https://www.youtube.com/watch?v=tg5RFeSfBM4">Jim Weirich on Decoupling from Rails</a> &ndash; A brilliant mind talks neatly about a tough topic.</li>
+<li><a href="http://martinfowler.com/bliki/SelfTestingCode.html">SelfTestingCode</a> &ndash; Martin Fowler about a different approach (not TDD!).</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -154,45 +202,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://www.youtube.com/watch?v=bV2m8eBeuu0">HyperLogLog</a> &ndash; Craig Kerstiens: Scalable Uniques in Postgres</li>
 <li><a href="http://serversforhackers.com/articles/2014/03/20/getting-started-with-docker/">Docker</a> &ndash; Getting Started with Docker</li>
 <li><a href="https://keen.io/blog/53958349217/analytics-for-hackers-how-to-think-about-event-data">Analytics</a> &ndash; Analytics for hackers: How to think about event data</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/04/02/picks/"/>
-    <updated>2014-04-02T10:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/04/02/picks</id>
-    <content type="html"><![CDATA[<h3>02/04 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the forty-ninth edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="http://www.lookingforpullrequests.com">Looking for pull requests</a> &ndash; Contributing to projects, one pull request at a time</li>
-<li><a href="http://www.dontfeartheinternet.com">Don&rsquo;t fear the internet</a> &ndash; Basic HTML&amp;CSS for non-web designers</li>
-<li><a href="https://github.com/ap/vim-css-color">Vim-CSS-Color</a> &ndash; Highlight colors in CSS files</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
-
-<ul>
-<li><a href="http://brandonhilkert.com/blog/how-to-build-a-rails-engine/">How to build a rails engine</a> &ndash; Brandon Hilkert&rsquo;s final post leading up the the launch of the Build a Ruby Gem Ebook.</li>
-<li><a href="http://wtfhtmlcss.com/">WTF, HTML and CSS?</a> &ndash; Reasons HTML and CSS might make you say what the fuck.</li>
-<li><a href="http://linuxwell.com/2014/03/30/tco/">tco gem</a> &ndash; Terminal colours made simple</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
-
-<ul>
-<li><a href="http://lucaguidi.com/2014/03/27/thread-safety-with-ruby.html">Thread safety with Ruby</a> &ndash; thread safety with ruby, about data mutability and difficult synchronization.</li>
-<li><a href="http://www.zx2c4.com/projects/password-store/">Pass</a> &ndash; A Unix password manager with a new CLI interface</li>
-<li><a href="http://fabiensanglard.net/git_code_review/index.php">Git Review</a> &ndash; A Review of the Git source code</li>
 </ul>
 
 ]]></content>

@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-05-09T12:44:25+00:00</updated>
+  <updated>2014-05-09T13:00:05+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,54 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/05/07/picks/"/>
+    <updated>2014-05-07T10:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/05/07/picks</id>
+    <content type="html"><![CDATA[<h3>07/05 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the fifty-fourth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://jeet.gs">Jeet</a> &ndash; A grid system for humans</li>
+<li><a href="https://coveralls.io">Coveralls</a> &ndash; Track your code coverage over time</li>
+<li><a href="http://btmills.github.io/geopattern/geopattern.html">More Geopattern</a> &ndash; Live demo of geopattern done with JavaScript</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
+
+<ul>
+<li><a href=""></a> &ndash;</li>
+<li><a href=""></a> &ndash;</li>
+<li><a href=""></a> &ndash;</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
+
+<ul>
+<li><a href=""></a> &ndash;</li>
+<li><a href=""></a> &ndash;</li>
+<li><a href=""></a> &ndash;</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
+
+<ul>
+<li><a href="http://blog.8thlight.com/uncle-bob/2014/04/30/When-tdd-does-not-work.html">When TDD doesn&rsquo;t work.</a> &ndash; Opinionated piece by Robert &ldquo;Uncle Bob&rdquo; Martin.</li>
+<li><a href="https://www.youtube.com/watch?v=tg5RFeSfBM4">Jim Weirich on Decoupling from Rails</a> &ndash; A brilliant mind talks neatly about a tough topic.</li>
+<li><a href="http://martinfowler.com/bliki/SelfTestingCode.html">SelfTestingCode</a> &ndash; Martin Fowler about a different approach (not TDD!).</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
@@ -773,43 +821,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://researcher.watson.ibm.com/researcher/files/jp-ODAIRA/PPoPP2014_RubyGILHTM.pdf">Removing the GIL in Ruby</a> &ndash; Eliminating Global Interpreter Locks in Ruby through Hardware Transactional Memory</li>
 <li><a href="http://tmm1.net/ruby21-rgengc/">Ruby 2.1 Garbe Collectors</a> &ndash; nice write up of the changes in Ruby 2.1</li>
 <li><a href="http://www.catb.org/esr/structure-packing/">The Lost Art of C Structure Packing</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
-    <link href="http://vienna-rb.at/blog/2013/12/25/picks/"/>
-    <updated>2013-12-25T10:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2013/12/25/picks</id>
-    <content type="html"><![CDATA[<h3>25/12 Picks Happy Christmas Everyone!!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the thirty-fifth edition:</p>
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://codepo8.github.io/CSS3-Rainbow-Dividers/">from .meh to .fabulous</a> &ndash; OMG RAINBOW DIVIDERS IN CSS! (by the awesome, Chris Heilmann and Lea Verou)</li>
-<li><a href="http://briangonzalez.github.io/jquery.adaptive-backgrounds.js">adaptive backgrounds</a> &ndash; Extract dominant colors from images and applying it to its parent.</li>
-<li><a href="http://www.codecademy.com/courses/web-beginner-en-bay3D/0/1">Codecademy &ndash; jQuery</a> &ndash; I intend to become a jQuery MASTER over Christmas.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
-
-<ul>
-<li><a href="http://podcasts.thoughtbot.com/giantrobots">Thoughtbot Podcast</a> &ndash; GIANT ROBOTS SMASHING INTO OTHER GIANT ROBOTS PODCAST</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/explore">GitHub Explore</a> &ndash; subscribe to the newsletter to stay up to date on GitHub</li>
-<li><a href="http://tmm1.net/ruby21-profiling/">Ruby 2.1</a> &ndash; Ruby 2.1: Profiling Ruby</li>
-<li><a href="http://papersplea.se">Papers, Please</a> &ndash; have some spare time during the holidays? play Papers, please!</li>
 </ul>
 
 ]]></content>
