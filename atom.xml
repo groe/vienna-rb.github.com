@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-05-15T12:06:16+00:00</updated>
+  <updated>2014-05-16T10:01:57+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/05/14/picks/"/>
+    <updated>2014-05-14T10:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/05/14/picks</id>
+    <content type="html"><![CDATA[<h3>14/05 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the fifty-fifth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/euruject/euruject">Euruject</a> &ndash; For anyone who has ever felt rejected by Eurucamp ;)</li>
+<li><a href="https://gist.github.com/jimbojsb/1630790">Highlight</a> &ndash; Code highlighting for Keynote presentations</li>
+<li><a href="http://blog.nicoschuele.com/posts/cheatsheet-to-set-app-wide-date-and-time-formats-in-rails">Date/Time format cheatsheet</a> &ndash; Get that date and time formatting syntax right, once and for all.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
+
+<ul>
+<li><a href="https://plus.google.com/events/ci2g23mk0lh9too9bgbp3rbut0k">Is TDD dead</a> &ndash; Discussing about TDD with DHH, Kent Beck, and Martin Fowler.</li>
+<li><a href="http://insideintercom.io/where-do-you-suck-where-does-it-matter/">Product Roadmap</a> &ndash; How to define a Product Roadmap.</li>
+<li><a href="https://ankane.github.io/ahoy/">Ahoy</a> &ndash; Simple, powerful analytics for Rails</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
@@ -764,45 +794,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://martinfowler.com/bliki/BranchByAbstraction.html">Martin Fowler: Branch by Abstraction</a> &ndash; Make a large-scale change while releasing regularily.</li>
 <li><a href="http://feelings-erased.blogspot.co.at/2014/01/mocks-are-breaking-encapsulation-heres.html">Mocks are &ldquo;breaking encapsulation&rdquo;</a> &ndash; Grzegorz Gałęzowski disagrees with his notions (and I agree with him).</li>
 <li><a href="http://blog.8thlight.com/uncle-bob/2013/12/10/Thankyou-Kent.html">Extreme Programming, a Reflection</a> &ndash; Uncle Bob Martin gives a lot of nostalgia a reality check. We&rsquo;ve come far!</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/01/01/picks/"/>
-    <updated>2014-01-01T10:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/01/01/picks</id>
-    <content type="html"><![CDATA[<h3>01/01 yesterdays picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the thirty-sixth edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="http://creativemornings.com/talks/michael-bierut/1">Let&rsquo;s Talk About Clients</a> &ndash; Oldie but Goldie: Michael Bierut&rsquo;s talk at the NYC Creative Mornings</li>
-<li><a href="http://danielchoi.com/software/vmail.html">Vmail</a> &ndash; A Vim Interface to Gmail</li>
-<li><a href="https://medium.com/p/e034a09248c1">Girls haven&rsquo;t been hacking for the last 10 years</a> &ndash; A good article focusing on the heart of the problem</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
-
-<ul>
-<li><a href="http://tympanus.net/Development/SVGDrawingAnimation/">SVG Drawing Animation</a> &ndash; Line drawing animation with illustration fade-in</li>
-<li><a href="http://blog.obiefernandez.com/content/2013/11/hamls-little-known-list_of-helper.html">Haml&rsquo;s little-known list_of helper</a> &ndash; The list_of method will iterate and yield the results of the block into sequential list elements.</li>
-<li><a href="http://emilebosch.github.io/polybox/">Polybox</a> &ndash; A combo of Docker and Vagrant to make full dev environments easily available. Prestocked with boxes for Rails 4, Django, Go, Haskell, and Nodejs.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
-
-<ul>
-<li><a href="http://researcher.watson.ibm.com/researcher/files/jp-ODAIRA/PPoPP2014_RubyGILHTM.pdf">Removing the GIL in Ruby</a> &ndash; Eliminating Global Interpreter Locks in Ruby through Hardware Transactional Memory</li>
-<li><a href="http://tmm1.net/ruby21-rgengc/">Ruby 2.1 Garbe Collectors</a> &ndash; nice write up of the changes in Ruby 2.1</li>
-<li><a href="http://www.catb.org/esr/structure-packing/">The Lost Art of C Structure Packing</a></li>
 </ul>
 
 ]]></content>

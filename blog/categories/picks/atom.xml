@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-05-15T12:06:16+00:00</updated>
+  <updated>2014-05-16T10:01:57+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/05/14/picks/"/>
+    <updated>2014-05-14T10:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/05/14/picks</id>
+    <content type="html"><![CDATA[<h3>14/05 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the fifty-fifth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/euruject/euruject">Euruject</a> &ndash; For anyone who has ever felt rejected by Eurucamp ;)</li>
+<li><a href="https://gist.github.com/jimbojsb/1630790">Highlight</a> &ndash; Code highlighting for Keynote presentations</li>
+<li><a href="http://blog.nicoschuele.com/posts/cheatsheet-to-set-app-wide-date-and-time-formats-in-rails">Date/Time format cheatsheet</a> &ndash; Get that date and time formatting syntax right, once and for all.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
+
+<ul>
+<li><a href="https://plus.google.com/events/ci2g23mk0lh9too9bgbp3rbut0k">Is TDD dead</a> &ndash; Discussing about TDD with DHH, Kent Beck, and Martin Fowler.</li>
+<li><a href="http://insideintercom.io/where-do-you-suck-where-does-it-matter/">Product Roadmap</a> &ndash; How to define a Product Roadmap.</li>
+<li><a href="https://ankane.github.io/ahoy/">Ahoy</a> &ndash; Simple, powerful analytics for Rails</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -145,45 +175,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://weblog.rubyonrails.org/2014/4/8/Rails-4-1/">Rails</a> &ndash; Rails 4.1 just got released</li>
 <li><a href="http://dev.mensfeld.pl/2014/03/rack-argument-error-invalid-byte-sequence-in-utf-8/">UTF-8</a> &ndash; fixing Rails' ArgumentError: invalid byte sequence in UTF-8 forever</li>
 <li><a href="http://www.integralist.co.uk/posts/refactoring-techniques/">Refactoring</a> &ndash; Refactoring Techniques</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/04/09/picks/"/>
-    <updated>2014-04-09T10:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/04/09/picks</id>
-    <content type="html"><![CDATA[<h3>09/04 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the fiftieth edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="https://guides.github.com/overviews/os-contributing">Contributing to Open Source</a> &ndash; A small GitHub guide</li>
-<li><a href="http://durdn.com/blog/2012/11/22/must-have-git-aliases-advanced-examples/">Must-have Git aliases</a> &ndash; Some advanced examples</li>
-<li><a href="http://alistapart.com/article/offline-first">Offline First</a> &ndash; An article on designing offline-first web apps</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
-
-<ul>
-<li><a href="http://ericbrooke.wordpress.com/2014/03/30/visual-overview-of-ruby-on-rails/">Rails 4 overview</a> &ndash; Visual overview of Ruby on Rails 4</li>
-<li><a href="http://www.kavinder.com/blog/2014-04-06-gkg-workflow/">Workflow gem</a> &ndash; A finite state machine library.</li>
-<li><a href="http://www.mikeperham.com/2014/03/28/sidekiq-3-0/">Sidekiq 3.0!</a> &ndash; Sidekiq 3.0 is out.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
-
-<ul>
-<li><a href="http://www.youtube.com/watch?v=bV2m8eBeuu0">HyperLogLog</a> &ndash; Craig Kerstiens: Scalable Uniques in Postgres</li>
-<li><a href="http://serversforhackers.com/articles/2014/03/20/getting-started-with-docker/">Docker</a> &ndash; Getting Started with Docker</li>
-<li><a href="https://keen.io/blog/53958349217/analytics-for-hackers-how-to-think-about-event-data">Analytics</a> &ndash; Analytics for hackers: How to think about event data</li>
 </ul>
 
 ]]></content>
