@@ -4,7 +4,7 @@
   <title><![CDATA[Category: meetup | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/meetup/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-05-24T15:38:25+00:00</updated>
+  <updated>2014-05-30T10:24:27-04:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[The slides of our fifth meetup are online]]></title>
     <link href="http://vienna-rb.at/blog/2013/07/19/slides-fifth-meetup/"/>
-    <updated>2013-07-19T14:00:00+00:00</updated>
+    <updated>2013-07-19T14:00:00-04:00</updated>
     <id>http://vienna-rb.at/blog/2013/07/19/slides-fifth-meetup</id>
     <content type="html"><![CDATA[<h2>That escalated quickly&hellip;</h2>
 
@@ -37,7 +37,7 @@
   <entry>
     <title type="html"><![CDATA[Fifth meetup is Testing and Continuous Deployment themed]]></title>
     <link href="http://vienna-rb.at/blog/2013/06/20/fifth-meetup-sponsored-by-codeship/"/>
-    <updated>2013-06-20T12:00:00+00:00</updated>
+    <updated>2013-06-20T12:00:00-04:00</updated>
     <id>http://vienna-rb.at/blog/2013/06/20/fifth-meetup-sponsored-by-codeship</id>
     <content type="html"><![CDATA[<h3>Codeship.io sponsors vienna.rb user group get-together</h3>
 
@@ -57,7 +57,7 @@
   <entry>
     <title type="html"><![CDATA[The slides of our fourth meetup are online]]></title>
     <link href="http://vienna-rb.at/blog/2013/06/07/slides-4th-meetup-online/"/>
-    <updated>2013-06-07T14:00:00+00:00</updated>
+    <updated>2013-06-07T14:00:00-04:00</updated>
     <id>http://vienna-rb.at/blog/2013/06/07/slides-4th-meetup-online</id>
     <content type="html"><![CDATA[<h2>Brace yourselves, the slides are coming</h2>
 
@@ -76,7 +76,7 @@
   <entry>
     <title type="html"><![CDATA[The slides of our third meetup are online]]></title>
     <link href="http://vienna-rb.at/blog/2013/05/10/the-slides-are-online/"/>
-    <updated>2013-05-10T11:00:00+00:00</updated>
+    <updated>2013-05-10T11:00:00-04:00</updated>
     <id>http://vienna-rb.at/blog/2013/05/10/the-slides-are-online</id>
     <content type="html"><![CDATA[<h2>ALL the slides</h2>
 
@@ -95,7 +95,7 @@
   <entry>
     <title type="html"><![CDATA[Third meetup sponsored by Runtastic]]></title>
     <link href="http://vienna-rb.at/blog/2013/05/06/third-meetup-to-take-place-at-co-working-space-sektor5/"/>
-    <updated>2013-05-06T19:00:00+00:00</updated>
+    <updated>2013-05-06T19:00:00-04:00</updated>
     <id>http://vienna-rb.at/blog/2013/05/06/third-meetup-to-take-place-at-co-working-space-sektor5</id>
     <content type="html"><![CDATA[<h3>Ruby on Rails user group meetup taking place at Sektor5</h3>
 
