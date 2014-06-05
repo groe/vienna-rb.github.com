@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-06-05T08:16:43+00:00</updated>
+  <updated>2014-06-05T08:17:56+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,53 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/06/04/picks/"/>
+    <updated>2014-06-04T20:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/06/04/picks</id>
+    <content type="html"><![CDATA[<h3>28/05 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the fifty-eighth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://markdown.chibi.io">Markdown Cheatsheet</a> &ndash; An intuitive Markdown Cheatsheet</li>
+<li><a href="http://trivelop.de/inch">Inch</a> &ndash; A command-line tool that helps you improve your project&rsquo;s documentation</li>
+<li><a href="https://www.youtube.com/watch?v=8bZh5LMaSmE">All the little things</a> &ndash; Sandi Metz' talk from RailsConf 2014</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
+
+<ul>
+<li><a href="http://blog.groupbuddies.com/posts/37-random-and-probably-useless-rubyisms">Random (and probably useless) Rubyisms</a> &ndash; Miguel Palhas about some not-so-well-known ruby features.</li>
+<li><a href="https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc">Octotree</a> &ndash; Nice little Chrome extension that let&rsquo;s you display GitHub code in tree format.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
+
+<ul>
+<li><a href=""></a> &ndash;</li>
+<li><a href=""></a> &ndash;</li>
+<li><a href=""></a> &ndash;</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
+
+<ul>
+<li><a href="http://www.toptal.com/ruby-on-rails/top-10-mistakes-that-rails-programmers-make">10 most common rails mistakes</a> &ndash; 10 Most Common Mistakes that Rails Programmers Make</li>
+<li><a href="http://googleonlinesecurity.blogspot.de/2014/06/making-end-to-end-encryption-easier-to.html">End-to-end Encryption in GMail/Chrome</a> &ndash; Making end-to-end encryption easier to use</li>
+<li><a href="http://imgur.com/dOLkgVR">Stackoverflow done right?</a> &ndash; A simple pattern for <em>every</em> Stackoverflow thread (bwahaha)</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -128,44 +175,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://insideintercom.io/how-we-design-at-intercom/">Design at Intercom</a> &ndash; Decide what to build and how</li>
 <li><a href="http://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/">Spotify engineering culture</a> &ndash; Part 1 of a Podcast about Spotify&rsquo;s engineering culture.</li>
 <li><a href="http://robertmuth.blogspot.ch/2012/08/better-bash-scripting-in-15-minutes.html">Bash Scripting</a> &ndash; Tips and tricks about better bash scripting</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/04/23/picks/"/>
-    <updated>2014-04-23T10:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/04/23/picks</id>
-    <content type="html"><![CDATA[<h3>23/04 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the fifty-second edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="http://mislav.uniqpath.com/2014/02/hidden-documentation/">Every line of code is always documented</a> &ndash; a look at project history and what makes a good commit message</li>
-<li><a href="https://github.com/jasonlong/geo_pattern">Geo_pattern</a> &ndash; Create generative background images from a string</li>
-<li><a href="http://hood.ie">Hood.ie</a> &ndash; Offline first: very fast web app development</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
-
-<ul>
-<li><a href="http://www.atmos.org/speaking.html">Shipping at GitHub</a> &ndash; Shipping at the Speed of Life</li>
-<li><a href="http://invoicing.codemancers.com/">Invoicing</a> &ndash; Ruby Invoicing Framework</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
-
-<ul>
-<li><a href="https://rails-assets.org/">Rails Assets</a> &ndash; Bothered by bower and co? Use this.</li>
-<li><a href="http://googlegeodevelopers.blogspot.co.at/2014/03/adding-new-google-maps-to-your-website.html">New Google Maps Embed</a> &ndash; Stuff just got easier.</li>
-<li><a href="http://michael.otacoo.com/postgresql-2/postgres-9-4-feature-highlight-replication-slots/">PostgreSQL 9.4 Feature Highlight</a> &ndash; Physical slots for replication. Pro stuff, very exciting.</li>
 </ul>
 
 ]]></content>

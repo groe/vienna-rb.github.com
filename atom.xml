@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-06-05T08:16:43+00:00</updated>
+  <updated>2014-06-05T08:17:56+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,53 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/06/04/picks/"/>
+    <updated>2014-06-04T20:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/06/04/picks</id>
+    <content type="html"><![CDATA[<h3>28/05 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the fifty-eighth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://markdown.chibi.io">Markdown Cheatsheet</a> &ndash; An intuitive Markdown Cheatsheet</li>
+<li><a href="http://trivelop.de/inch">Inch</a> &ndash; A command-line tool that helps you improve your project&rsquo;s documentation</li>
+<li><a href="https://www.youtube.com/watch?v=8bZh5LMaSmE">All the little things</a> &ndash; Sandi Metz&#8217; talk from RailsConf 2014</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
+
+<ul>
+<li><a href="http://blog.groupbuddies.com/posts/37-random-and-probably-useless-rubyisms">Random (and probably useless) Rubyisms</a> &ndash; Miguel Palhas about some not-so-well-known ruby features.</li>
+<li><a href="https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc">Octotree</a> &ndash; Nice little Chrome extension that let&rsquo;s you display GitHub code in tree format.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
+
+<ul>
+<li><a href=""></a> &ndash;</li>
+<li><a href=""></a> &ndash;</li>
+<li><a href=""></a> &ndash;</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
+
+<ul>
+<li><a href="http://www.toptal.com/ruby-on-rails/top-10-mistakes-that-rails-programmers-make">10 most common rails mistakes</a> &ndash; 10 Most Common Mistakes that Rails Programmers Make</li>
+<li><a href="http://googleonlinesecurity.blogspot.de/2014/06/making-end-to-end-encryption-easier-to.html">End-to-end Encryption in GMail/Chrome</a> &ndash; Making end-to-end encryption easier to use</li>
+<li><a href="http://imgur.com/dOLkgVR">Stackoverflow done right?</a> &ndash; A simple pattern for <em>every</em> Stackoverflow thread (bwahaha)</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
@@ -730,53 +777,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://www.networkworld.com/subnets/opensource/031010-convince-boss-to-use-open-source-opensource-subnet.html">How to</a> &ndash; Convince Your Manager to Use Open Source Software</li>
 <li><a href="https://lists.debian.org/debian-devel-announce/2014/01/msg00006.html">Valve games for Debian Developers</a> &ndash; Open Source Pays Back</li>
 <li><a href="https://github.com/fre5h/DoctrineEnumBundle/pull/12#issuecomment-33076691">The world is watching via unusual channels, too</a> &ndash; Good Luck, Ukraine!</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/01/15/picks/"/>
-    <updated>2014-01-15T10:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/01/15/picks</id>
-    <content type="html"><![CDATA[<h3>15/01 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the thirty-eighth edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/veltman/clmystery">The Command Line Murders</a> &ndash; A command-line murder mystery. How cool is that?</li>
-<li><a href="http://speaking.io/">Speaking.io</a> &ndash; Thoughts on public speaking by GitHub&rsquo;s Zach Holman</li>
-<li><a href="https://github.com/rcorral/github-stargazers/">GitHub Stargazers</a> &ndash; making your stargazers twinkle!</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
-
-<ul>
-<li><a href="http://monkeyandcrow.com/blog/reading_rails_concern/">Rails Concern</a> &ndash; Understanding how &lsquo;Concern&rsquo; works will help you better understand how Ruby&rsquo;s &lsquo;Module&rsquo; works.</li>
-<li><a href="https://github.com/appfolio/gemsurance">Gemsurance</a> &ndash; Gemsurance is a tool for monitoring if any of your Ruby Gems are out-of-date or vulnerable.</li>
-<li><a href="http://insideintercom.io/using-job-stories-design-features-ui-ux/">Job Stories</a> &ndash; Designing features using job stories.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
-
-<ul>
-<li><a href="http://myronmars.to/n/dev-blog/2014/01/new-in-rspec-3-composable-matchers">RSpec Matchers</a> &ndash; Composable Matchers in RSpec 3</li>
-<li><a href="http://walpurgisriot.github.io/blog/2013/12/18/ruby-syntax-trivia.html">Ruby Syntax Trivia</a> &ndash; Neat little Ruby tricks</li>
-<li><a href="http://security.stackexchange.com/questions/20803/how-does-ssl-work">How does SSL work?</a> &ndash; What every developer should know about SSL.</li>
-</ul>
-
-
-<h5><a href="https://www.twitter.com/tony_xpro">Tony</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/citizen428/try_to">try_to</a> &ndash; Sophisticated, configurable error handling that can be used instead of Object#try.</li>
-<li><a href="http://www.benjaminfleischer.com/2013/07/12/make-the-world-a-better-place-put-a-license-in-your-gemspec/">&ldquo;Make the world a better place&rdquo;</a> &ndash; &hellip; put a license in your gemspec.</li>
 </ul>
 
 ]]></content>
