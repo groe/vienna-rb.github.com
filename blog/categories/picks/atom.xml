@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-06-17T14:19:37+00:00</updated>
+  <updated>2014-06-20T07:32:24+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/06/18/picks/"/>
+    <updated>2014-06-18T20:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/06/18/picks</id>
+    <content type="html"><![CDATA[<h3>18/06 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the fifty-ninth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://ngrok.com">Ngrok</a> &ndash; Easily expose a local web server to the internet</li>
+<li><a href="https://github.com/blog/1847-locking-conversations">Locking conversations on GitHub</a> &ndash; Make the conversation on an issue or pull request collaborator-only.</li>
+</ul>
+
+
+<h5>Guest picks by <a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/cburgdorf/Floor">Floor</a> &ndash; of course I need to mention this &lsquo;simple and lightweight foundation for web applications written in Rust&rsquo;.</li>
+<li><a href="http://rustbyexample.com/hello.html">Learn Rust</a> &ndash; &hellip; now WITH live editor and everything.</li>
+<li><a href="http://octicons.github.com/">octicons</a> &ndash; GitHub open sourced their icon font. Move over font awesome!</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -136,36 +165,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://blog.8thlight.com/uncle-bob/2014/04/30/When-tdd-does-not-work.html">When TDD doesn&rsquo;t work.</a> &ndash; Opinionated piece by Robert &ldquo;Uncle Bob&rdquo; Martin.</li>
 <li><a href="https://www.youtube.com/watch?v=tg5RFeSfBM4">Jim Weirich on Decoupling from Rails</a> &ndash; A brilliant mind talks neatly about a tough topic.</li>
 <li><a href="http://martinfowler.com/bliki/SelfTestingCode.html">SelfTestingCode</a> &ndash; Martin Fowler about a different approach (not TDD!).</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/04/30/picks/"/>
-    <updated>2014-04-30T10:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/04/30/picks</id>
-    <content type="html"><![CDATA[<h3>30/04 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the fifty-third edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="http://alicetragedy.github.io/hack-spots">Austria Hack Spots</a> &ndash; A map of cool places to hack &amp; work in Austria. Feel free to contribute!</li>
-<li><a href="https://github.com/plexus/slippery">Slippery</a> &ndash; Make presentations with Markdown</li>
-<li><a href="https://github.com/tiimgreen/github-cheat-sheet">GitHub Cheatsheet</a> &ndash; Hidden and not-so-hidden features</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
-
-<ul>
-<li><a href="http://insideintercom.io/how-we-design-at-intercom/">Design at Intercom</a> &ndash; Decide what to build and how</li>
-<li><a href="http://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/">Spotify engineering culture</a> &ndash; Part 1 of a Podcast about Spotify&rsquo;s engineering culture.</li>
-<li><a href="http://robertmuth.blogspot.ch/2012/08/better-bash-scripting-in-15-minutes.html">Bash Scripting</a> &ndash; Tips and tricks about better bash scripting</li>
 </ul>
 
 ]]></content>

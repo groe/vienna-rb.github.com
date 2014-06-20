@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-06-17T14:19:37+00:00</updated>
+  <updated>2014-06-20T07:32:24+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/06/18/picks/"/>
+    <updated>2014-06-18T20:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/06/18/picks</id>
+    <content type="html"><![CDATA[<h3>18/06 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the fifty-ninth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://ngrok.com">Ngrok</a> &ndash; Easily expose a local web server to the internet</li>
+<li><a href="https://github.com/blog/1847-locking-conversations">Locking conversations on GitHub</a> &ndash; Make the conversation on an issue or pull request collaborator-only.</li>
+</ul>
+
+
+<h5>Guest picks by <a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/cburgdorf/Floor">Floor</a> &ndash; of course I need to mention this &lsquo;simple and lightweight foundation for web applications written in Rust&rsquo;.</li>
+<li><a href="http://rustbyexample.com/hello.html">Learn Rust</a> &ndash; &hellip; now WITH live editor and everything.</li>
+<li><a href="http://octicons.github.com/">octicons</a> &ndash; GitHub open sourced their icon font. Move over font awesome!</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
@@ -730,44 +759,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://www.showterm.io/">$://showterm</a> &ndash; Record Terminal Sessions! And it&rsquo;s in Ruby, too!</li>
 <li><a href="http://odetocode.com/blogs/scott/archive/2014/01/27/of-orcs-and-software-craftsmanship.aspx">Of Orcs and Software Craftsmanship</a> &ndash; XML parsing, a developer&rsquo;s view. Don&rsquo;t let the foreign language (=Java) discourage you!</li>
 <li><a href="http://www.tabletopday.com/">International Table Top Day</a> &ndash; Play More Games! (I admit, I am a fan)</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/01/22/picks/"/>
-    <updated>2014-01-22T10:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/01/22/picks</id>
-    <content type="html"><![CDATA[<h3>22/01 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the thirty-ninth edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="http://www.nerdydata.com">Nerdy Data</a> &ndash; A search engine for source code.</li>
-<li><a href="http://www.confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years">Architecture the Lost Years</a> &ndash; Uncle Bob&rsquo;s keynote from Ruby Midwest 2011.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
-
-<ul>
-<li><a href="http://collectiveidea.com/blog/archives/2014/01/21/mocking-html5-apis-using-phantomjs-extensions/">Mocking HTML5 API</a> &ndash; Mocking HTML5 geolocation API using PhantomJS extensions</li>
-<li><a href="https://github.com/elasticsearch/elasticsearch-rails">Elasticsearch</a> &ndash; ActiveModel, ActiveRecord and Ruby on Rails integrations for Elasticsearch</li>
-<li><a href="http://otobrglez.opalab.com/rails/2014/01/21/bower-rails-heroku.html">Bower and Rails</a> &ndash; Bower and Rails on Heroku and S3</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
-
-<ul>
-<li><a href="http://www.networkworld.com/subnets/opensource/031010-convince-boss-to-use-open-source-opensource-subnet.html">How to</a> &ndash; Convince Your Manager to Use Open Source Software</li>
-<li><a href="https://lists.debian.org/debian-devel-announce/2014/01/msg00006.html">Valve games for Debian Developers</a> &ndash; Open Source Pays Back</li>
-<li><a href="https://github.com/fre5h/DoctrineEnumBundle/pull/12#issuecomment-33076691">The world is watching via unusual channels, too</a> &ndash; Good Luck, Ukraine!</li>
 </ul>
 
 ]]></content>
