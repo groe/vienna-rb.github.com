@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-07-03T10:42:43+00:00</updated>
+  <updated>2014-07-06T18:17:19+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/07/02/picks/"/>
+    <updated>2014-07-02T20:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/07/02/picks</id>
+    <content type="html"><![CDATA[<h3>02/07 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the sixty-first edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://postgres-bits.herokuapp.com">Postgres Bits</a> &ndash; The bits you haven&rsquo;t found</li>
+<li><a href="http://viewsourcecode.org/why/">Why&rsquo;s Estate</a> &ndash; A list of everything that _why has published on the internet</li>
+<li><a href="http://keeprubyweird.com/">Keep Ruby Weird</a> &ndash; Sounds like an exciting concept for Austin&rsquo;s newest ruby conference..</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -134,36 +155,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://www.postgresql.org/about/news/1522/">PostgreSQL</a> &ndash; PostgreSQL 9.4 Beta 1 Released</li>
 <li><a href="http://brandonhilkert.com/blog/rails-4-1-travel-to-test-helper/">test against certain time</a> &ndash; NEW Rails 4.1 travel_to test helper</li>
 <li><a href="https://github.com/renderedtext/admin_view">admin_view</a> &ndash; Rails 4 generator of CRUD admin interfaces for existing models.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/05/14/picks/"/>
-    <updated>2014-05-14T10:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/05/14/picks</id>
-    <content type="html"><![CDATA[<h3>14/05 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the fifty-fifth edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/euruject/euruject">Euruject</a> &ndash; For anyone who has ever felt rejected by Eurucamp ;)</li>
-<li><a href="https://gist.github.com/jimbojsb/1630790">Highlight</a> &ndash; Code highlighting for Keynote presentations</li>
-<li><a href="http://blog.nicoschuele.com/posts/cheatsheet-to-set-app-wide-date-and-time-formats-in-rails">Date/Time format cheatsheet</a> &ndash; Get that date and time formatting syntax right, once and for all.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
-
-<ul>
-<li><a href="https://plus.google.com/events/ci2g23mk0lh9too9bgbp3rbut0k">Is TDD dead</a> &ndash; Discussing about TDD with DHH, Kent Beck, and Martin Fowler.</li>
-<li><a href="http://insideintercom.io/where-do-you-suck-where-does-it-matter/">Product Roadmap</a> &ndash; How to define a Product Roadmap.</li>
-<li><a href="https://ankane.github.io/ahoy/">Ahoy</a> &ndash; Simple, powerful analytics for Rails</li>
 </ul>
 
 ]]></content>
