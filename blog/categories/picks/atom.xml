@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-07-07T18:23:31+00:00</updated>
+  <updated>2014-07-10T09:37:38+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/07/09/picks/"/>
+    <updated>2014-07-09T20:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/07/09/picks</id>
+    <content type="html"><![CDATA[<h3>09/07 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the sixty-second edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/blog/1857-introducing-the-revert-button">Introducing the Revert button</a> &ndash; Easily revert a pull request on GitHub</li>
+<li><a href="https://www.youtube.com/watch?v=kR6P0GueyVA">Revolution OS</a> &ndash; An oldie but goldie: A documentary about the Open Source movement</li>
+<li><a href="http://pascalprecht.github.io/2014/03/18/why-i-use-vim/">Why I use vim</a> &ndash; a blog post by Pascal Precht</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
+
+<ul>
+<li><a href="http://firstround.com/article/Why-Yammer-believes-the-traditional-engineering-organizational-structure-is-dead">Team Structure</a> &ndash; Why Yammer Believes the Traditional Engineering Organizational Structure is Dead</li>
+<li><a href="https://github.com/wbailey/kata">Kata 1.6.1</a> &ndash; A language for describing and taking code katas</li>
+<li><a href="http://macdown.uranusjr.com/">MacDown</a> &ndash; MacDown is an open source Markdown editor for OS X</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -125,36 +155,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://www.toptal.com/ruby-on-rails/top-10-mistakes-that-rails-programmers-make">10 most common rails mistakes</a> &ndash; 10 Most Common Mistakes that Rails Programmers Make</li>
 <li><a href="http://googleonlinesecurity.blogspot.de/2014/06/making-end-to-end-encryption-easier-to.html">End-to-end Encryption in GMail/Chrome</a> &ndash; Making end-to-end encryption easier to use</li>
 <li><a href="http://imgur.com/dOLkgVR">Stackoverflow done right?</a> &ndash; A simple pattern for <em>every</em> Stackoverflow thread (bwahaha)</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/05/21/picks/"/>
-    <updated>2014-05-21T10:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/05/21/picks</id>
-    <content type="html"><![CDATA[<h3>21/05 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the fifty-sixth edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="http://thechangelog.com/regular-expressions-without-fear">Regular Expressions Without Fear</a> &ndash; A list of great resources put together by Beverly Nelson</li>
-<li><a href="https://github.com/hoodiehq/local-tld">Local TLD</a> &ndash; maintain a local development top level domain</li>
-<li><a href="http://leaverou.github.io/contrast-ratio">Contrast Ratio Tool</a> &ndash; Lea Verou&rsquo;s Contrast/Ratio Tool</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
-
-<ul>
-<li><a href="http://www.postgresql.org/about/news/1522/">PostgreSQL</a> &ndash; PostgreSQL 9.4 Beta 1 Released</li>
-<li><a href="http://brandonhilkert.com/blog/rails-4-1-travel-to-test-helper/">test against certain time</a> &ndash; NEW Rails 4.1 travel_to test helper</li>
-<li><a href="https://github.com/renderedtext/admin_view">admin_view</a> &ndash; Rails 4 generator of CRUD admin interfaces for existing models.</li>
 </ul>
 
 ]]></content>
