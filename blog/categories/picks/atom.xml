@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-07-20T20:39:53+00:00</updated>
+  <updated>2014-07-27T11:29:32+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/07/23/picks/"/>
+    <updated>2014-07-23T20:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/07/23/picks</id>
+    <content type="html"><![CDATA[<h3>23/07 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the sixty-fourth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://medium.com/ruby-everyday/ruby-everywhere-ruby-on-kindle-paperwhite-5139a661ed76">Ruby on Kindle</a> &ndash; Want to have Ruby running on your Kindle Paperwhite? Yep. We thought so.</li>
+<li><a href="https://github.com/blog/1864-third-annual-github-data-challenge">Github Data Challenge</a> &ndash; Submit by August 25th!</li>
+<li><a href="https://github.com/peek/peek">Peek</a> &ndash; Take a peek into your Rails applications</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -109,35 +130,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <ul>
 <li><a href="http://gregorulm.com/2048-in-90-lines-haskell/">2048</a> &ndash; in Haskell. Really.</li>
 <li><a href="http://www.danielx.net/pixel-editor/docs/download">Pixi Paint</a> &ndash; &lt;3 pixel art.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/06/18/picks/"/>
-    <updated>2014-06-18T20:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/06/18/picks</id>
-    <content type="html"><![CDATA[<h3>18/06 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the fifty-ninth edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="https://ngrok.com">Ngrok</a> &ndash; Easily expose a local web server to the internet</li>
-<li><a href="https://github.com/blog/1847-locking-conversations">Locking conversations on GitHub</a> &ndash; Make the conversation on an issue or pull request collaborator-only.</li>
-</ul>
-
-
-<h5>Guest picks by <a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/cburgdorf/Floor">Floor</a> &ndash; of course I need to mention this &lsquo;simple and lightweight foundation for web applications written in Rust&rsquo;.</li>
-<li><a href="http://rustbyexample.com/hello.html">Learn Rust</a> &ndash; &hellip; now WITH live editor and everything.</li>
-<li><a href="http://octicons.github.com/">octicons</a> &ndash; GitHub open sourced their icon font. Move over font awesome!</li>
 </ul>
 
 ]]></content>
