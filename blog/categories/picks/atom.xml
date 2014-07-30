@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-07-27T12:04:05+00:00</updated>
+  <updated>2014-07-30T19:56:57+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/07/30/picks/"/>
+    <updated>2014-07-30T20:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/07/30/picks</id>
+    <content type="html"><![CDATA[<h3>30/07 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the sixty-fifth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/whitesmith/rubycritic">RubyCritic</a> &ndash; Quality reports of your ruby code</li>
+<li><a href="http://zachholman.com/posts/searching-github-issues/">Search GitHub issues like a pro</a> &ndash; The Easily Amused&rsquo;s Guide to searching GitHub issues</li>
+<li><a href="https://gist.github.com/plexus/aa8d40b194bd551d2b84">Emacs Cheatsheet</a> &ndash; brought to you by Arne and his Overtone learners group</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -101,35 +122,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://postgres-bits.herokuapp.com">Postgres Bits</a> &ndash; The bits you haven&rsquo;t found</li>
 <li><a href="http://viewsourcecode.org/why/">Why&rsquo;s Estate</a> &ndash; A list of everything that _why has published on the internet</li>
 <li><a href="http://keeprubyweird.com/">Keep Ruby Weird</a> &ndash; Sounds like an exciting concept for Austin&rsquo;s newest ruby conference..</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/06/25/picks/"/>
-    <updated>2014-06-25T20:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/06/25/picks</id>
-    <content type="html"><![CDATA[<h3>25/06 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the sixtieth edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="http://lucaguidi.com/2014/06/23/introducing-lotus.html">Introducing Lotus</a> &ndash; A complete web framework for Ruby</li>
-<li><a href="http://pgexercises.com">PGExercises</a> &ndash; Cause you can never get enough Postgres</li>
-<li><a href="https://github.com/fatiherikli/worldcup">World Cup Results for Hackers</a> &ndash; sorry.. the football fever has struck.</li>
-</ul>
-
-
-<h5>Guest picks by <a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://gregorulm.com/2048-in-90-lines-haskell/">2048</a> &ndash; in Haskell. Really.</li>
-<li><a href="http://www.danielx.net/pixel-editor/docs/download">Pixi Paint</a> &ndash; &lt;3 pixel art.</li>
 </ul>
 
 ]]></content>
