@@ -4,7 +4,7 @@
   <title><![CDATA[Category: meetup | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/meetup/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-08-10T17:44:21+00:00</updated>
+  <updated>2014-08-10T18:00:38+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -22,13 +22,13 @@
 
 <p>Hi there, we just pushed the slides of our fifth meetup to our <a href="https://github.com/vienna-rb/slides">repository</a>. Feel free to check them out! What&rsquo;s in there? Well, this:</p>
 
-<h5>Andreas Tiefenthaler &ndash; Introduction and the Gem of the month: brakeman</h5>
+<h5>Andreas Tiefenthaler - Introduction and the Gem of the month: brakeman</h5>
 
-<h5>Tony Bangratz &ndash; Make your tests faster and use Ruby 2.0</h5>
+<h5>Tony Bangratz - Make your tests faster and use Ruby 2.0</h5>
 
-<h5>Clemens Helm &ndash; Make your workflow continuous, deploy continuous</h5>
+<h5>Clemens Helm - Make your workflow continuous, deploy continuous</h5>
 
-<h5>Markus Prinz &ndash; An introduction to Vagrant</h5>
+<h5>Markus Prinz - An introduction to Vagrant</h5>
 
 <p>Like what you see? Join us for our next <a href="http://www.meetup.com/vienna-rb/events/125429382/">meetup</a>, September 5th at Sektor5!</p>
 ]]></content>
@@ -46,7 +46,7 @@
 <p>The meetup is sponsored by <a href="http://www.codeship.io/">Codeship</a>. Manuel Weiss, cofounder of Codeship, on why they support vienna.rb:
 <blockquote><p>We love what vienna.rb is doing and want to start giving back to the city and people who have given us so much.</p><footer><strong>Codeship</strong></footer></blockquote></p>
 
-<p>The vienna.rb team is collecting topics for lightning talks from their community. The topics so far &ndash; Making your tests faster; Continuous Deployment; Building and distributing virtualized development environments &ndash; make for an interesting evening of knowledge exchanging and networking. A little time is always reserved for spontaneous lightning talks from the attendees.</p>
+<p>The vienna.rb team is collecting topics for lightning talks from their community. The topics so far - Making your tests faster; Continuous Deployment; Building and distributing virtualized development environments - make for an interesting evening of knowledge exchanging and networking. A little time is always reserved for spontaneous lightning talks from the attendees.</p>
 
 <p>Vienna.rb meetups are open to both experienced Ruby developers and people that are new to programming.</p>
 
@@ -63,11 +63,11 @@
 
 <p>Hi there, we just pushed the slides of the fourth meetup to our <a href="https://github.com/vienna-rb/slides">repository</a>. Feel free to check them out.</p>
 
-<h5>Markus Prinz &ndash; 10 things you didn&rsquo;t know about Postgres</h5>
+<h5>Markus Prinz - 10 things you didn&rsquo;t know about Postgres</h5>
 
-<h5>Martin Natano &ndash; Implementing git-orm</h5>
+<h5>Martin Natano - Implementing git-orm</h5>
 
-<h5>Gerald Bauer &ndash; Using Markdown for building books, websites or presentations</h5>
+<h5>Gerald Bauer - Using Markdown for building books, websites or presentations</h5>
 
 <p>Like what you see? Join us for our next <a href="http://www.meetup.com/vienna-rb/events/111534092/">meetup</a>, July 18 at Sektor5!</p>
 ]]></content>

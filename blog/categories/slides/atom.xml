@@ -4,7 +4,7 @@
   <title><![CDATA[Category: slides | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/slides/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-08-10T17:44:21+00:00</updated>
+  <updated>2014-08-10T18:00:38+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -22,13 +22,13 @@
 
 <p>Hi there, we just pushed the slides of our fifth meetup to our <a href="https://github.com/vienna-rb/slides">repository</a>. Feel free to check them out! What&rsquo;s in there? Well, this:</p>
 
-<h5>Andreas Tiefenthaler &ndash; Introduction and the Gem of the month: brakeman</h5>
+<h5>Andreas Tiefenthaler - Introduction and the Gem of the month: brakeman</h5>
 
-<h5>Tony Bangratz &ndash; Make your tests faster and use Ruby 2.0</h5>
+<h5>Tony Bangratz - Make your tests faster and use Ruby 2.0</h5>
 
-<h5>Clemens Helm &ndash; Make your workflow continuous, deploy continuous</h5>
+<h5>Clemens Helm - Make your workflow continuous, deploy continuous</h5>
 
-<h5>Markus Prinz &ndash; An introduction to Vagrant</h5>
+<h5>Markus Prinz - An introduction to Vagrant</h5>
 
 <p>Like what you see? Join us for our next <a href="http://www.meetup.com/vienna-rb/events/125429382/">meetup</a>, September 5th at Sektor5!</p>
 ]]></content>
@@ -43,11 +43,11 @@
 
 <p>Hi there, we just pushed the slides of the fourth meetup to our <a href="https://github.com/vienna-rb/slides">repository</a>. Feel free to check them out.</p>
 
-<h5>Markus Prinz &ndash; 10 things you didn&rsquo;t know about Postgres</h5>
+<h5>Markus Prinz - 10 things you didn&rsquo;t know about Postgres</h5>
 
-<h5>Martin Natano &ndash; Implementing git-orm</h5>
+<h5>Martin Natano - Implementing git-orm</h5>
 
-<h5>Gerald Bauer &ndash; Using Markdown for building books, websites or presentations</h5>
+<h5>Gerald Bauer - Using Markdown for building books, websites or presentations</h5>
 
 <p>Like what you see? Join us for our next <a href="http://www.meetup.com/vienna-rb/events/111534092/">meetup</a>, July 18 at Sektor5!</p>
 ]]></content>
@@ -87,7 +87,7 @@
 
 <h5>Tomáš Kramár on &lsquo;open&rsquo; data in Slovakia</h5>
 
-<h5>Anton Bangratz opened up his big o' bag of tricks</h5>
+<h5>Anton Bangratz opened up his big o&#8217; bag of tricks</h5>
 
 <p>Like what you see? Join us for our next <a href="http://www.meetup.com/vienna-rb/events/102695522/">meetup</a> on May the 9th at Sektor5!</p>
 ]]></content>
