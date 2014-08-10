@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-07-30T19:56:57+00:00</updated>
+  <updated>2014-08-10T13:50:46+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/08/06/picks/"/>
+    <updated>2014-08-06T20:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/08/06/picks</id>
+    <content type="html"><![CDATA[<h3>06/08 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the sixty-sixth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://www.rails-upgrade-checklist.com">Rails Upgrade Checklist</a> &ndash; A step by step guide to make the upgrade less painful!</li>
+<li><a href="https://github.com/jlongster/emojiscript">EmojiScript</a> &ndash; It&rsquo;s a thing</li>
+<li><a href="http://vimeo.com/102907938">Eurucamp 2014</a> &ndash; A video.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -101,27 +122,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://firstround.com/article/Why-Yammer-believes-the-traditional-engineering-organizational-structure-is-dead">Team Structure</a> &ndash; Why Yammer Believes the Traditional Engineering Organizational Structure is Dead</li>
 <li><a href="https://github.com/wbailey/kata">Kata 1.6.1</a> &ndash; A language for describing and taking code katas</li>
 <li><a href="http://macdown.uranusjr.com/">MacDown</a> &ndash; MacDown is an open source Markdown editor for OS X</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/07/02/picks/"/>
-    <updated>2014-07-02T20:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/07/02/picks</id>
-    <content type="html"><![CDATA[<h3>02/07 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks &ndash; or: what we think is worth sharing &ndash; every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the sixty-first edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="http://postgres-bits.herokuapp.com">Postgres Bits</a> &ndash; The bits you haven&rsquo;t found</li>
-<li><a href="http://viewsourcecode.org/why/">Why&rsquo;s Estate</a> &ndash; A list of everything that _why has published on the internet</li>
-<li><a href="http://keeprubyweird.com/">Keep Ruby Weird</a> &ndash; Sounds like an exciting concept for Austin&rsquo;s newest ruby conference..</li>
 </ul>
 
 ]]></content>
