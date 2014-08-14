@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-08-10T18:06:33+00:00</updated>
+  <updated>2014-08-14T11:55:49+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -221,7 +221,7 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <ul>
 <li><a href="http://markdown.chibi.io">Markdown Cheatsheet</a> - An intuitive Markdown Cheatsheet</li>
 <li><a href="http://trivelop.de/inch">Inch</a> - A command-line tool that helps you improve your project&rsquo;s documentation</li>
-<li><a href="https://www.youtube.com/watch?v=8bZh5LMaSmE">All the little things</a> - Sandi Metz&#8217; talk from RailsConf 2014</li>
+<li><a href="https://www.youtube.com/watch?v=8bZh5LMaSmE">All the little things</a> - Sandi Metz' talk from RailsConf 2014</li>
 </ul>
 
 
@@ -417,7 +417,7 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <ul>
 <li><a href="https://github.com/sferik/t">t</a> - Tweet from the command line, because YES REALLY.</li>
 <li><a href="http://typing.io">typing.io</a> - A Typing trainer for programmers</li>
-<li><a href="https://github.com/jlord/hack-spots">Hack Spots</a> - Fork&#8217;n&#8217;Go! Make a map of your favorite hackspots</li>
+<li><a href="https://github.com/jlord/hack-spots">Hack Spots</a> - Fork'n'Go! Make a map of your favorite hackspots</li>
 </ul>
 
 
@@ -434,7 +434,7 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 
 <ul>
 <li><a href="http://weblog.rubyonrails.org/2014/4/8/Rails-4-1/">Rails</a> - Rails 4.1 just got released</li>
-<li><a href="http://dev.mensfeld.pl/2014/03/rack-argument-error-invalid-byte-sequence-in-utf-8/">UTF-8</a> - fixing Rails&#8217; ArgumentError: invalid byte sequence in UTF-8 forever</li>
+<li><a href="http://dev.mensfeld.pl/2014/03/rack-argument-error-invalid-byte-sequence-in-utf-8/">UTF-8</a> - fixing Rails' ArgumentError: invalid byte sequence in UTF-8 forever</li>
 <li><a href="http://www.integralist.co.uk/posts/refactoring-techniques/">Refactoring</a> - Refactoring Techniques</li>
 </ul>
 
