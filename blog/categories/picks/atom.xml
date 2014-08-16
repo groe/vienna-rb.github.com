@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-08-15T17:56:03+00:00</updated>
+  <updated>2014-08-16T12:49:53+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,44 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/08/13/picks/"/>
+    <updated>2014-08-13T20:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/08/13/picks</id>
+    <content type="html"><![CDATA[<h3>13/08 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the sixty-seventh edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://code.tutsplus.com/articles/using-ruby-to-program-arduino--cms-21893">Using Ruby To Program Arduino</a> - a quick look at using ruby with arduino to make LEDs blink</li>
+<li><a href="http://inch-ci.org">Inch CI</a> - Documentation badges for Ruby projects</li>
+<li><a href="https://github.com/DefactoSoftware/Hours">Hours</a> - Yet Another Time-Tracking App</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
+
+<ul>
+<li><a href="http://sidekiq.org/pro/">Sidekiq Pro</a> - Sidekiq is awesome! Support Sidekiq and get some super awesome features!</li>
+<li><a href="http://use-the-index-luke.com/no-offset">No Offset!</a> - Offset is very troublesome and we need tool support to fix it!</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="https://www.codeschool.com/screencasts/basecamp-search">DHH</a> - CodeSchool&rsquo;s Pollack and Carlos Souza walk you through their creation of Basecamp&rsquo;s search functionality. Joined by David Heinemeier Hansson.</li>
+<li><a href="http://code.tutsplus.com/articles/using-ruby-to-program-arduino--cms-21893">Arduino</a> - Using Ruby to Program Arduino. Because.</li>
+<li><a href="http://www.toptal.com/ruby/interview-questions#.">Ruby interview questions</a> - Preparing for a tough interview. Test your knowledge!</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -92,36 +130,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://www.sitepoint.com/mutation-testing-mutant">Mutant</a> - Mutation testing with Mutant</li>
 <li><a href="https://github.com/grobie/soundcloud2000/">Soundcloud CLI</a> - 99.5% Ruby!</li>
 <li><a href="https://github.com/mental/bloopsaphone/">Bloopsaphone</a> - write chiptune-style songs in ruby</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/07/09/picks/"/>
-    <updated>2014-07-09T20:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/07/09/picks</id>
-    <content type="html"><![CDATA[<h3>09/07 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the sixty-second edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/blog/1857-introducing-the-revert-button">Introducing the Revert button</a> - Easily revert a pull request on GitHub</li>
-<li><a href="https://www.youtube.com/watch?v=kR6P0GueyVA">Revolution OS</a> - An oldie but goldie: A documentary about the Open Source movement</li>
-<li><a href="http://pascalprecht.github.io/2014/03/18/why-i-use-vim/">Why I use vim</a> - a blog post by Pascal Precht</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
-
-<ul>
-<li><a href="http://firstround.com/article/Why-Yammer-believes-the-traditional-engineering-organizational-structure-is-dead">Team Structure</a> - Why Yammer Believes the Traditional Engineering Organizational Structure is Dead</li>
-<li><a href="https://github.com/wbailey/kata">Kata 1.6.1</a> - A language for describing and taking code katas</li>
-<li><a href="http://macdown.uranusjr.com/">MacDown</a> - MacDown is an open source Markdown editor for OS X</li>
 </ul>
 
 ]]></content>
