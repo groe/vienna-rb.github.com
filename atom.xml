@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-08-22T12:42:30+00:00</updated>
+  <updated>2014-08-22T13:31:28+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/08/20/picks/"/>
+    <updated>2014-08-20T20:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/08/20/picks</id>
+    <content type="html"><![CDATA[<h3>20/08 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the sixty-eighth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://whyday.org">WhyDay</a> - A day to celebrate Why the Lucky Stiff</li>
+<li><a href="http://www.justinweiss.com/blog/2014/08/18/rails-i18n-3-quick-tips-and-1-crazy-abuse/">Rails I18n</a> - 3 quick tips and 1 crazy abuse</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
+
+<ul>
+<li><a href="http://weblog.rubyonrails.org/2014/8/20/Rails-4-2-beta1/">Rails</a> - Rails 4.2 Beta - checkout ActiveJob and GlobalID</li>
+<li><a href="http://www.threechords.org/blog/how-animated-gif-selfies-fixed-our-teams-morale/">Selfies</a> - Animated Selfies to improve your team moral</li>
+<li><a href="https://upcase.com/vim">Upcase</a> - Upcase has some nice ressources for learning vim!</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
@@ -589,36 +618,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://fabiokung.com/2014/03/13/memory-inside-linux-containers/">Memory inside Linux containers</a> - Or why don’t free and top work in a Linux container?</li>
 <li><a href="http://martinfowler.com/articles/microservices.html">Microservice Architecture</a></li>
 <li><a href="http://firstround.com/article/Facebook-VP-of-Engineering-on-Solving-Hard-Things-Early">Solving Hard Things Early</a> - Facebook VP of Engineering on Solving Hard Things Early</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/03/19/picks/"/>
-    <updated>2014-03-19T10:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/03/19/picks</id>
-    <content type="html"><![CDATA[<h3>19/03 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the forty-seventh edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="http://vim-adventures.com/quiz">So you think you know Vim?</a> - Is it a quiz? Is it a game?</li>
-<li><a href="https://sublime.wbond.net/packages/Gutter%20Color">Gutter Color</a> - A Sublime Text 3 Package</li>
-<li><a href="https://www.gittip.com">Gittip</a> - Sustainable Crowdfunding for your favorite people</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/pda/flip">Feature Flipper for Rails</a> - Flip lets you declare and manage feature flags</li>
-<li><a href="http://nerds.airbnb.com/testing-at-airbnb/">Testing at Airbnb</a> - &ldquo;[&hellip;]The bar to writing tests should be, &lsquo;so low you can trip over it.&rsquo;[&hellip;]&rdquo;</li>
-<li><a href="http://www.peterbe.com/plog/github-pr-triage">Github Pull Request Triage tool</a> - Its goal is to try to get an overview of what needs to happen next to open pull requests.</li>
 </ul>
 
 ]]></content>
