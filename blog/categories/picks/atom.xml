@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-09-03T13:52:36+00:00</updated>
+  <updated>2014-09-04T08:35:56+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,44 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/09/03/picks/"/>
+    <updated>2014-09-03T20:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/09/03/picks</id>
+    <content type="html"><![CDATA[<h3>03/09 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the seventieth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://www.railsbricks.net">RailsBricks</a> - Automate mundane setup tasks for your rails app</li>
+<li><a href="https://devcharm.com">DevCharm</a> - Collected lists of resources reviewed by developers</li>
+<li><a href="https://www.youtube.com/watch?v=jAnSsNga5Nk">Programming in the small - Teaching my 5-year-old Ruby</a> - Jason Clark&rsquo;s talk from Cascadia Ruby 2014</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
+
+<ul>
+<li><a href="http://curl.io">curl.io</a> - Share your files from your Terminal</li>
+<li><a href="https://putsreq.herokuapp.com/">PutsReq</a> - PutsReq lets you record HTTP requests and simulate responses</li>
+<li><a href="http://news.railstutorial.org/rails_tutorial_3rd_edition/">RoR Tutorial</a> - Draft chapters of the Ruby on Rails Tutorial (3rd Ed.)</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://followingapp.herokuapp.com/">Know your timeline</a> - Fun ReactJS game testing how well you know the people you follow on Twitter.</li>
+<li><a href="http://oneshot.risingstack.com/">nodeconf</a> - A developer conference nearby that&rsquo;s <em>not</em> in Berlin - nodeconf takes place November 21th in beautiful Budapest.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -152,27 +190,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://www.rails-upgrade-checklist.com">Rails Upgrade Checklist</a> - A step by step guide to make the upgrade less painful!</li>
 <li><a href="https://github.com/jlongster/emojiscript">EmojiScript</a> - It&rsquo;s a thing</li>
 <li><a href="http://vimeo.com/102907938">Eurucamp 2014</a> - A video.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/07/30/picks/"/>
-    <updated>2014-07-30T20:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/07/30/picks</id>
-    <content type="html"><![CDATA[<h3>30/07 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the sixty-fifth edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/whitesmith/rubycritic">RubyCritic</a> - Quality reports of your ruby code</li>
-<li><a href="http://zachholman.com/posts/searching-github-issues/">Search GitHub issues like a pro</a> - The Easily Amused&rsquo;s Guide to searching GitHub issues</li>
-<li><a href="https://gist.github.com/plexus/aa8d40b194bd551d2b84">Emacs Cheatsheet</a> - brought to you by Arne and his Overtone learners group</li>
 </ul>
 
 ]]></content>

@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-09-03T13:52:36+00:00</updated>
+  <updated>2014-09-04T08:35:56+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,44 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/09/03/picks/"/>
+    <updated>2014-09-03T20:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/09/03/picks</id>
+    <content type="html"><![CDATA[<h3>03/09 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the seventieth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://www.railsbricks.net">RailsBricks</a> - Automate mundane setup tasks for your rails app</li>
+<li><a href="https://devcharm.com">DevCharm</a> - Collected lists of resources reviewed by developers</li>
+<li><a href="https://www.youtube.com/watch?v=jAnSsNga5Nk">Programming in the small - Teaching my 5-year-old Ruby</a> - Jason Clark&rsquo;s talk from Cascadia Ruby 2014</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
+
+<ul>
+<li><a href="http://curl.io">curl.io</a> - Share your files from your Terminal</li>
+<li><a href="https://putsreq.herokuapp.com/">PutsReq</a> - PutsReq lets you record HTTP requests and simulate responses</li>
+<li><a href="http://news.railstutorial.org/rails_tutorial_3rd_edition/">RoR Tutorial</a> - Draft chapters of the Ruby on Rails Tutorial (3rd Ed.)</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://followingapp.herokuapp.com/">Know your timeline</a> - Fun ReactJS game testing how well you know the people you follow on Twitter.</li>
+<li><a href="http://oneshot.risingstack.com/">nodeconf</a> - A developer conference nearby that&rsquo;s <em>not</em> in Berlin - nodeconf takes place November 21th in beautiful Budapest.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
@@ -598,45 +636,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://www.youtube.com/watch?v=bV2m8eBeuu0">HyperLogLog</a> - Craig Kerstiens: Scalable Uniques in Postgres</li>
 <li><a href="http://serversforhackers.com/articles/2014/03/20/getting-started-with-docker/">Docker</a> - Getting Started with Docker</li>
 <li><a href="https://keen.io/blog/53958349217/analytics-for-hackers-how-to-think-about-event-data">Analytics</a> - Analytics for hackers: How to think about event data</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/04/02/picks/"/>
-    <updated>2014-04-02T10:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/04/02/picks</id>
-    <content type="html"><![CDATA[<h3>02/04 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the forty-ninth edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="http://www.lookingforpullrequests.com">Looking for pull requests</a> - Contributing to projects, one pull request at a time</li>
-<li><a href="http://www.dontfeartheinternet.com">Don&rsquo;t fear the internet</a> - Basic HTML&amp;CSS for non-web designers</li>
-<li><a href="https://github.com/ap/vim-css-color">Vim-CSS-Color</a> - Highlight colors in CSS files</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
-
-<ul>
-<li><a href="http://brandonhilkert.com/blog/how-to-build-a-rails-engine/">How to build a rails engine</a> - Brandon Hilkert&rsquo;s final post leading up the the launch of the Build a Ruby Gem Ebook.</li>
-<li><a href="http://wtfhtmlcss.com/">WTF, HTML and CSS?</a> - Reasons HTML and CSS might make you say what the fuck.</li>
-<li><a href="http://linuxwell.com/2014/03/30/tco/">tco gem</a> - Terminal colours made simple</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
-
-<ul>
-<li><a href="http://lucaguidi.com/2014/03/27/thread-safety-with-ruby.html">Thread safety with Ruby</a> - thread safety with ruby, about data mutability and difficult synchronization.</li>
-<li><a href="http://www.zx2c4.com/projects/password-store/">Pass</a> - A Unix password manager with a new CLI interface</li>
-<li><a href="http://fabiensanglard.net/git_code_review/index.php">Git Review</a> - A Review of the Git source code</li>
 </ul>
 
 ]]></content>
