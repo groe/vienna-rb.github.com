@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-09-10T09:53:28+00:00</updated>
+  <updated>2014-09-10T17:52:57+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,60 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/09/10/picks/"/>
+    <updated>2014-09-10T20:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/09/10/picks</id>
+    <content type="html"><![CDATA[<h3>10/09 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the seventy-first edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://robots.thoughtbot.com/improving-the-command-line-postgres-experience">Improving the command line postgres experience</a> - personalize EVERYTHING</li>
+<li><a href="http://commonmark.org">Standard Markdown is now Common Markdown..</a> - .. is now CommonMark</li>
+<li><a href="http://2014.frozenrails.eu">Frozen Rails</a> - Yep, it&rsquo;s Frozen Rails (and Baruco) week. Come hang!</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/fnando/factory_girl-preload">Factory Girl - preload</a> - Preload factories (Factory Girl) just like fixtures. It will be easy and, probably, faster!</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/rxin/db-readings">Readings in Databases</a> - A list of papers essential to understanding databases and building new data systems.</li>
+<li><a href="http://wp.sigmod.org/?p=688">Fifty Years of Databases</a> - How everything started.</li>
+<li><a href="http://www.daemonology.net/blog/2014-09-04-how-to-zero-a-buffer.html">How to zero a buffer</a></li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
+
+<ul>
+<li><a href="http://blog.8thlight.com/uncle-bob/2014/05/02/ProfessionalismAndTDD.html">Professionalism and TDD (Reprise)</a> - An answer to criticism that I can agree to.</li>
+<li><a href="http://js2coffee.org/">Js2coffee</a> - the Javascript to coffeescript converter (for those who want to change the crowd)</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://5by5.tv/rubyonrails/166">Rails Rumble ramp-up</a> - Thinking about joining the Rails Rumble competition this year around. These podcasts will help you prep like a pro.</li>
+<li><a href="http://littlelines.com/blog/2014/09/02/seamlessly-navigate-rails-projects-with-tmux/">Tmux nav</a> - Learn how to seamlessly navigate your Rails projects with Tmux.</li>
+<li><a href="https://academy.zenva.com/product/html5-mobile-game-development-by-example-veggies-vs-zombies/">Veggies vs Zombies</a> - Learn how to build a cross-platform game in HTML5 (for 17$).</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Vienna.rb #16 Recap]]></title>
@@ -672,45 +726,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="https://rails-assets.org/">Rails Assets</a> - Bothered by bower and co? Use this.</li>
 <li><a href="http://googlegeodevelopers.blogspot.co.at/2014/03/adding-new-google-maps-to-your-website.html">New Google Maps Embed</a> - Stuff just got easier.</li>
 <li><a href="http://michael.otacoo.com/postgresql-2/postgres-9-4-feature-highlight-replication-slots/">PostgreSQL 9.4 Feature Highlight</a> - Physical slots for replication. Pro stuff, very exciting.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/04/16/picks/"/>
-    <updated>2014-04-16T10:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/04/16/picks</id>
-    <content type="html"><![CDATA[<h3>16/04 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the fifty-first edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/sferik/t">t</a> - Tweet from the command line, because YES REALLY.</li>
-<li><a href="http://typing.io">typing.io</a> - A Typing trainer for programmers</li>
-<li><a href="https://github.com/jlord/hack-spots">Hack Spots</a> - Fork'n'Go! Make a map of your favorite hackspots</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
-
-<ul>
-<li><a href="http://www.amberbit.com/blog/2014/4/10/ruby-the-good-parts/">The good parts</a> - Ruby: the good parts by amberbit</li>
-<li><a href="http://viget.com/extend/8-insanely-useful-activeadmin-customizations">Active Admin</a> - 8 Useful ActiveAdmin Customizations</li>
-<li><a href="http://robots.thoughtbot.com/removing-sass-duplication">DRY Sass</a> - Removing Sass Duplication Using Sass Maps</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
-
-<ul>
-<li><a href="http://weblog.rubyonrails.org/2014/4/8/Rails-4-1/">Rails</a> - Rails 4.1 just got released</li>
-<li><a href="http://dev.mensfeld.pl/2014/03/rack-argument-error-invalid-byte-sequence-in-utf-8/">UTF-8</a> - fixing Rails' ArgumentError: invalid byte sequence in UTF-8 forever</li>
-<li><a href="http://www.integralist.co.uk/posts/refactoring-techniques/">Refactoring</a> - Refactoring Techniques</li>
 </ul>
 
 ]]></content>
