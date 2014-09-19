@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-09-16T15:56:52+00:00</updated>
+  <updated>2014-09-19T12:29:23+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,44 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/09/17/picks/"/>
+    <updated>2014-09-17T20:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/09/17/picks</id>
+    <content type="html"><![CDATA[<h3>17/09 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the seventy-second edition:</p>
+
+<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
+
+<ul>
+<li><a href="http://cookieshq.co.uk/posts/how-to-style-emails-with-rails-and-roadie/">Roadie</a> - Styling emails with Rails and Roadie</li>
+<li><a href="http://eng.joingrouper.com/blog/2014/09/02/configuring-rails-environments/">Configuring Rails Environments</a> - Configure Rails Environments with ENV variables</li>
+<li><a href="http://reactiongifs.com/?p=12713">Mid-week. Looking forward to the remaining days?</a></li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
+
+<ul>
+<li><a href="https://www.hashicorp.com/blog/consul-s3-multipart.html">S3 Multipart</a> - How to do S3 atomic S3 multipart uploads</li>
+<li><a href="https://engineering.heroku.com/blogs/2014-09-05-hutils-explore-your-structured-data-logs">Heroku Logs</a> - Tools to explore your Heroku logs</li>
+<li><a href="https://github.com/softace/activerecord-tableless">ActiveRecord Tableless</a> - Bringing together the different tableless model implementations into a single gem/plugin</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://blog.codeunion.io/2014/09/03/teaching-novices-how-to-debug-code/">New to debugging</a> - Teaching novice programmers how to debug their code</li>
+<li><a href="http://blog.codeschool.com/post/96472124263/how-code-school-uses-github">How Codeschool uses GitHub</a> - because we all like a little voyeurism</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
@@ -688,44 +726,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://insideintercom.io/how-we-design-at-intercom/">Design at Intercom</a> - Decide what to build and how</li>
 <li><a href="http://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/">Spotify engineering culture</a> - Part 1 of a Podcast about Spotify&rsquo;s engineering culture.</li>
 <li><a href="http://robertmuth.blogspot.ch/2012/08/better-bash-scripting-in-15-minutes.html">Bash Scripting</a> - Tips and tricks about better bash scripting</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/04/23/picks/"/>
-    <updated>2014-04-23T10:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/04/23/picks</id>
-    <content type="html"><![CDATA[<h3>23/04 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the fifty-second edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="http://mislav.uniqpath.com/2014/02/hidden-documentation/">Every line of code is always documented</a> - a look at project history and what makes a good commit message</li>
-<li><a href="https://github.com/jasonlong/geo_pattern">Geo_pattern</a> - Create generative background images from a string</li>
-<li><a href="http://hood.ie">Hood.ie</a> - Offline first: very fast web app development</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
-
-<ul>
-<li><a href="http://www.atmos.org/speaking.html">Shipping at GitHub</a> - Shipping at the Speed of Life</li>
-<li><a href="http://invoicing.codemancers.com/">Invoicing</a> - Ruby Invoicing Framework</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
-
-<ul>
-<li><a href="https://rails-assets.org/">Rails Assets</a> - Bothered by bower and co? Use this.</li>
-<li><a href="http://googlegeodevelopers.blogspot.co.at/2014/03/adding-new-google-maps-to-your-website.html">New Google Maps Embed</a> - Stuff just got easier.</li>
-<li><a href="http://michael.otacoo.com/postgresql-2/postgres-9-4-feature-highlight-replication-slots/">PostgreSQL 9.4 Feature Highlight</a> - Physical slots for replication. Pro stuff, very exciting.</li>
 </ul>
 
 ]]></content>
