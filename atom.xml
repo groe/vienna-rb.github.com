@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-09-21T12:14:25+00:00</updated>
+  <updated>2014-09-26T19:01:59+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/09/24/picks/"/>
+    <updated>2014-09-24T20:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/09/24/picks</id>
+    <content type="html"><![CDATA[<h3>24/09 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the seventy-third edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://www.algomation.com">Algomation</a> - Animated algorithms!</li>
+<li><a href="https://github.com/bbatsov/rubocop">Rubocop</a> - A Ruby static code analyzer</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/DamirSvrtan/space-invaders.rb">Ruby Space Invaders</a> - Space Invaders - Classic Arcade Game written in Ruby w/ Gosu</li>
+<li><a href="http://vimeo.com/105955605">Because awesome</a> - Mary Rose Cook live-codes a JavaScript game from scratch at Front-Trends 2014</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
@@ -696,36 +724,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://blog.8thlight.com/uncle-bob/2014/04/30/When-tdd-does-not-work.html">When TDD doesn&rsquo;t work.</a> - Opinionated piece by Robert &ldquo;Uncle Bob&rdquo; Martin.</li>
 <li><a href="https://www.youtube.com/watch?v=tg5RFeSfBM4">Jim Weirich on Decoupling from Rails</a> - A brilliant mind talks neatly about a tough topic.</li>
 <li><a href="http://martinfowler.com/bliki/SelfTestingCode.html">SelfTestingCode</a> - Martin Fowler about a different approach (not TDD!).</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/04/30/picks/"/>
-    <updated>2014-04-30T10:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/04/30/picks</id>
-    <content type="html"><![CDATA[<h3>30/04 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the fifty-third edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="http://alicetragedy.github.io/hack-spots">Austria Hack Spots</a> - A map of cool places to hack &amp; work in Austria. Feel free to contribute!</li>
-<li><a href="https://github.com/plexus/slippery">Slippery</a> - Make presentations with Markdown</li>
-<li><a href="https://github.com/tiimgreen/github-cheat-sheet">GitHub Cheatsheet</a> - Hidden and not-so-hidden features</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
-
-<ul>
-<li><a href="http://insideintercom.io/how-we-design-at-intercom/">Design at Intercom</a> - Decide what to build and how</li>
-<li><a href="http://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/">Spotify engineering culture</a> - Part 1 of a Podcast about Spotify&rsquo;s engineering culture.</li>
-<li><a href="http://robertmuth.blogspot.ch/2012/08/better-bash-scripting-in-15-minutes.html">Bash Scripting</a> - Tips and tricks about better bash scripting</li>
 </ul>
 
 ]]></content>
