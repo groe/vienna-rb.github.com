@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-10-09T11:31:08+00:00</updated>
+  <updated>2014-10-10T18:27:59+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/10/08/picks/"/>
+    <updated>2014-10-08T20:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/10/08/picks</id>
+    <content type="html"><![CDATA[<h3>10/08 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the seventy-fifth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://education.github.com/pack">Student Developer Pack</a> - If you&rsquo;re a student, consider signing up for this awesome pack!</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://guides.railsgirls.com/">fresh guides</a> - Yay for new Rails Girls guides - 12 and 13 - by the hand of <a href="http://www.twitter.com/chastell">@chastell</a>.</li>
+<li><a href="http://rvm.io/blog">Papis blogs!</a> - Michal Papis just started a blog for RVM. Which is great.</li>
+<li><a href="http://blog.railsrumble.com/2014/10/06/registration-has-opened/">Rails Rumble</a> - Registration for this year&rsquo;s Rails Rumble has opened. Keep in mind that you&rsquo;d have <a href="http://www.meetup.com/vienna-rb/events/197015742/">a place to work/hack from</a>, might your team need it.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -178,44 +206,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://5by5.tv/rubyonrails/166">Rails Rumble ramp-up</a> - Thinking about joining the Rails Rumble competition this year around. These podcasts will help you prep like a pro.</li>
 <li><a href="http://littlelines.com/blog/2014/09/02/seamlessly-navigate-rails-projects-with-tmux/">Tmux nav</a> - Learn how to seamlessly navigate your Rails projects with Tmux.</li>
 <li><a href="https://academy.zenva.com/product/html5-mobile-game-development-by-example-veggies-vs-zombies/">Veggies vs Zombies</a> - Learn how to build a cross-platform game in HTML5 (for 17$).</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/09/03/picks/"/>
-    <updated>2014-09-03T20:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/09/03/picks</id>
-    <content type="html"><![CDATA[<h3>03/09 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the seventieth edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="http://www.railsbricks.net">RailsBricks</a> - Automate mundane setup tasks for your rails app</li>
-<li><a href="https://devcharm.com">DevCharm</a> - Collected lists of resources reviewed by developers</li>
-<li><a href="https://www.youtube.com/watch?v=jAnSsNga5Nk">Programming in the small - Teaching my 5-year-old Ruby</a> - Jason Clark&rsquo;s talk from Cascadia Ruby 2014</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
-
-<ul>
-<li><a href="http://curl.io">curl.io</a> - Share your files from your Terminal</li>
-<li><a href="https://putsreq.herokuapp.com/">PutsReq</a> - PutsReq lets you record HTTP requests and simulate responses</li>
-<li><a href="http://news.railstutorial.org/rails_tutorial_3rd_edition/">RoR Tutorial</a> - Draft chapters of the Ruby on Rails Tutorial (3rd Ed.)</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://followingapp.herokuapp.com/">Know your timeline</a> - Fun ReactJS game testing how well you know the people you follow on Twitter.</li>
-<li><a href="http://oneshot.risingstack.com/">nodeconf</a> - A developer conference nearby that&rsquo;s <em>not</em> in Berlin - nodeconf takes place November 21th in beautiful Budapest.</li>
 </ul>
 
 ]]></content>
