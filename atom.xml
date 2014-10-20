@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-10-17T08:43:58+00:00</updated>
+  <updated>2014-10-20T14:19:23+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/10/15/picks/"/>
+    <updated>2014-10-15T20:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/10/15/picks</id>
+    <content type="html"><![CDATA[<h3>10/15 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the seventy-sixth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/pokonski/public_activity">Public Activity</a> - Easy activity tracking for your models</li>
+<li><a href="http://robots.thoughtbot.com/postgres-window-functions">Window Functions</a> - Postgres Window functions explained</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="https://www.twilio.com/blog/2014/10/how-to-build-a-meme-generator-using-twilio-mms-imgflip-and-sinatra.html?">Building a meme generator</a> - Learn how to build a meme generator using Twilio MMS, Imgflip and Sinatra</li>
+<li><a href="https://practicingruby.com/articles/ant-colony-simulation?u=dc2ab0f9bb">ant colonies</a> - Simulating the emergent behavior of ant colonies with Ruby</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
@@ -712,36 +740,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://www.toptal.com/ruby-on-rails/top-10-mistakes-that-rails-programmers-make">10 most common rails mistakes</a> - 10 Most Common Mistakes that Rails Programmers Make</li>
 <li><a href="http://googleonlinesecurity.blogspot.de/2014/06/making-end-to-end-encryption-easier-to.html">End-to-end Encryption in GMail/Chrome</a> - Making end-to-end encryption easier to use</li>
 <li><a href="http://imgur.com/dOLkgVR">Stackoverflow done right?</a> - A simple pattern for <em>every</em> Stackoverflow thread (bwahaha)</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/05/21/picks/"/>
-    <updated>2014-05-21T10:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/05/21/picks</id>
-    <content type="html"><![CDATA[<h3>21/05 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the fifty-sixth edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="http://thechangelog.com/regular-expressions-without-fear">Regular Expressions Without Fear</a> - A list of great resources put together by Beverly Nelson</li>
-<li><a href="https://github.com/hoodiehq/local-tld">Local TLD</a> - maintain a local development top level domain</li>
-<li><a href="http://leaverou.github.io/contrast-ratio">Contrast Ratio Tool</a> - Lea Verou&rsquo;s Contrast/Ratio Tool</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
-
-<ul>
-<li><a href="http://www.postgresql.org/about/news/1522/">PostgreSQL</a> - PostgreSQL 9.4 Beta 1 Released</li>
-<li><a href="http://brandonhilkert.com/blog/rails-4-1-travel-to-test-helper/">test against certain time</a> - NEW Rails 4.1 travel_to test helper</li>
-<li><a href="https://github.com/renderedtext/admin_view">admin_view</a> - Rails 4 generator of CRUD admin interfaces for existing models.</li>
 </ul>
 
 ]]></content>
