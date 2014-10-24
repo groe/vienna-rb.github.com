@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-10-21T20:56:16+00:00</updated>
+  <updated>2014-10-24T14:23:24+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/10/22/picks/"/>
+    <updated>2014-10-22T20:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/10/22/picks</id>
+    <content type="html"><![CDATA[<h3>10/22 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the seventy-seventh edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/ankane/chartkick">Chartkick</a> - Because charts make us swoon.</li>
+<li><a href="http://runnable.com">Runnable</a> - Run your code online</li>
+<li><a href="https://teamgaslight.com/blog/top-3-reasons-why-software-projects-fail">Top 3 reasons why software projects fail</a> - fresh from the gaslight blog</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://blog.elpassion.com/top-5-baruco-talks/">top 5 BaRuCo talks</a> - A BaRuCo wrap-up by a Ruby rookie. Good stuff if you weren&rsquo;t there.</li>
+<li><a href="https://www.uludum.org/courses/122-how-to-accept-bitcoin-with-ruby-on-rails">accept Bitcoin with Rails</a> - I might even try and hack something together for the sektor5 drinks app</li>
+<li><a href="https://dev.opera.com/articles/css-twenty-years-hakon/">(Belayed) happy birthday, CSS!</a> - an interview with Opera’s CTO Håkon Wium Lie, who published &lsquo;Cascading HTML style sheets – a proposal&rsquo; twenty years ago.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -142,44 +172,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <ul>
 <li><a href="https://github.com/DamirSvrtan/space-invaders.rb">Ruby Space Invaders</a> - Space Invaders - Classic Arcade Game written in Ruby w/ Gosu</li>
 <li><a href="http://vimeo.com/105955605">Because awesome</a> - Mary Rose Cook live-codes a JavaScript game from scratch at Front-Trends 2014</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/09/17/picks/"/>
-    <updated>2014-09-17T20:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/09/17/picks</id>
-    <content type="html"><![CDATA[<h3>17/09 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the seventy-second edition:</p>
-
-<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
-
-<ul>
-<li><a href="http://cookieshq.co.uk/posts/how-to-style-emails-with-rails-and-roadie/">Roadie</a> - Styling emails with Rails and Roadie</li>
-<li><a href="http://eng.joingrouper.com/blog/2014/09/02/configuring-rails-environments/">Configuring Rails Environments</a> - Configure Rails Environments with ENV variables</li>
-<li><a href="http://reactiongifs.com/?p=12713">Mid-week. Looking forward to the remaining days?</a></li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
-
-<ul>
-<li><a href="https://www.hashicorp.com/blog/consul-s3-multipart.html">S3 Multipart</a> - How to do S3 atomic S3 multipart uploads</li>
-<li><a href="https://engineering.heroku.com/blogs/2014-09-05-hutils-explore-your-structured-data-logs">Heroku Logs</a> - Tools to explore your Heroku logs</li>
-<li><a href="https://github.com/softace/activerecord-tableless">ActiveRecord Tableless</a> - Bringing together the different tableless model implementations into a single gem/plugin</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://blog.codeunion.io/2014/09/03/teaching-novices-how-to-debug-code/">New to debugging</a> - Teaching novice programmers how to debug their code</li>
-<li><a href="http://blog.codeschool.com/post/96472124263/how-code-school-uses-github">How Codeschool uses GitHub</a> - because we all like a little voyeurism</li>
 </ul>
 
 ]]></content>
