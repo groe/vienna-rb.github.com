@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-10-26T20:22:40+00:00</updated>
+  <updated>2014-10-31T10:27:30+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/10/29/picks/"/>
+    <updated>2014-10-29T20:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/10/29/picks</id>
+    <content type="html"><![CDATA[<h3>10/29 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the seventy-eight edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://sqlfiddle.com">SQLFiddle</a> - yep, it exists.</li>
+<li><a href="https://sublime.wbond.net/packages/Color%20Highlighter">ColorHighlighter</a> - The Sublime Text Color Highlighter package now supports SASS variables!</li>
+<li><a href="http://blog.plataformatec.com.br/2014/07/the-new-html-sanitizer-in-rails-4-2/">HTML Sanitizer</a> - The new HTML Sanitizer in Rails 4.2</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/Timrael/social_shares">the next best social media dashboard</a> - easily check social sharings of an url</li>
+<li><a href="http://www.emanueleferonato.com/2014/10/21/phaser-tutorial-how-to-create-an-html5-survival-horror-game-in-6-easy-steps/">Phaser</a> - create an HTML5 survival horror game in 6 steps with Phaser</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -144,34 +173,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <ul>
 <li><a href="https://github.com/blog/1892-third-annual-data-challenge-winners">roarrr</a> - Github announced its third annual Data Challenge winners and there&rsquo;s some cool stuff to play with.</li>
 <li><a href="http://www.sitepoint.com/ratyrate-add-rating-rails-app/">ratyrate</a> - Easily add rating to your Rails app with this nifty gem.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/09/24/picks/"/>
-    <updated>2014-09-24T20:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/09/24/picks</id>
-    <content type="html"><![CDATA[<h3>24/09 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the seventy-third edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="http://www.algomation.com">Algomation</a> - Animated algorithms!</li>
-<li><a href="https://github.com/bbatsov/rubocop">Rubocop</a> - A Ruby static code analyzer</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/DamirSvrtan/space-invaders.rb">Ruby Space Invaders</a> - Space Invaders - Classic Arcade Game written in Ruby w/ Gosu</li>
-<li><a href="http://vimeo.com/105955605">Because awesome</a> - Mary Rose Cook live-codes a JavaScript game from scratch at Front-Trends 2014</li>
 </ul>
 
 ]]></content>
