@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-11-05T15:26:33+00:00</updated>
+  <updated>2014-11-06T08:31:57+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/11/05/picks/"/>
+    <updated>2014-11-05T20:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/11/05/picks</id>
+    <content type="html"><![CDATA[<h3>11/05 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the seventy-ninth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/pothibo/ecrire">Ecrire</a> - A blog engine for developers</li>
+<li><a href="https://sysadmincasts.com">Sysadmincasts</a> - Don&rsquo;t leave out the sysadmins! There&rsquo;s screencasts for them too..</li>
+<li><a href="https://github.com/sparklemotion/nokogiri/wiki/Cheat-sheet">Nokogiri Cheatsheet</a> - Working with Nokogiri made easy</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
+
+<ul>
+<li><a href="http://karpathy.github.io/neuralnets/">Neural Networks</a> Hacker&rsquo;s guide to Neural Networks</li>
+<li><a href="http://henryr.github.io/cap-faq/">The CAP FAQ</a> - A short FAQ which answers all your questions about the CAP theorem.</li>
+<li><a href="https://stripe.com/blog/game-day-exercises-at-stripe">Kill all your Redis</a> - Game Day Exercises at Stripe: Learning from <code>kill -9</code></li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://ttencate.github.io/tis/">TIS</a> - Tetris clone in 4kb of JavaScript</li>
+<li><a href="https://github.com/peter-murach/tty-progressbar">tty</a> - A simple progress bar gem, with a great Readme</li>
+<li><a href="http://www.justinweiss.com/blog/2014/10/28/how-to-go-beyond-documentation-and-learn-a-new-library/">GitHub’s code search use case</a> - Where do you learn how to use a feature/gem/project, if not from its documentation?</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
@@ -703,35 +742,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://postgres-bits.herokuapp.com">Postgres Bits</a> - The bits you haven&rsquo;t found</li>
 <li><a href="http://viewsourcecode.org/why/">Why&rsquo;s Estate</a> - A list of everything that _why has published on the internet</li>
 <li><a href="http://keeprubyweird.com/">Keep Ruby Weird</a> - Sounds like an exciting concept for Austin&rsquo;s newest ruby conference..</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/06/25/picks/"/>
-    <updated>2014-06-25T20:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/06/25/picks</id>
-    <content type="html"><![CDATA[<h3>25/06 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the sixtieth edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="http://lucaguidi.com/2014/06/23/introducing-lotus.html">Introducing Lotus</a> - A complete web framework for Ruby</li>
-<li><a href="http://pgexercises.com">PGExercises</a> - Cause you can never get enough Postgres</li>
-<li><a href="https://github.com/fatiherikli/worldcup">World Cup Results for Hackers</a> - sorry.. the football fever has struck.</li>
-</ul>
-
-
-<h5>Guest picks by <a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://gregorulm.com/2048-in-90-lines-haskell/">2048</a> - in Haskell. Really.</li>
-<li><a href="http://www.danielx.net/pixel-editor/docs/download">Pixi Paint</a> - &lt;3 pixel art.</li>
 </ul>
 
 ]]></content>
