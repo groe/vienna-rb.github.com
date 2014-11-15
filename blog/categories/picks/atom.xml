@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-11-13T17:23:31+00:00</updated>
+  <updated>2014-11-15T09:14:01+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,62 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/11/12/picks/"/>
+    <updated>2014-11-12T20:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/11/12/picks</id>
+    <content type="html"><![CDATA[<h3>11/12 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the eightieth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://www.dwellable.com/blog/Rails-Rumble-Gem-Teardown">Rails Rumble Gem Teardown 2014</a> - Spying on which gems were the most likeable in this year&rsquo;s Rails Rumble projects</li>
+<li><a href="https://readme.io">Readme.io</a> - Beautiful documentation made easy. (And also because I like their <a href="https://dash.readme.io/login">login form animation</a> when you click on the password field)</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
+
+<ul>
+<li><a href=""></a> -</li>
+<li><a href=""></a> -</li>
+<li><a href=""></a> -</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/stmichael/data-import">Data Import</a> - sequel based dsl to migrate data from a legacy database to a new home.</li>
+<li><a href="http://www.rubyraptor.org/how-we-made-raptor-up-to-4x-faster-than-unicorn-and-up-to-2x-faster-than-puma-torquebox/">RubyRaptor</a> - Insights into making the new Ruby Raptor Application Server faster than everything else</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
+
+<ul>
+<li><a href=""></a> -</li>
+<li><a href=""></a> -</li>
+<li><a href=""></a> -</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/abathur/tdver">tdver</a> - test-driven versioning - keeping an eye on this</li>
+<li><a href="http://www.developerdrive.com/2014/10/jquery-3-0-jquery-compat-3-0-are-announced/">jQuery update</a> - it&rsquo;s on its way, prepare for appocalipse (pun intended)</li>
+<li><a href="http://www.sitepoint.com/creating-hello-world-app-swift/">Hello Swift</a> - Creating a ‘Hello World’ app with Swift</li>
+<li><a href="http://www.w3.org/blog/news/archives/4167">HTML5</a> - Now that HTML5 is a W3 recommendation - one better starts reading up on the phenomenon</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -134,34 +190,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <ul>
 <li><a href="https://www.twilio.com/blog/2014/10/how-to-build-a-meme-generator-using-twilio-mms-imgflip-and-sinatra.html?">Building a meme generator</a> - Learn how to build a meme generator using Twilio MMS, Imgflip and Sinatra</li>
 <li><a href="https://practicingruby.com/articles/ant-colony-simulation?u=dc2ab0f9bb">ant colonies</a> - Simulating the emergent behavior of ant colonies with Ruby</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/10/08/picks/"/>
-    <updated>2014-10-08T20:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/10/08/picks</id>
-    <content type="html"><![CDATA[<h3>10/08 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the seventy-fifth edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="https://education.github.com/pack">Student Developer Pack</a> - If you&rsquo;re a student, consider signing up for this awesome pack!</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://guides.railsgirls.com/">fresh guides</a> - Yay for new Rails Girls guides - 12 and 13 - by the hand of <a href="http://www.twitter.com/chastell">@chastell</a>.</li>
-<li><a href="http://rvm.io/blog">Papis blogs!</a> - Michal Papis just started a blog for RVM. Which is great.</li>
-<li><a href="http://blog.railsrumble.com/2014/10/06/registration-has-opened/">Rails Rumble</a> - Registration for this year&rsquo;s Rails Rumble has opened. Keep in mind that you&rsquo;d have <a href="http://www.meetup.com/vienna-rb/events/197015742/">a place to work/hack from</a>, might your team need it.</li>
 </ul>
 
 ]]></content>
