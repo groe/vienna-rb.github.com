@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-11-19T08:53:49+00:00</updated>
+  <updated>2014-11-21T12:24:08+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/11/19/picks/"/>
+    <updated>2014-11-19T20:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/11/19/picks</id>
+    <content type="html"><![CDATA[<h3>11/19 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the eighty-first edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/pokonski/access-granted">Access Granted</a> - Multi-role authorisation gem for Rails</li>
+<li><a href="https://blog.engineyard.com/2014/ruby-list-comprehension">Building a Ruby List Comprehension</a> -..or attempting to. An interesting read by Ben Lewis</li>
+<li><a href="http://rubygems.org">RubyGems</a> - Believe it or not, RubyGems got a redesign - and it&rsquo;s gorgeous</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://channel9.msdn.com/Events/Build/2014/3-642">Thinking for programmers</a> - a great talk by Leslie Lamport, as recommended by Phillipp Röll (<a href="http://www.twitter.com/phillipp">@phillipp</a>)</li>
+<li><a href="http://www.developerdrive.com/2014/11/7-habits-of-highly-effective-web-developers/">7 habits of highly effective web developers</a> - &hellip; for you to repeat to yourself in the mirror</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -144,34 +173,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://blog.elpassion.com/top-5-baruco-talks/">top 5 BaRuCo talks</a> - A BaRuCo wrap-up by a Ruby rookie. Good stuff if you weren&rsquo;t there.</li>
 <li><a href="https://www.uludum.org/courses/122-how-to-accept-bitcoin-with-ruby-on-rails">accept Bitcoin with Rails</a> - I might even try and hack something together for the sektor5 drinks app</li>
 <li><a href="https://dev.opera.com/articles/css-twenty-years-hakon/">(Belayed) happy birthday, CSS!</a> - an interview with Opera’s CTO Håkon Wium Lie, who published &lsquo;Cascading HTML style sheets – a proposal&rsquo; twenty years ago.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/10/15/picks/"/>
-    <updated>2014-10-15T20:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/10/15/picks</id>
-    <content type="html"><![CDATA[<h3>10/15 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the seventy-sixth edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/pokonski/public_activity">Public Activity</a> - Easy activity tracking for your models</li>
-<li><a href="http://robots.thoughtbot.com/postgres-window-functions">Window Functions</a> - Postgres Window functions explained</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="https://www.twilio.com/blog/2014/10/how-to-build-a-meme-generator-using-twilio-mms-imgflip-and-sinatra.html?">Building a meme generator</a> - Learn how to build a meme generator using Twilio MMS, Imgflip and Sinatra</li>
-<li><a href="https://practicingruby.com/articles/ant-colony-simulation?u=dc2ab0f9bb">ant colonies</a> - Simulating the emergent behavior of ant colonies with Ruby</li>
 </ul>
 
 ]]></content>

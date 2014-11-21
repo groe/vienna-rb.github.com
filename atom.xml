@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-11-19T08:53:49+00:00</updated>
+  <updated>2014-11-21T12:24:08+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/11/19/picks/"/>
+    <updated>2014-11-19T20:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/11/19/picks</id>
+    <content type="html"><![CDATA[<h3>11/19 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the eighty-first edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/pokonski/access-granted">Access Granted</a> - Multi-role authorisation gem for Rails</li>
+<li><a href="https://blog.engineyard.com/2014/ruby-list-comprehension">Building a Ruby List Comprehension</a> -..or attempting to. An interesting read by Ben Lewis</li>
+<li><a href="http://rubygems.org">RubyGems</a> - Believe it or not, RubyGems got a redesign - and it&rsquo;s gorgeous</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://channel9.msdn.com/Events/Build/2014/3-642">Thinking for programmers</a> - a great talk by Leslie Lamport, as recommended by Phillipp Röll (<a href="http://www.twitter.com/phillipp">@phillipp</a>)</li>
+<li><a href="http://www.developerdrive.com/2014/11/7-habits-of-highly-effective-web-developers/">7 habits of highly effective web developers</a> - &hellip; for you to repeat to yourself in the mirror</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
@@ -782,27 +811,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="https://medium.com/ruby-everyday/ruby-everywhere-ruby-on-kindle-paperwhite-5139a661ed76">Ruby on Kindle</a> - Want to have Ruby running on your Kindle Paperwhite? Yep. We thought so.</li>
 <li><a href="https://github.com/blog/1864-third-annual-github-data-challenge">Github Data Challenge</a> - Submit by August 25th!</li>
 <li><a href="https://github.com/peek/peek">Peek</a> - Take a peek into your Rails applications</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/07/16/picks/"/>
-    <updated>2014-07-16T20:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/07/16/picks</id>
-    <content type="html"><![CDATA[<h3>16/07 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the sixty-third edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="http://www.sitepoint.com/mutation-testing-mutant">Mutant</a> - Mutation testing with Mutant</li>
-<li><a href="https://github.com/grobie/soundcloud2000/">Soundcloud CLI</a> - 99.5% Ruby!</li>
-<li><a href="https://github.com/mental/bloopsaphone/">Bloopsaphone</a> - write chiptune-style songs in ruby</li>
 </ul>
 
 ]]></content>
