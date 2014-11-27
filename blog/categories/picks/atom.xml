@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-11-27T07:35:37+00:00</updated>
+  <updated>2014-11-27T17:55:51+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,44 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/11/26/picks/"/>
+    <updated>2014-11-26T20:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/11/26/picks</id>
+    <content type="html"><![CDATA[<h3>11/26 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the eighty-second edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/wellsriley/YosemiteSanFranciscoFont">Yosemite San Francisco</a> - Replace Helvetica Neue on your 10.10 Yosemite with the beautiful San Francisco Display (the Apple Watch font)</li>
+<li><a href="http://www.sitepoint.com/rake-automate-things">Automate all the things</a> - Because we just can&rsquo;t get enough of rake</li>
+<li><a href="https://hacksummit.org">Hacksummit</a> - A virtual conference for developers</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
+
+<ul>
+<li><a href="http://blog.phusion.nl/2014/11/25/introducing-phusion-passenger-5-beta-1-codename-raptor/">Ruby Raptor</a> - Phusion Passenger 5 (beta 1) got released!</li>
+<li><a href="http://pragtob.wordpress.com/2014/11/19/writing-dsls-in-ruby-without-monkeypatching-object/">Ruby DSLs</a> - Writing DSL&rsquo;s in Ruby without Monkeypatching</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://www.sitepoint.com/mini-chat-rails-server-sent-events/">Build a mini chat app</a> - &hellip; with Rails and HTML5 server-sent events</li>
+<li><a href="https://divshot.com/blog/opinion/the-future-of-the-web-according-to-google">The Future of the Web</a> - &hellip; according to Google</li>
+<li><a href="https://github.com/blog/1930-task-lists-are-open-source">Task lists</a> - Github open sourced their task list components</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -143,36 +181,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <ul>
 <li><a href="https://github.com/Timrael/social_shares">the next best social media dashboard</a> - easily check social sharings of an url</li>
 <li><a href="http://www.emanueleferonato.com/2014/10/21/phaser-tutorial-how-to-create-an-html5-survival-horror-game-in-6-easy-steps/">Phaser</a> - create an HTML5 survival horror game in 6 steps with Phaser</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/10/22/picks/"/>
-    <updated>2014-10-22T20:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/10/22/picks</id>
-    <content type="html"><![CDATA[<h3>10/22 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the seventy-seventh edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/ankane/chartkick">Chartkick</a> - Because charts make us swoon.</li>
-<li><a href="http://runnable.com">Runnable</a> - Run your code online</li>
-<li><a href="https://teamgaslight.com/blog/top-3-reasons-why-software-projects-fail">Top 3 reasons why software projects fail</a> - fresh from the gaslight blog</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://blog.elpassion.com/top-5-baruco-talks/">top 5 BaRuCo talks</a> - A BaRuCo wrap-up by a Ruby rookie. Good stuff if you weren&rsquo;t there.</li>
-<li><a href="https://www.uludum.org/courses/122-how-to-accept-bitcoin-with-ruby-on-rails">accept Bitcoin with Rails</a> - I might even try and hack something together for the sektor5 drinks app</li>
-<li><a href="https://dev.opera.com/articles/css-twenty-years-hakon/">(Belayed) happy birthday, CSS!</a> - an interview with Opera’s CTO Håkon Wium Lie, who published &lsquo;Cascading HTML style sheets – a proposal&rsquo; twenty years ago.</li>
 </ul>
 
 ]]></content>
