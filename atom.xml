@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-11-27T17:55:51+00:00</updated>
+  <updated>2014-12-03T14:18:00+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/12/03/picks/"/>
+    <updated>2014-12-03T20:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/12/03/picks</id>
+    <content type="html"><![CDATA[<h3>12/03 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the eighty-third edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://ionicabizau.net/blog/15-cli-github-a-fancy-github-client-for-command-line">CLI GitHub</a> - A fancy GitHub client for command line</li>
+<li><a href="https://github.com/progrium/dokku">Dokku</a> - Your own mini-Heroku, <a href="http://progrium.com/blog/2013/06/19/dokku-the-smallest-paas-implementation-youve-ever-seen">in under five minutes</a></li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://www.justinaguilar.com/animations/">CSS3 animation cheat sheet</a> -  a great set of preset, plug-and-play animations for your web projects.</li>
+<li><a href="https://github.com/tj/git-extras">git extras</a> - adding more git utilities to your toolbelt</li>
+<li><a href=""></a> -</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
@@ -807,27 +836,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://www.rails-upgrade-checklist.com">Rails Upgrade Checklist</a> - A step by step guide to make the upgrade less painful!</li>
 <li><a href="https://github.com/jlongster/emojiscript">EmojiScript</a> - It&rsquo;s a thing</li>
 <li><a href="http://vimeo.com/102907938">Eurucamp 2014</a> - A video.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/07/30/picks/"/>
-    <updated>2014-07-30T20:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/07/30/picks</id>
-    <content type="html"><![CDATA[<h3>30/07 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the sixty-fifth edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/whitesmith/rubycritic">RubyCritic</a> - Quality reports of your ruby code</li>
-<li><a href="http://zachholman.com/posts/searching-github-issues/">Search GitHub issues like a pro</a> - The Easily Amused&rsquo;s Guide to searching GitHub issues</li>
-<li><a href="https://gist.github.com/plexus/aa8d40b194bd551d2b84">Emacs Cheatsheet</a> - brought to you by Arne and his Overtone learners group</li>
 </ul>
 
 ]]></content>
