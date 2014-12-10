@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-12-10T13:14:44+00:00</updated>
+  <updated>2014-12-10T13:36:58+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/12/10/picks/"/>
+    <updated>2014-12-10T13:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/12/10/picks</id>
+    <content type="html"><![CDATA[<h3>12/10 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the eighty-fourth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://24pullrequests.com">24 Pull Requests</a> - Giving back little gifts of code for Christmas</li>
+<li><a href="https://github.com/giakki/uncss">Uncss</a> - Remove all those unused styles from your css!</li>
+<li><a href="http://regexcrossword.com">Regex Crosswords</a> - Show off those Regex skills you got</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=HNGA6CiIZKM&amp;feature=youtu.be">Rails Girls Brno</a> - they shot this video during their November edition and it&rsquo;s &lt;3</li>
+<li><a href="https://bentoboxapp.herokuapp.com/">BentoBox app</a> - Nur Sah Ketene made this super useful resource for future Rails Girls workshops (or generally beginner workshops)</li>
+<li><a href="http://foodhack.wirsing.io/">Foodhack Vienna</a> - Aaron Cruz already introduced it during our last meetup: you can now help Austria eliminate food waste</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -141,45 +171,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://www.developerdrive.com/2014/10/jquery-3-0-jquery-compat-3-0-are-announced/">jQuery update</a> - it&rsquo;s on its way, prepare for appocalipse (pun intended)</li>
 <li><a href="http://www.sitepoint.com/creating-hello-world-app-swift/">Hello Swift</a> - Creating a ‘Hello World’ app with Swift</li>
 <li><a href="http://www.w3.org/blog/news/archives/4167">HTML5</a> - Now that HTML5 is a W3 recommendation - one better starts reading up on the phenomenon</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/11/05/picks/"/>
-    <updated>2014-11-05T20:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/11/05/picks</id>
-    <content type="html"><![CDATA[<h3>11/05 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the seventy-ninth edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/pothibo/ecrire">Ecrire</a> - A blog engine for developers</li>
-<li><a href="https://sysadmincasts.com">Sysadmincasts</a> - Don&rsquo;t leave out the sysadmins! There&rsquo;s screencasts for them too..</li>
-<li><a href="https://github.com/sparklemotion/nokogiri/wiki/Cheat-sheet">Nokogiri Cheatsheet</a> - Working with Nokogiri made easy</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
-
-<ul>
-<li><a href="http://karpathy.github.io/neuralnets/">Neural Networks</a> - Hacker&rsquo;s guide to Neural Networks</li>
-<li><a href="http://henryr.github.io/cap-faq/">The CAP FAQ</a> - A short FAQ which answers all your questions about the CAP theorem.</li>
-<li><a href="https://stripe.com/blog/game-day-exercises-at-stripe">Kill all your Redis</a> - Game Day Exercises at Stripe: Learning from <code>kill -9</code></li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://ttencate.github.io/tis/">TIS</a> - Tetris clone in 4kb of JavaScript</li>
-<li><a href="https://github.com/peter-murach/tty-progressbar">tty</a> - A simple progress bar gem, with a great Readme</li>
-<li><a href="http://www.justinweiss.com/blog/2014/10/28/how-to-go-beyond-documentation-and-learn-a-new-library/">GitHub’s code search use case</a> - Where do you learn how to use a feature/gem/project, if not from its documentation?</li>
 </ul>
 
 ]]></content>
