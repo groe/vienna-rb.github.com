@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-12-21T11:45:29+00:00</updated>
+  <updated>2014-12-24T17:38:18+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/12/24/picks/"/>
+    <updated>2014-12-24T20:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/12/24/picks</id>
+    <content type="html"><![CDATA[<h3>12/24 Picks!</h3>
+
+<p>Merry Christmas everybody! In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the eighty-sixth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://cmu-is-projects.github.io/ferry">Ferry</a> - a command-line tool for data migrations and manipulation by the students of Carnegie Mellon</li>
+<li><a href="https://github.com/csm123/starburst">Starburst</a> - In-app announcements to users in your Rails app</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
+
+<ul>
+<li><a href="http://www.higherorderlogic.com/2010/07/bad-code-isnt-technical-debt-its-an-unhedged-call-option/">Bad, bad, bad</a> - Bad code isn’t Technical Debt, it’s an unhedged Call Option</li>
+<li><a href="http://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice/">Papers, please</a> - 10 Technical Papers Every Programmer Should Read (At Least Twice)</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/sferik/active_emoji">active_emoji</a> - <a href="https://github.com/sferik/">Erik</a> created a collection of emoji aliases for core Ruby methods. Got to love this.</li>
+<li><a href="http://evil-icons.io/">Evil Icons</a> - &hellip; a simple and clean SVG icon pack with the code to support Rails, Sinatra and Node.js.</li>
+<li><a href="https://github.com/janko-m/tic-tac-toe">tic-tac-toe</a> - play tic-tac-toe in your Terminal. Because you can.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
@@ -805,35 +842,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://red-badger.com/blog/2014/08/20/i-spent-3-days-with-sandi-metz-heres-what-i-learned/">3 days with Sandi Metz</a> - Jack Hoy is a lucky man.</li>
 <li><a href="http://arrrrcamp.be/">arrrrcamp</a> - <a href="mailto:hello@vienna-rb.at?subject=Arrrrcamp discount code">Ask us</a> for the User Group discount code for Belgium&rsquo;s most &lsquo;gemuetliches&rsquo; Ruby gathering.</li>
 <li><a href="http://blogs.atlassian.com/2014/08/whats-new-git-2-1/">New and exciting in Git 2.1</a> - &hellip; according to Atlassian.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/08/20/picks/"/>
-    <updated>2014-08-20T20:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/08/20/picks</id>
-    <content type="html"><![CDATA[<h3>20/08 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the sixty-eighth edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="http://whyday.org">WhyDay</a> - A day to celebrate Why the Lucky Stiff</li>
-<li><a href="http://www.justinweiss.com/blog/2014/08/18/rails-i18n-3-quick-tips-and-1-crazy-abuse/">Rails I18n</a> - 3 quick tips and 1 crazy abuse</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
-
-<ul>
-<li><a href="http://weblog.rubyonrails.org/2014/8/20/Rails-4-2-beta1/">Rails</a> - Rails 4.2 Beta - checkout ActiveJob and GlobalID</li>
-<li><a href="http://www.threechords.org/blog/how-animated-gif-selfies-fixed-our-teams-morale/">Selfies</a> - Animated Selfies to improve your team moral</li>
-<li><a href="https://upcase.com/vim">Upcase</a> - Upcase has some nice ressources for learning vim!</li>
 </ul>
 
 ]]></content>
