@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2014-12-30T13:40:24+00:00</updated>
+  <updated>2015-01-01T11:14:53+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2014/12/31/picks/"/>
+    <updated>2014-12-31T20:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2014/12/31/picks</id>
+    <content type="html"><![CDATA[<h3>12/31 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the eighty-seventh edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://devblog.avdi.org/2014/04/30/learn-advanced-rake-in-7-episodes/">Advanced Rake</a> - Learn Advanced Rake in 7 Episodes</li>
+<li><a href="http://www.chrisseaton.com/rubytruffle/deoptimizing">Deoptimizing Ruby</a> - bonus: with pretty Alice in Wonderland illustrations</li>
+<li><a href="http://www.hacktherainforest.org">Hack the rainforest</a> - An amazing project to help document environmental and human rights abuses</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://blog.codeship.com/repository-driven-infrastructure/">RDI</a> - Repository Driven Infrastructure, a term coined by our friends at Codeship. Interesting article.</li>
+<li><a href="http://internet-map.net/">Internet map</a> - Love this. via <a href="http://www.twitter.com/bastilian">Sebastian</a></li>
+<li><a href="http://media.ccc.de/browse/congress/2014/index.html">31c3 recordings</a> - I know what I&rsquo;ll be doing this weekend&hellip;</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
@@ -786,62 +816,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <ul>
 <li><a href="http://followingapp.herokuapp.com/">Know your timeline</a> - Fun ReactJS game testing how well you know the people you follow on Twitter.</li>
 <li><a href="http://oneshot.risingstack.com/">nodeconf</a> - A developer conference nearby that&rsquo;s <em>not</em> in Berlin - nodeconf takes place November 21th in beautiful Budapest.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/08/27/picks/"/>
-    <updated>2014-08-27T20:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/08/27/picks</id>
-    <content type="html"><![CDATA[<h3>27/08 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the sixty-ninth edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/Dobiasd/programming-language-subreddits-and-their-choice-of-words">Words in programming language subreddits</a> - Analysing language and making graphs. How cool is that?</li>
-<li><a href="https://github.com/live-editor/draftsman">Draftsman</a> - Create draft versions of your model&rsquo;s data</li>
-<li><a href="https://github.com/NYTimes">The New York Times on GitHub</a> - some interesting little projects, a few of which are written in ruby</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
-
-<ul>
-<li><a href="http://www.talkingquickly.co.uk/2014/06/rails-development-environment-with-vagrant-and-docker/">Rails Dev Environment</a> - A Rails Development Environment with Docker and Vagrant</li>
-<li><a href="http://www.fastcolabs.com/3010972/open-company/how-github-uses-deprivation-testing-to-hone-product-design">Deprivation Testing</a> - How GitHub Uses &ldquo;Deprivation Testing&rdquo; To Hone Product Design</li>
-<li><a href="http://huydx.com/facy/">Facy</a> - Command line power tool for Facebook</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
-
-<ul>
-<li><a href="http://jasmcole.com/2014/08/25/helmhurts/">Hemlhurts</a> - Optimize your Wifi reception with physics!</li>
-<li><a href="http://www.eweek.com/cloud/docker-founder-details-his-plan-to-secure-virtualization.html">Docker</a> - Solomon Hykes sharing his plans to secure virtualization</li>
-<li><a href="http://www.boredpanda.com/bear-cubs-photography-parenting/">Bears</a> - Big Bears Teaching Their Teddies How To Bear</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
-
-<ul>
-<li><a href="http://www.gotealeaf.com/blog/integrating-rails-and-bootstrap-part-1">Integrating Rails and Bootstrap</a> - start of a series describing bootstrap/rails integration succinctly</li>
-<li><a href="http://blog.drorhelper.com/2014/08/unit-testing-youre-measuring-it-wrong.html">Unit testing – you’re measuring it wrong</a> - yes, yes you do. We all do. And here&rsquo;s a few ideas &hellip;</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://red-badger.com/blog/2014/08/20/i-spent-3-days-with-sandi-metz-heres-what-i-learned/">3 days with Sandi Metz</a> - Jack Hoy is a lucky man.</li>
-<li><a href="http://arrrrcamp.be/">arrrrcamp</a> - <a href="mailto:hello@vienna-rb.at?subject=Arrrrcamp discount code">Ask us</a> for the User Group discount code for Belgium&rsquo;s most &lsquo;gemuetliches&rsquo; Ruby gathering.</li>
-<li><a href="http://blogs.atlassian.com/2014/08/whats-new-git-2-1/">New and exciting in Git 2.1</a> - &hellip; according to Atlassian.</li>
 </ul>
 
 ]]></content>
