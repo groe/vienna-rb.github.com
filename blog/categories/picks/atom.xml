@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2015-01-07T20:22:24+00:00</updated>
+  <updated>2015-01-08T09:19:39+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/01/07/picks/"/>
+    <updated>2015-01-07T20:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2015/01/07/picks</id>
+    <content type="html"><![CDATA[<h3>01/7 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the eighty-eighth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://www.seccasts.com">SecCasts</a> - Security Screencasts</li>
+<li><a href="http://tinyletter.com/b0rk/letters/how-do-you-become-an-excellent-programmer">How do you become an excellent programmer?</a> - <a href="http://twitter.com/b0rk">Julia Evans</a> asked around on twitter for advice on becoming an excellent programmer and gathered some of the answers in a post</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://www.developerdrive.com/2014/12/simplify-your-documentation-process-with-couscous/">Couscous</a> - &hellip; takes markdown files and converts them into professional standard HTML docs. For those who hate on documentation writing.</li>
+<li><a href="http://www.sitepoint.com/ruby-peek-2015/">Ruby 2015</a> - the managing editor for SitePoint on all things Ruby shares what he thinks is in store for our favorite language this year around.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -133,34 +161,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="https://www.youtube.com/watch?v=HNGA6CiIZKM&amp;feature=youtu.be">Rails Girls Brno</a> - they shot this video during their November edition and it&rsquo;s &lt;3</li>
 <li><a href="https://bentoboxapp.herokuapp.com/">BentoBox app</a> - Nur Sah Ketene made this super useful resource for future Rails Girls workshops (or generally beginner workshops)</li>
 <li><a href="http://foodhack.wirsing.io/">Foodhack Vienna</a> - Aaron Cruz already introduced it during our last meetup: you can now help Austria eliminate food waste</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/12/03/picks/"/>
-    <updated>2014-12-03T20:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/12/03/picks</id>
-    <content type="html"><![CDATA[<h3>12/03 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the eighty-third edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="http://ionicabizau.net/blog/15-cli-github-a-fancy-github-client-for-command-line">CLI GitHub</a> - A fancy GitHub client for command line</li>
-<li><a href="https://github.com/progrium/dokku">Dokku</a> - Your own mini-Heroku, <a href="http://progrium.com/blog/2013/06/19/dokku-the-smallest-paas-implementation-youve-ever-seen">in under five minutes</a></li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://www.justinaguilar.com/animations/">CSS3 animation cheat sheet</a> -  a great set of preset, plug-and-play animations for your web projects.</li>
-<li><a href="https://github.com/tj/git-extras">git extras</a> - adding more git utilities to your toolbelt</li>
 </ul>
 
 ]]></content>
