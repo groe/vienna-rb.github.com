@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2015-01-15T09:59:36+00:00</updated>
+  <updated>2015-01-15T10:04:22+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/01/14/picks/"/>
+    <updated>2015-01-14T20:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2015/01/14/picks</id>
+    <content type="html"><![CDATA[<h3>01/14 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the eighty-ninth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://www-cs-students.stanford.edu/~blynn/gitmagic">Git Magic</a> - A book to achieve Git Grandmastery (maybe)</li>
+<li><a href="http://pgcli.com">PGCLI</a> - Postgres command line interface with autocompletion and syntax highlighting</li>
+<li><a href="http://www.extremetech.com/extreme/187736-harvard-mit-create-first-self-assembling-robots-the-first-real-transformers">Origami Robots</a> - Harvard &amp; MIT create the first self-assembling robots</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/mraaroncruz">Aaron</a>:</h5>
+
+<ul>
+<li><a href="http://blog.testdouble.com/posts/2014-11-04-healthy-migration-habits.html#habit-4-don-t-reference-models">Healthy Migration Habits</a> - If you have felt the pain of referencing your ActiveRecord models in data migrations, here are some great tips</li>
+<li><a href="http://blog.lostpropertyhq.com/postgres-full-text-search-is-good-enough/">Postgres Full-Text Search is Good Enough!</a> - PostgreSQL does lots of things really well. Here is a short but sweet intro to full-text search using your favorite database.</li>
+<li><a href="https://speakerdeck.com/sferik/writing-fast-ruby">Writing Fast Ruby (slides)</a> - I normally wouldn&rsquo;t share slides but these are incredibly useful and beautifully designed. A little premature optimization for you :)</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/narkoz/ginatra">ginatra</a> - &hellip; is a simple web-based git repository browser built on Ruby Sinatra</li>
+<li><a href="http://shipyourenemiesglitter.com/">Hate glitter mail</a> - ship your enemies glitter (via <a href="http://www.twitter.com/bastilian">Sebastian</a>)</li>
+<li><a href="http://coaching.rubymonstas.org/">Study group</a> - The Berlin based study group Ruby Monsters wrote up some tips on coaching a programming study group</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -131,36 +170,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <ul>
 <li><a href="http://confreaks.com/events/RubyConf2014">RubyConf 2014</a> - The video&rsquo;s from RubyConf San Diego are online. I know what I&rsquo;ll be doing this weekend&hellip;</li>
 <li><a href="https://www.youtube.com/watch?v=wxswPdwI0DU">Ten Years of Ruby Conferences</a> - Jeremy Flores &amp; Carol Nichols created a &lsquo;dramatic revue&rsquo; of 10 years of Ruby conferences for Keep Ruby Weird. And it&rsquo;s good.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/12/10/picks/"/>
-    <updated>2014-12-10T13:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/12/10/picks</id>
-    <content type="html"><![CDATA[<h3>12/10 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the eighty-fourth edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="http://24pullrequests.com">24 Pull Requests</a> - Giving back little gifts of code for Christmas</li>
-<li><a href="https://github.com/giakki/uncss">Uncss</a> - Remove all those unused styles from your css!</li>
-<li><a href="http://regexcrossword.com">Regex Crosswords</a> - Show off those Regex skills you got</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="https://www.youtube.com/watch?v=HNGA6CiIZKM&amp;feature=youtu.be">Rails Girls Brno</a> - they shot this video during their November edition and it&rsquo;s &lt;3</li>
-<li><a href="https://bentoboxapp.herokuapp.com/">BentoBox app</a> - Nur Sah Ketene made this super useful resource for future Rails Girls workshops (or generally beginner workshops)</li>
-<li><a href="http://foodhack.wirsing.io/">Foodhack Vienna</a> - Aaron Cruz already introduced it during our last meetup: you can now help Austria eliminate food waste</li>
 </ul>
 
 ]]></content>
