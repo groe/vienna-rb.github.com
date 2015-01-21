@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2015-01-21T09:05:25+00:00</updated>
+  <updated>2015-01-21T13:19:57+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/01/21/picks/"/>
+    <updated>2015-01-21T14:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2015/01/21/picks</id>
+    <content type="html"><![CDATA[<h3>01/21 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the ninetieth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/exercism/exercism.io/issues/2163">contribute to the exercism docs</a> - If you are intimitated by contributing to an open-source project with actual code.. <a href="https://twitter.com/kytrinyx">Katrina Owen</a> is looking for awesome people to contribute to the README and documentation. Go for it!</li>
+<li><a href="http://conc-at.tumblr.com/post/107499311229/diversity-tickets">.concat() Diversity Programme</a> - you can now help fund diversity tickets for the <a href="https://conc.at">.concat()</a> conference happening in March</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/mraaroncruz">Aaron</a>:</h5>
+
+<ul>
+<li><a href="http://www.rubymotion.com/">Rubymotion</a> - Rubymotion has changed their revenue model. There is now more affordable supportless Indie plan for $144/year. Android support has also shipped. Yeah!</li>
+<li><a href="http://hashrocket.com/blog/posts/using-simpledelegator-for-your-decorators">Decorating with SimpleDelegator</a> - An oldie but the simplest explanation I have ever seen for how to use Ruby stdlib&rsquo;s SimpleDelegator</li>
+<li><a href="https://github.com/markets/awesome-ruby">awesome-ruby</a> - There are tons of these <a href="https://github.com/bayandin/awesome-awesomeness">awesome-X</a> repos on github with tens of thousands of combined stars. If you haven&rsquo;t seen one, they are lists of problem categories like <code>ie. Authentication</code> full of links to the best library repos for that language or platform. This is the Ruby one.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="https://www.facebook.com/events/339497852920953/">Rubyslava</a> - We all love the Bratislavian Ruby chapter, but their 45th edition is REALLY worth a visit</li>
+<li><a href="https://github.com/ianks/octodown">Octodown</a> - Github markdown previewing straight from your shell. Hot.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
@@ -677,60 +714,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <ul>
 <li><a href="http://blog.codeunion.io/2014/09/03/teaching-novices-how-to-debug-code/">New to debugging</a> - Teaching novice programmers how to debug their code</li>
 <li><a href="http://blog.codeschool.com/post/96472124263/how-code-school-uses-github">How Codeschool uses GitHub</a> - because we all like a little voyeurism</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/09/10/picks/"/>
-    <updated>2014-09-10T20:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/09/10/picks</id>
-    <content type="html"><![CDATA[<h3>10/09 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the seventy-first edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="http://robots.thoughtbot.com/improving-the-command-line-postgres-experience">Improving the command line postgres experience</a> - personalize EVERYTHING</li>
-<li><a href="http://commonmark.org">Standard Markdown is now Common Markdown..</a> - .. is now CommonMark</li>
-<li><a href="http://2014.frozenrails.eu">Frozen Rails</a> - Yep, it&rsquo;s Frozen Rails (and Baruco) week. Come hang!</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/fnando/factory_girl-preload">Factory Girl - preload</a> - Preload factories (Factory Girl) just like fixtures. It will be easy and, probably, faster!</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/rxin/db-readings">Readings in Databases</a> - A list of papers essential to understanding databases and building new data systems.</li>
-<li><a href="http://wp.sigmod.org/?p=688">Fifty Years of Databases</a> - How everything started.</li>
-<li><a href="http://www.daemonology.net/blog/2014-09-04-how-to-zero-a-buffer.html">How to zero a buffer</a></li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/tony_xpro">Tony</a>:</h5>
-
-<ul>
-<li><a href="http://blog.8thlight.com/uncle-bob/2014/05/02/ProfessionalismAndTDD.html">Professionalism and TDD (Reprise)</a> - An answer to criticism that I can agree to.</li>
-<li><a href="http://js2coffee.org/">Js2coffee</a> - the Javascript to coffeescript converter (for those who want to change the crowd)</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://5by5.tv/rubyonrails/166">Rails Rumble ramp-up</a> - Thinking about joining the Rails Rumble competition this year around. These podcasts will help you prep like a pro.</li>
-<li><a href="http://littlelines.com/blog/2014/09/02/seamlessly-navigate-rails-projects-with-tmux/">Tmux nav</a> - Learn how to seamlessly navigate your Rails projects with Tmux.</li>
-<li><a href="https://academy.zenva.com/product/html5-mobile-game-development-by-example-veggies-vs-zombies/">Veggies vs Zombies</a> - Learn how to build a cross-platform game in HTML5 (for 17$).</li>
 </ul>
 
 ]]></content>
