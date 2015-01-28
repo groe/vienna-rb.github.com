@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2015-01-28T11:59:11+00:00</updated>
+  <updated>2015-01-28T12:13:54+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/01/28/picks/"/>
+    <updated>2015-01-28T20:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2015/01/28/picks</id>
+    <content type="html"><![CDATA[<h3>01/28 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the ninety-first edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/blog/1943-how-to-write-the-perfect-pull-request">How to write the perfect pull request</a> - &ldquo;Use emoji to clarify tone&rdquo; and other great tips.</li>
+<li><a href="https://modelviewculture.com/pieces/on-learn-to-code">On &ldquo;Learn To Code&rdquo;</a> - Should industry be allowed to dictate our curriculums? An interesting look at the growing &ldquo;Learn to code&rdquo; movement</li>
+<li><a href="http://dev.ghost.org/css-at-ghost/">How we do CSS at Ghost</a> - Check out how GitHub and LonelyPlanet do it, too! (in the introductory paragraph)</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/mraaroncruz">Aaron</a>:</h5>
+
+<ul>
+<li><a href="http://viget.com/extend/just-use-double-quoted-ruby-strings">Just use double-quoted strings</a> - It turns out there isn&rsquo;t a signifcant performance loss using double quoted strings in Ruby (because of interpolation). Interesting comment threads about semantics.</li>
+<li><a href="http://libsass.org/">libsass</a> - Do you think your SASS compilation times are slow? Do you need a speed boost? Make your asset builds magnitudes (yes magnitudes) faster with libsass</li>
+<li><a href="https://github.com/thoughtbot/til">thoughtbot/til</a> - til (today i learned) is a repo where people can add snippets for things that they learn in different technologies that they think is worth writing down for others. There are both a <a href="https://github.com/thoughtbot/til/tree/master/ruby">Ruby</a> and a <a href="https://github.com/thoughtbot/til/tree/master/rails">Rails</a> section. More great stuff from the folks at <a href="https://github.com/thoughtbot">thoughtbot</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
@@ -676,44 +706,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <ul>
 <li><a href="https://github.com/DamirSvrtan/space-invaders.rb">Ruby Space Invaders</a> - Space Invaders - Classic Arcade Game written in Ruby w/ Gosu</li>
 <li><a href="http://vimeo.com/105955605">Because awesome</a> - Mary Rose Cook live-codes a JavaScript game from scratch at Front-Trends 2014</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/09/17/picks/"/>
-    <updated>2014-09-17T20:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/09/17/picks</id>
-    <content type="html"><![CDATA[<h3>17/09 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the seventy-second edition:</p>
-
-<h5><a href="http://www.twitter.com/alexandertacho">Alex</a>:</h5>
-
-<ul>
-<li><a href="http://cookieshq.co.uk/posts/how-to-style-emails-with-rails-and-roadie/">Roadie</a> - Styling emails with Rails and Roadie</li>
-<li><a href="http://eng.joingrouper.com/blog/2014/09/02/configuring-rails-environments/">Configuring Rails Environments</a> - Configure Rails Environments with ENV variables</li>
-<li><a href="http://reactiongifs.com/?p=12713">Mid-week. Looking forward to the remaining days?</a></li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
-
-<ul>
-<li><a href="https://www.hashicorp.com/blog/consul-s3-multipart.html">S3 Multipart</a> - How to do S3 atomic S3 multipart uploads</li>
-<li><a href="https://engineering.heroku.com/blogs/2014-09-05-hutils-explore-your-structured-data-logs">Heroku Logs</a> - Tools to explore your Heroku logs</li>
-<li><a href="https://github.com/softace/activerecord-tableless">ActiveRecord Tableless</a> - Bringing together the different tableless model implementations into a single gem/plugin</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://blog.codeunion.io/2014/09/03/teaching-novices-how-to-debug-code/">New to debugging</a> - Teaching novice programmers how to debug their code</li>
-<li><a href="http://blog.codeschool.com/post/96472124263/how-code-school-uses-github">How Codeschool uses GitHub</a> - because we all like a little voyeurism</li>
 </ul>
 
 ]]></content>

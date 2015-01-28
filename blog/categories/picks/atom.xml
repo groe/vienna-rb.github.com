@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2015-01-28T11:59:11+00:00</updated>
+  <updated>2015-01-28T12:13:54+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/01/28/picks/"/>
+    <updated>2015-01-28T20:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2015/01/28/picks</id>
+    <content type="html"><![CDATA[<h3>01/28 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the ninety-first edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/blog/1943-how-to-write-the-perfect-pull-request">How to write the perfect pull request</a> - &ldquo;Use emoji to clarify tone&rdquo; and other great tips.</li>
+<li><a href="https://modelviewculture.com/pieces/on-learn-to-code">On &ldquo;Learn To Code&rdquo;</a> - Should industry be allowed to dictate our curriculums? An interesting look at the growing &ldquo;Learn to code&rdquo; movement</li>
+<li><a href="http://dev.ghost.org/css-at-ghost/">How we do CSS at Ghost</a> - Check out how GitHub and LonelyPlanet do it, too! (in the introductory paragraph)</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/mraaroncruz">Aaron</a>:</h5>
+
+<ul>
+<li><a href="http://viget.com/extend/just-use-double-quoted-ruby-strings">Just use double-quoted strings</a> - It turns out there isn&rsquo;t a signifcant performance loss using double quoted strings in Ruby (because of interpolation). Interesting comment threads about semantics.</li>
+<li><a href="http://libsass.org/">libsass</a> - Do you think your SASS compilation times are slow? Do you need a speed boost? Make your asset builds magnitudes (yes magnitudes) faster with libsass</li>
+<li><a href="https://github.com/thoughtbot/til">thoughtbot/til</a> - til (today i learned) is a repo where people can add snippets for things that they learn in different technologies that they think is worth writing down for others. There are both a <a href="https://github.com/thoughtbot/til/tree/master/ruby">Ruby</a> and a <a href="https://github.com/thoughtbot/til/tree/master/rails">Rails</a> section. More great stuff from the folks at <a href="https://github.com/thoughtbot">thoughtbot</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -142,43 +172,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://blog.codeship.com/repository-driven-infrastructure/">RDI</a> - Repository Driven Infrastructure, a term coined by our friends at Codeship. Interesting article.</li>
 <li><a href="http://internet-map.net/">Internet map</a> - Love this. via <a href="http://www.twitter.com/bastilian">Sebastian</a></li>
 <li><a href="http://media.ccc.de/browse/congress/2014/index.html">31c3 recordings</a> - I know what I&rsquo;ll be doing this weekend&hellip;</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/12/24/picks/"/>
-    <updated>2014-12-24T20:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/12/24/picks</id>
-    <content type="html"><![CDATA[<h3>12/24 Picks, Merry Christmas everybody!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the eighty-sixth edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="http://cmu-is-projects.github.io/ferry">Ferry</a> - a command-line tool for data migrations and manipulation by the students of Carnegie Mellon</li>
-<li><a href="https://github.com/csm123/starburst">Starburst</a> - In-app announcements to users in your Rails app</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
-
-<ul>
-<li><a href="http://www.higherorderlogic.com/2010/07/bad-code-isnt-technical-debt-its-an-unhedged-call-option/">Bad, bad, bad</a> - Bad code isn’t Technical Debt, it’s an unhedged Call Option</li>
-<li><a href="http://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice/">Papers, please</a> - 10 Technical Papers Every Programmer Should Read (At Least Twice)</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/sferik/active_emoji">active_emoji</a> - <a href="https://github.com/sferik/">Erik</a> created a collection of emoji aliases for core Ruby methods. Got to love this.</li>
-<li><a href="http://evil-icons.io/">Evil Icons</a> - &hellip; a simple and clean SVG icon pack with the code to support Rails, Sinatra and Node.js.</li>
-<li><a href="https://github.com/janko-m/tic-tac-toe">tic-tac-toe</a> - play tic-tac-toe in your Terminal. Because you can.</li>
 </ul>
 
 ]]></content>
