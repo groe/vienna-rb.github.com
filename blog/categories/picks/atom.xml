@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2015-02-04T13:12:45+00:00</updated>
+  <updated>2015-02-05T14:11:48+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/02/04/picks/"/>
+    <updated>2015-02-04T14:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2015/02/04/picks</id>
+    <content type="html"><![CDATA[<h3>02/04 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the ninety-second edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://twitter.com/GreatHaikuBot">GreatHaikuBot</a> - basically tech haikus.. because why not.</li>
+<li><a href="https://devmynd.com/blog/2015-1-pairing-with-junior-developers">Pairing with Junior Developers</a> - A few tips that might come in handy if you&rsquo;re considering pairing.</li>
+<li><a href="http://railsgirlssummerofcode.org/guide/projects">RGSoC: Call for Projects</a> - The Rails Girls Summer of Code is accepting projects for its 2015 programme. DO EET!</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://signal.twilio.com/call-for-presenters">Signal</a> - The CFP for Signal, Twilio&rsquo;s technical conference about how developers are changing communications, is open.</li>
+<li><a href="https://github.com/LunarLogic/gauguin">gauguin</a> - Nifty tool for retrieving the main colors from an image.</li>
+<li><a href="http://sarasoueidan.com/blog/compositing-and-blending-in-css">roarrr</a> - Because sexy: compositing and blending in CSS.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -142,36 +172,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <ul>
 <li><a href="http://www.developerdrive.com/2014/12/simplify-your-documentation-process-with-couscous/">Couscous</a> - &hellip; takes markdown files and converts them into professional standard HTML docs. For those who hate on documentation writing.</li>
 <li><a href="http://www.sitepoint.com/ruby-peek-2015/">Ruby 2015</a> - the managing editor for SitePoint on all things Ruby shares what he thinks is in store for our favorite language this year around.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/12/31/picks/"/>
-    <updated>2014-12-31T20:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/12/31/picks</id>
-    <content type="html"><![CDATA[<h3>12/31 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the eighty-seventh edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="http://devblog.avdi.org/2014/04/30/learn-advanced-rake-in-7-episodes/">Advanced Rake</a> - Learn Advanced Rake in 7 Episodes</li>
-<li><a href="http://www.chrisseaton.com/rubytruffle/deoptimizing">Deoptimizing Ruby</a> - bonus: with pretty Alice in Wonderland illustrations</li>
-<li><a href="http://www.hacktherainforest.org">Hack the rainforest</a> - An amazing project to help document environmental and human rights abuses</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://blog.codeship.com/repository-driven-infrastructure/">RDI</a> - Repository Driven Infrastructure, a term coined by our friends at Codeship. Interesting article.</li>
-<li><a href="http://internet-map.net/">Internet map</a> - Love this. via <a href="http://www.twitter.com/bastilian">Sebastian</a></li>
-<li><a href="http://media.ccc.de/browse/congress/2014/index.html">31c3 recordings</a> - I know what I&rsquo;ll be doing this weekend&hellip;</li>
 </ul>
 
 ]]></content>
