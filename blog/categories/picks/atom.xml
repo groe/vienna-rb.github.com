@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2015-02-11T09:57:57+00:00</updated>
+  <updated>2015-02-11T10:35:52+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/02/11/picks/"/>
+    <updated>2015-02-11T14:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2015/02/11/picks</id>
+    <content type="html"><![CDATA[<h3>02/11 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the ninety-third edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://regexone.com">RegexOne</a> - Learn Regular Expressions with simple, interactive examples</li>
+<li><a href="https://github.com/idonethis/didit-cli-client">DidIt</a> - For all if you Productivity nerds.. There&rsquo;s an IDoneThis command line client</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/mraaroncruz">Aaron</a>:</h5>
+
+<ul>
+<li><a href="http://madewithenvy.com/ecosystem/articles/2013/rake-file-tasks/">Rake file tasks</a> - A good intro to rake file tasks starting from the bare minimum</li>
+<li><a href="http://devblog.avdi.org/2010/01/31/first-and-rest-in-ruby/">First and Rest in Ruby</a> - A really neat way to implement first and rest, common functions in functional languages, in Ruby.</li>
+<li><a href="https://medium.com/@KamilLelonek/ansible-for-rubyists-22533bd98">Ansible for Rubyists</a> - This is a very basic intro to Ansible, aimed at people who are used to capistrano/mina.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/squarism/dream">Dream</a> - Dream is a music video done in Ruby with gamebox. And it&rsquo;s interesting.</li>
+<li><a href="https://github.com/plribeiro3000/jazz_fingers">Jazz Fingers</a> - Pry-based enhancements for the default Rails 3 and 4 consoles. Rrrr.</li>
+<li><a href="https://github.com/FezVrasta/bootstrap-material-design">Material</a> - This Bootstrap theme is an easy way to use the new Material Design guidelines by Google in your Bootstrap 3 based application.</li>
+<li><a href="http://cssanimation.rocks/post/twitter-fave/">CSS Animation</a> - Recreating Twitter&rsquo;s brand new &lsquo;fave&rsquo; animation.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -144,34 +183,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="https://github.com/narkoz/ginatra">ginatra</a> - &hellip; is a simple web-based git repository browser built on Ruby Sinatra</li>
 <li><a href="http://shipyourenemiesglitter.com/">Hate glitter mail</a> - ship your enemies glitter (via <a href="http://www.twitter.com/bastilian">Sebastian</a>)</li>
 <li><a href="http://coaching.rubymonstas.org/">Study group</a> - The Berlin based study group Ruby Monsters wrote up some tips on coaching a programming study group</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2015/01/07/picks/"/>
-    <updated>2015-01-07T20:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2015/01/07/picks</id>
-    <content type="html"><![CDATA[<h3>01/7 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the eighty-eighth edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="https://www.seccasts.com">SecCasts</a> - Security Screencasts</li>
-<li><a href="http://tinyletter.com/b0rk/letters/how-do-you-become-an-excellent-programmer">How do you become an excellent programmer?</a> - <a href="http://twitter.com/b0rk">Julia Evans</a> asked around on twitter for advice on becoming an excellent programmer and gathered some of the answers in a post</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://www.developerdrive.com/2014/12/simplify-your-documentation-process-with-couscous/">Couscous</a> - &hellip; takes markdown files and converts them into professional standard HTML docs. For those who hate on documentation writing.</li>
-<li><a href="http://www.sitepoint.com/ruby-peek-2015/">Ruby 2015</a> - the managing editor for SitePoint on all things Ruby shares what he thinks is in store for our favorite language this year around.</li>
 </ul>
 
 ]]></content>
