@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2015-02-18T11:36:56+00:00</updated>
+  <updated>2015-02-19T08:08:28+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/02/18/picks/"/>
+    <updated>2015-02-18T14:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2015/02/18/picks</id>
+    <content type="html"><![CDATA[<h3>02/18 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the ninety-fourth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/sj26/mailcatcher">MailCatcher</a> - Test your emails like WHOA</li>
+<li><a href="https://medium.com/design-open/becoming-a-jekyll-god-ef722e93f771">Becoming a Jekyll God</a> - If you weren&rsquo;t at our last meetup, you won&rsquo;t get it ;)</li>
+<li><a href="http://rubyheroes.com/">Ruby Heroes</a> - Get nominatin'!</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/mraaroncruz">Aaron</a>:</h5>
+
+<ul>
+<li><a href="https://skillsmatter.com/skillscasts/5191-martin-thompson#showModal?modal-signup-complete">95% of performance is about clean representative models</a> - Really great talk about how writing &ldquo;clean code&rdquo; and OOP best practice can boost your performance at the compiler level. The best talk I have seen in a long time. Warning: Java inside.</li>
+<li><a href="http://swaggadocio.com/post/48223179207/why-the-hell-does-your-api-still-use-http-basic">Why the Hell Does Your API Still Use HTTP Basic Auth?</a> - Your API may be exposing your customers' password in clear text. Interesting insights into security and UX tradeoffs.</li>
+<li><a href="http://www.justinweiss.com/blog/2015/02/03/finding-your-way-around-a-new-rails-project/">Finding Your Way Around a New Rails Project</a> - If you are dumped into a legacy Rails project, here are some tips to finding out WTF is going on.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://thechangelog.com/people-ask-wi-fi-password-answer-quickly/">Wi-Fi password</a> - Cool little Bash script to quickly fetch your Wi-Fi password from OS X’s keychain.</li>
+<li><a href="http://thechangelog.com/exercism-spawns-nipicking-robot/">Rikki</a> - Katrina Owen has recently added a nitpicking robot to Exercism — an app that lets you practice your coding and get crowd-sourced mentorship - called Rikki.</li>
+<li><a href="http://jsconfbp.com/">JSConf Budapest</a> - a JSConf family member 2-day non-profit for-the-community by-the-community conference about JavaScript JUST AROUND THE CORNER! Now if you could all use my couponcode LEKKERKAASJSCONFBP you get a €50 discount and I get to send someone to Budapest who could otherwise not afford it &lt;3</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
@@ -669,34 +708,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <ul>
 <li><a href="https://www.twilio.com/blog/2014/10/how-to-build-a-meme-generator-using-twilio-mms-imgflip-and-sinatra.html?">Building a meme generator</a> - Learn how to build a meme generator using Twilio MMS, Imgflip and Sinatra</li>
 <li><a href="https://practicingruby.com/articles/ant-colony-simulation?u=dc2ab0f9bb">ant colonies</a> - Simulating the emergent behavior of ant colonies with Ruby</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/10/08/picks/"/>
-    <updated>2014-10-08T20:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/10/08/picks</id>
-    <content type="html"><![CDATA[<h3>10/08 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the seventy-fifth edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="https://education.github.com/pack">Student Developer Pack</a> - If you&rsquo;re a student, consider signing up for this awesome pack!</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://guides.railsgirls.com/">fresh guides</a> - Yay for new Rails Girls guides - 12 and 13 - by the hand of <a href="http://www.twitter.com/chastell">@chastell</a>.</li>
-<li><a href="http://rvm.io/blog">Papis blogs!</a> - Michal Papis just started a blog for RVM. Which is great.</li>
-<li><a href="http://blog.railsrumble.com/2014/10/06/registration-has-opened/">Rails Rumble</a> - Registration for this year&rsquo;s Rails Rumble has opened. Keep in mind that you&rsquo;d have <a href="http://www.meetup.com/vienna-rb/events/197015742/">a place to work/hack from</a>, might your team need it.</li>
 </ul>
 
 ]]></content>

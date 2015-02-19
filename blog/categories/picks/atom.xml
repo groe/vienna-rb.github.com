@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2015-02-18T11:36:56+00:00</updated>
+  <updated>2015-02-19T08:08:28+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/02/18/picks/"/>
+    <updated>2015-02-18T14:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2015/02/18/picks</id>
+    <content type="html"><![CDATA[<h3>02/18 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the ninety-fourth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/sj26/mailcatcher">MailCatcher</a> - Test your emails like WHOA</li>
+<li><a href="https://medium.com/design-open/becoming-a-jekyll-god-ef722e93f771">Becoming a Jekyll God</a> - If you weren&rsquo;t at our last meetup, you won&rsquo;t get it ;)</li>
+<li><a href="http://rubyheroes.com/">Ruby Heroes</a> - Get nominatin&#8217;!</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/mraaroncruz">Aaron</a>:</h5>
+
+<ul>
+<li><a href="https://skillsmatter.com/skillscasts/5191-martin-thompson#showModal?modal-signup-complete">95% of performance is about clean representative models</a> - Really great talk about how writing &ldquo;clean code&rdquo; and OOP best practice can boost your performance at the compiler level. The best talk I have seen in a long time. Warning: Java inside.</li>
+<li><a href="http://swaggadocio.com/post/48223179207/why-the-hell-does-your-api-still-use-http-basic">Why the Hell Does Your API Still Use HTTP Basic Auth?</a> - Your API may be exposing your customers&#8217; password in clear text. Interesting insights into security and UX tradeoffs.</li>
+<li><a href="http://www.justinweiss.com/blog/2015/02/03/finding-your-way-around-a-new-rails-project/">Finding Your Way Around a New Rails Project</a> - If you are dumped into a legacy Rails project, here are some tips to finding out WTF is going on.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://thechangelog.com/people-ask-wi-fi-password-answer-quickly/">Wi-Fi password</a> - Cool little Bash script to quickly fetch your Wi-Fi password from OS X’s keychain.</li>
+<li><a href="http://thechangelog.com/exercism-spawns-nipicking-robot/">Rikki</a> - Katrina Owen has recently added a nitpicking robot to Exercism — an app that lets you practice your coding and get crowd-sourced mentorship - called Rikki.</li>
+<li><a href="http://jsconfbp.com/">JSConf Budapest</a> - a JSConf family member 2-day non-profit for-the-community by-the-community conference about JavaScript JUST AROUND THE CORNER! Now if you could all use my couponcode LEKKERKAASJSCONFBP you get a €50 discount and I get to send someone to Budapest who could otherwise not afford it &lt;3</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -144,45 +183,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <ul>
 <li><a href="https://www.facebook.com/events/339497852920953/">Rubyslava</a> - We all love the Bratislavian Ruby chapter, but their 45th edition is REALLY worth a visit</li>
 <li><a href="https://github.com/ianks/octodown">Octodown</a> - Github markdown previewing straight from your shell. Hot.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2015/01/14/picks/"/>
-    <updated>2015-01-14T20:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2015/01/14/picks</id>
-    <content type="html"><![CDATA[<h3>01/14 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the eighty-ninth edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="http://www-cs-students.stanford.edu/~blynn/gitmagic">Git Magic</a> - A book to achieve Git Grandmastery (maybe)</li>
-<li><a href="http://pgcli.com">PGCLI</a> - Postgres command line interface with autocompletion and syntax highlighting</li>
-<li><a href="http://www.extremetech.com/extreme/187736-harvard-mit-create-first-self-assembling-robots-the-first-real-transformers">Origami Robots</a> - Harvard &amp; MIT create the first self-assembling robots</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/mraaroncruz">Aaron</a>:</h5>
-
-<ul>
-<li><a href="http://blog.testdouble.com/posts/2014-11-04-healthy-migration-habits.html#habit-4-don-t-reference-models">Healthy Migration Habits</a> - If you have felt the pain of referencing your ActiveRecord models in data migrations, here are some great tips</li>
-<li><a href="http://blog.lostpropertyhq.com/postgres-full-text-search-is-good-enough/">Postgres Full-Text Search is Good Enough!</a> - PostgreSQL does lots of things really well. Here is a short but sweet intro to full-text search using your favorite database.</li>
-<li><a href="https://speakerdeck.com/sferik/writing-fast-ruby">Writing Fast Ruby (slides)</a> - I normally wouldn&rsquo;t share slides but these are incredibly useful and beautifully designed. A little premature optimization for you :)</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/narkoz/ginatra">ginatra</a> - &hellip; is a simple web-based git repository browser built on Ruby Sinatra</li>
-<li><a href="http://shipyourenemiesglitter.com/">Hate glitter mail</a> - ship your enemies glitter (via <a href="http://www.twitter.com/bastilian">Sebastian</a>)</li>
-<li><a href="http://coaching.rubymonstas.org/">Study group</a> - The Berlin based study group Ruby Monsters wrote up some tips on coaching a programming study group</li>
 </ul>
 
 ]]></content>
