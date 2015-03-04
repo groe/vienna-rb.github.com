@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2015-03-03T22:04:38+00:00</updated>
+  <updated>2015-03-04T20:20:55+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,44 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/03/04/picks/"/>
+    <updated>2015-03-04T14:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2015/03/04/picks</id>
+    <content type="html"><![CDATA[<h3>03/04 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the ninety-sixth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://leaverou.github.io/awesomplete/">Awesomeplete</a> - Simple autocomplete widget with zero dependencies</li>
+<li><a href="http://visualize-your-git.herokuapp.com/">Visualize your git</a> - because, well, git. &lt;3</li>
+<li><a href="https://github.com/tiimgreen/github-cheat-sheet">Git(Hub) Cheatsheet</a> - see above.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/mraaroncruz">Aaron</a>:</h5>
+
+<ul>
+<li><a href="http://voltframework.com/">The Volt Framework</a> - Volt is a newer Ruby web framework which has a goal of sharing Ruby on the frontend and backend. I am pretty excited about it</li>
+<li><a href="https://www.youtube.com/watch?v=7i6AL7Walc4">Isomorphic App Development with Ruby and Volt by Ryan Stout</a> - A great talk about Volt by its creator.</li>
+<li><a href="https://medium.com/building-timehop/why-timehop-chose-go-to-replace-our-rails-app-2855ea1912d">Why Timehop Chose Go to Replace Our Rails App</a> - I have been writing some Go code lately and this is an interesting article about one team&rsquo;s choice to switch when trying to scale their rails app.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="https://www.aeyoun.com/posts/html5-input-number-localization.html">HTML5 number inputs</a> - Because I hate it when an app doesn&rsquo;t recognize both a comma AND a period as decimal marks</li>
+<li><a href="http://codepen.io/lbebber/full/zxpMZw/">Motion Blur experiment</a> - Because I like this</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
@@ -688,36 +726,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <ul>
 <li><a href="https://github.com/Timrael/social_shares">the next best social media dashboard</a> - easily check social sharings of an url</li>
 <li><a href="http://www.emanueleferonato.com/2014/10/21/phaser-tutorial-how-to-create-an-html5-survival-horror-game-in-6-easy-steps/">Phaser</a> - create an HTML5 survival horror game in 6 steps with Phaser</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/10/22/picks/"/>
-    <updated>2014-10-22T20:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/10/22/picks</id>
-    <content type="html"><![CDATA[<h3>10/22 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the seventy-seventh edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/ankane/chartkick">Chartkick</a> - Because charts make us swoon.</li>
-<li><a href="http://runnable.com">Runnable</a> - Run your code online</li>
-<li><a href="https://teamgaslight.com/blog/top-3-reasons-why-software-projects-fail">Top 3 reasons why software projects fail</a> - fresh from the gaslight blog</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://blog.elpassion.com/top-5-baruco-talks/">top 5 BaRuCo talks</a> - A BaRuCo wrap-up by a Ruby rookie. Good stuff if you weren&rsquo;t there.</li>
-<li><a href="https://www.uludum.org/courses/122-how-to-accept-bitcoin-with-ruby-on-rails">accept Bitcoin with Rails</a> - I might even try and hack something together for the sektor5 drinks app</li>
-<li><a href="https://dev.opera.com/articles/css-twenty-years-hakon/">(Belayed) happy birthday, CSS!</a> - an interview with Opera’s CTO Håkon Wium Lie, who published &lsquo;Cascading HTML style sheets – a proposal&rsquo; twenty years ago.</li>
 </ul>
 
 ]]></content>
