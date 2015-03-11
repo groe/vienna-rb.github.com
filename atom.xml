@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2015-03-11T15:10:19+00:00</updated>
+  <updated>2015-03-11T19:52:25+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/03/11/picks/"/>
+    <updated>2015-03-11T14:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2015/03/11/picks</id>
+    <content type="html"><![CDATA[<h3>03/11 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the ninety-seventh edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://medium.com/@boennemann/how-much-it-cost-us-to-make-more-attendees-feel-safe-and-welcome-at-concat-2015-2bc51d4df656">Making attendees feel safe at conferences</a> - A great post by the concat() team about making attendees feel safe and welcome at their conference</li>
+<li><a href="http://www.rubyonrails365.com/7-must-have-gems-to-install-on-any-project/">7 Must Have Development Gems</a> - Some gems that make debugging and development a little easier for you</li>
+<li><a href="https://bugsnag.com/blog/implementing-a-visual-css-testing-framework">Implementing A visual CSS Testing Framework</a> - I love the idea of testing CSS like this for large codebases</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/mraaroncruz">Aaron</a>:</h5>
+
+<ul>
+<li><a href="http://tomdallimore.com/blog/includes-vs-joins-in-rails-when-and-where/">Includes vs Joins in Rails: When and where? | </a> - A post from Tom Dallimore about the difference between ActiveRecord <code>joins</code> and <code>includes</code> methods. The differences surprised me.</li>
+<li><a href="http://foodhack.wirsing.io">Foodhack Vienna</a> - I am organizing a hackathon on March 28th and 29th in Vienna to build software to help reduce food waste. We currently throw away 20% of our food&hellip; yikes.</li>
+<li><a href="http://6ftdan.com/allyourdev/2015/03/03/ruby-the-case-for-case/">The Case for Case</a> - If you are using a lot of <code>if</code> and <code>elsif</code>&rsquo;s in your code, Daniel Clark shows you some of the practical and more obscure ways to start implementing <code>case</code> statements instead.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://railsgirlssummerofcode.org/blog/support-rgsoc-with-your-company/">RGSoC</a> - Find out how your company can support Rails Girls Summer of Code!</li>
+<li><a href="https://github.com/blog/1970-students-work-on-open-source-with-github-this-summer">Github - ehhh - Google Summer of Code</a> - GitHub has been selected to participate as a mentoring organization for Google Summer of Code. If you want to work with a GitHubber on an open source project, check out our list of project ideas (Atom!).</li>
+<li><a href="http://github.myshopify.com/products/piratocat-shirt">Real Pirates Ship</a> - The new Octocat shirt is grrreat! (scroll down to the map #SeaPlusplus).</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
@@ -697,35 +736,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://ttencate.github.io/tis/">TIS</a> - Tetris clone in 4kb of JavaScript</li>
 <li><a href="https://github.com/peter-murach/tty-progressbar">tty</a> - A simple progress bar gem, with a great Readme</li>
 <li><a href="http://www.justinweiss.com/blog/2014/10/28/how-to-go-beyond-documentation-and-learn-a-new-library/">GitHub’s code search use case</a> - Where do you learn how to use a feature/gem/project, if not from its documentation?</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/10/29/picks/"/>
-    <updated>2014-10-29T20:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/10/29/picks</id>
-    <content type="html"><![CDATA[<h3>10/29 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the seventy-eight edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="http://sqlfiddle.com">SQLFiddle</a> - yep, it exists.</li>
-<li><a href="https://sublime.wbond.net/packages/Color%20Highlighter">ColorHighlighter</a> - The Sublime Text Color Highlighter package now supports SASS variables!</li>
-<li><a href="http://blog.plataformatec.com.br/2014/07/the-new-html-sanitizer-in-rails-4-2/">HTML Sanitizer</a> - The new HTML Sanitizer in Rails 4.2</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/Timrael/social_shares">the next best social media dashboard</a> - easily check social sharings of an url</li>
-<li><a href="http://www.emanueleferonato.com/2014/10/21/phaser-tutorial-how-to-create-an-html5-survival-horror-game-in-6-easy-steps/">Phaser</a> - create an HTML5 survival horror game in 6 steps with Phaser</li>
 </ul>
 
 ]]></content>
