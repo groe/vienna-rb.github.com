@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2015-03-19T17:47:44+00:00</updated>
+  <updated>2015-03-20T13:07:32+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/03/18/picks/"/>
+    <updated>2015-03-18T14:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2015/03/18/picks</id>
+    <content type="html"><![CDATA[<h3>03/18 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the ninety-eighth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=D3e3V66TH2Y">A Talk About Nothing</a> - Lena Reinhard&rsquo;s insightful &ldquo;Talk About Nothing&rdquo; from this year&rsquo;s concat()</li>
+<li><a href="http://yusugomori.com/projects/css-sans/">CSS Sans</a> - Taking CSS to a whole new level – here&rsquo;s to you the Css Typeface.</li>
+<li><a href="http://www.csforbabies.com/">Computer Science for Babies</a> - Because it&rsquo;s never too early to understand binary</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/mraaroncruz">Aaron</a>:</h5>
+
+<ul>
+<li><a href="http://ruby-conf-ke.nairuby.org/2015">RubyConf Kenya</a> - May 8th-9th</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://www.rossconf.io/">ROSS Conf Vienna</a> - &hellip; is a one day mini-conference bringing Open Source Software maintainers and developers together in one room. Its first edition includes the exercism project from Katrina Owen and RVM from Michal Papis.</li>
+<li><a href="http://devchat.tv/ruby-rogues/198-rr-expanding-the-ruby-community-values-to-other-languages-with-scott-feinberg-and-mark-bates">RubyRogues</a> - on expanding the Ruby Community Values to Other Languages with Scott Feinberg and Mark Bates</li>
+<li><a href="http://thechangelog.com/146/">Mind the Gender Parity Gap</a> - The Changeloggers talk to Sarah Mei about her elaborate blog on <a href="https://devmynd.com/blog/2015-2-mind-the-gap">Gender Parity</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -162,45 +199,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://thechangelog.com/people-ask-wi-fi-password-answer-quickly/">Wi-Fi password</a> - Cool little Bash script to quickly fetch your Wi-Fi password from OS X’s keychain.</li>
 <li><a href="http://thechangelog.com/exercism-spawns-nipicking-robot/">Rikki</a> - Katrina Owen has recently added a nitpicking robot to Exercism — an app that lets you practice your coding and get crowd-sourced mentorship - called Rikki.</li>
 <li><a href="http://jsconfbp.com/">JSConf Budapest</a> - a JSConf family member 2-day non-profit for-the-community by-the-community conference about JavaScript JUST AROUND THE CORNER! Now if you could all use my couponcode LEKKERKAASJSCONFBP you get a €50 discount and I get to send someone to Budapest who could otherwise not afford it &lt;3</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2015/02/11/picks/"/>
-    <updated>2015-02-11T14:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2015/02/11/picks</id>
-    <content type="html"><![CDATA[<h3>02/11 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the ninety-third edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="http://regexone.com">RegexOne</a> - Learn Regular Expressions with simple, interactive examples</li>
-<li><a href="https://github.com/idonethis/didit-cli-client">DidIt</a> - For all if you Productivity nerds.. There&rsquo;s an IDoneThis command line client</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/mraaroncruz">Aaron</a>:</h5>
-
-<ul>
-<li><a href="http://madewithenvy.com/ecosystem/articles/2013/rake-file-tasks/">Rake file tasks</a> - A good intro to rake file tasks starting from the bare minimum</li>
-<li><a href="http://devblog.avdi.org/2010/01/31/first-and-rest-in-ruby/">First and Rest in Ruby</a> - A really neat way to implement first and rest, common functions in functional languages, in Ruby.</li>
-<li><a href="https://medium.com/@KamilLelonek/ansible-for-rubyists-22533bd98">Ansible for Rubyists</a> - This is a very basic intro to Ansible, aimed at people who are used to capistrano/mina.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/squarism/dream">Dream</a> - Dream is a music video done in Ruby with gamebox. And it&rsquo;s interesting.</li>
-<li><a href="https://github.com/plribeiro3000/jazz_fingers">Jazz Fingers</a> - Pry-based enhancements for the default Rails 3 and 4 consoles. Rrrr.</li>
-<li><a href="https://github.com/FezVrasta/bootstrap-material-design">Material</a> - This Bootstrap theme is an easy way to use the new Material Design guidelines by Google in your Bootstrap 3 based application.</li>
-<li><a href="http://cssanimation.rocks/post/twitter-fave/">CSS Animation</a> - Recreating Twitter&rsquo;s brand new &lsquo;fave&rsquo; animation.</li>
 </ul>
 
 ]]></content>

@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2015-03-19T17:47:44+00:00</updated>
+  <updated>2015-03-20T13:07:32+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/03/18/picks/"/>
+    <updated>2015-03-18T14:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2015/03/18/picks</id>
+    <content type="html"><![CDATA[<h3>03/18 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the ninety-eighth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=D3e3V66TH2Y">A Talk About Nothing</a> - Lena Reinhard&rsquo;s insightful &ldquo;Talk About Nothing&rdquo; from this year&rsquo;s concat()</li>
+<li><a href="http://yusugomori.com/projects/css-sans/">CSS Sans</a> - Taking CSS to a whole new level – here&rsquo;s to you the Css Typeface.</li>
+<li><a href="http://www.csforbabies.com/">Computer Science for Babies</a> - Because it&rsquo;s never too early to understand binary</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/mraaroncruz">Aaron</a>:</h5>
+
+<ul>
+<li><a href="http://ruby-conf-ke.nairuby.org/2015">RubyConf Kenya</a> - May 8th-9th</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://www.rossconf.io/">ROSS Conf Vienna</a> - &hellip; is a one day mini-conference bringing Open Source Software maintainers and developers together in one room. Its first edition includes the exercism project from Katrina Owen and RVM from Michal Papis.</li>
+<li><a href="http://devchat.tv/ruby-rogues/198-rr-expanding-the-ruby-community-values-to-other-languages-with-scott-feinberg-and-mark-bates">RubyRogues</a> - on expanding the Ruby Community Values to Other Languages with Scott Feinberg and Mark Bates</li>
+<li><a href="http://thechangelog.com/146/">Mind the Gender Parity Gap</a> - The Changeloggers talk to Sarah Mei about her elaborate blog on <a href="https://devmynd.com/blog/2015-2-mind-the-gap">Gender Parity</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
@@ -699,45 +736,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <p>The discussion then moved into its final &ldquo;round&rdquo;, where we talked about how writing documentation might help put a project into prospective. Clemens confessed to having a problem with starting with the Readme first. Aaron explains it&rsquo;s a way for him &lsquo;to put the whole project into my head, to see the big picture and use cases&rsquo;, enabling him to break things down into smaller pieces. Phillipp recommended checking out <a href="http://channel9.msdn.com/Events/Build/2014/3-642">Thinking for Programmers by Leslie Lamport</a> and Stefan found <a href="http://rtomayko.github.io/rocco">a Ruby gem</a> that reads Ruby source files and produces annotated source documentation.</p>
 
 <p><a href="http://www.meetup.com/vienna-rb/events/202353822/">Our next meetup</a> will be sponsored by Elance-oDesk. And there will be Gluehwein. Lecker.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/11/05/picks/"/>
-    <updated>2014-11-05T20:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/11/05/picks</id>
-    <content type="html"><![CDATA[<h3>11/05 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the seventy-ninth edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/pothibo/ecrire">Ecrire</a> - A blog engine for developers</li>
-<li><a href="https://sysadmincasts.com">Sysadmincasts</a> - Don&rsquo;t leave out the sysadmins! There&rsquo;s screencasts for them too..</li>
-<li><a href="https://github.com/sparklemotion/nokogiri/wiki/Cheat-sheet">Nokogiri Cheatsheet</a> - Working with Nokogiri made easy</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
-
-<ul>
-<li><a href="http://karpathy.github.io/neuralnets/">Neural Networks</a> - Hacker&rsquo;s guide to Neural Networks</li>
-<li><a href="http://henryr.github.io/cap-faq/">The CAP FAQ</a> - A short FAQ which answers all your questions about the CAP theorem.</li>
-<li><a href="https://stripe.com/blog/game-day-exercises-at-stripe">Kill all your Redis</a> - Game Day Exercises at Stripe: Learning from <code>kill -9</code></li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://ttencate.github.io/tis/">TIS</a> - Tetris clone in 4kb of JavaScript</li>
-<li><a href="https://github.com/peter-murach/tty-progressbar">tty</a> - A simple progress bar gem, with a great Readme</li>
-<li><a href="http://www.justinweiss.com/blog/2014/10/28/how-to-go-beyond-documentation-and-learn-a-new-library/">GitHub’s code search use case</a> - Where do you learn how to use a feature/gem/project, if not from its documentation?</li>
-</ul>
-
 ]]></content>
   </entry>
   
