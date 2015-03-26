@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2015-03-26T16:10:27+00:00</updated>
+  <updated>2015-03-26T19:28:33+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/03/25/picks/"/>
+    <updated>2015-03-25T14:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2015/03/25/picks</id>
+    <content type="html"><![CDATA[<h3>03/25 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the ninety-ninth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://cfp.eurucamp.org">Eurucamp CFP</a> - The Eurucamp Call for Proposals is now open!</li>
+<li><a href="http://campus.codeschool.com/courses/try-sql">Try SQL</a> - There&rsquo;s a new SQL course in town (aka on CodeSchool)</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/mraaroncruz">Aaron</a>:</h5>
+
+<ul>
+<li><a href="http://bits.citrusbyte.com/state-design-pattern-with-ruby/?utm_source=viennarb&amp;utm_medium=email">Tired of conditionals? State pattern could help</a> - If you missed <a href="https://twitter.com/nuclearsquid">Markus Prinz&rsquo;s</a> talk about state machines, or you want to know more, here&rsquo;s a great article for you.</li>
+<li><a href="https://devcenter.heroku.com/articles/cedar-14-migration?utm_source=viennarb&amp;utm_medium=email">Heroku upgrade to Cedar-14</a> - Cedar-10 reaches its end of life on November 4th 2015. Upgrade ASAP so you don&rsquo;t get screwed at the last minute.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="https://thechangelog.com/a-beginners-guide-to-creating-a-readme/">the changelog</a> - A beginner’s guide to creating a README</li>
+<li><a href="http://rossconf.io/">ROSS Conf Vienna</a> - who doesn&rsquo;t want to pair with Michal Papis, Katrina Owen or Arne Brasseur?</li>
+<li><a href="http://www.whataventure.com/netidee">Open Source Camp</a> - Open Source Camp is an initiative with selected talents, experts, early stage start-ups and project teams who meet for an intensive two-day workshop and join forces as a community. Plus: you could end up getting funding via the netidee call.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -160,45 +197,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://lanyrd.com/2015/rubyslava-february/">Mini Conf</a> - Rubyslava is celebrating its 4 years anniversary with a Mini Conference / Lightning talk edition</li>
 <li><a href="https://github.com/epistemex/HueWheel">huewheel</a> - a HUE color wheel for HTML5 browsers, make sure to <a href="http://epistemex.github.io/huewheel/">try the demo</a></li>
 <li><a href="https://rvm.io/blog/2015/02/maintainers-needed-for-rvm1">RVM1 maintainers</a> - Papis is looking for YOU</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2015/02/18/picks/"/>
-    <updated>2015-02-18T14:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2015/02/18/picks</id>
-    <content type="html"><![CDATA[<h3>02/18 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the ninety-fourth edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/sj26/mailcatcher">MailCatcher</a> - Test your emails like WHOA</li>
-<li><a href="https://medium.com/design-open/becoming-a-jekyll-god-ef722e93f771">Becoming a Jekyll God</a> - If you weren&rsquo;t at our last meetup, you won&rsquo;t get it ;)</li>
-<li><a href="http://rubyheroes.com/">Ruby Heroes</a> - Get nominatin&#8217;!</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/mraaroncruz">Aaron</a>:</h5>
-
-<ul>
-<li><a href="https://skillsmatter.com/skillscasts/5191-martin-thompson#showModal?modal-signup-complete">95% of performance is about clean representative models</a> - Really great talk about how writing &ldquo;clean code&rdquo; and OOP best practice can boost your performance at the compiler level. The best talk I have seen in a long time. Warning: Java inside.</li>
-<li><a href="http://swaggadocio.com/post/48223179207/why-the-hell-does-your-api-still-use-http-basic">Why the Hell Does Your API Still Use HTTP Basic Auth?</a> - Your API may be exposing your customers&#8217; password in clear text. Interesting insights into security and UX tradeoffs.</li>
-<li><a href="http://www.justinweiss.com/blog/2015/02/03/finding-your-way-around-a-new-rails-project/">Finding Your Way Around a New Rails Project</a> - If you are dumped into a legacy Rails project, here are some tips to finding out WTF is going on.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://thechangelog.com/people-ask-wi-fi-password-answer-quickly/">Wi-Fi password</a> - Cool little Bash script to quickly fetch your Wi-Fi password from OS X’s keychain.</li>
-<li><a href="http://thechangelog.com/exercism-spawns-nipicking-robot/">Rikki</a> - Katrina Owen has recently added a nitpicking robot to Exercism — an app that lets you practice your coding and get crowd-sourced mentorship - called Rikki.</li>
-<li><a href="http://jsconfbp.com/">JSConf Budapest</a> - a JSConf family member 2-day non-profit for-the-community by-the-community conference about JavaScript JUST AROUND THE CORNER! Now if you could all use my couponcode LEKKERKAASJSCONFBP you get a €50 discount and I get to send someone to Budapest who could otherwise not afford it &lt;3</li>
 </ul>
 
 ]]></content>
