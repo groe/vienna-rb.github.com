@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2015-03-26T19:28:33+00:00</updated>
+  <updated>2015-03-27T16:24:41+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -26,7 +26,7 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
 
 <ul>
-<li><a href="https://cfp.eurucamp.org">Eurucamp CFP</a> - The Eurucamp Call for Proposals is now open!</li>
+<li><a href="https://cfp.eurucamp.org">eurucamp CFP</a> - The eurucamp Call for Proposals is now open!</li>
 <li><a href="http://campus.codeschool.com/courses/try-sql">Try SQL</a> - There&rsquo;s a new SQL course in town (aka on CodeSchool)</li>
 </ul>
 
