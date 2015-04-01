@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2015-04-01T07:31:03+00:00</updated>
+  <updated>2015-04-01T09:13:54+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/04/01/picks/"/>
+    <updated>2015-04-01T14:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2015/04/01/picks</id>
+    <content type="html"><![CDATA[<h3>04/01 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundredth (!!!) edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://2015.spaceappschallenge.org/challenge/">Space Apps Challenge</a> - The Space Apps Challenges are online in preparation for the worldwide NASA Hackathon next week. \o/</li>
+<li><a href="http://samsaffron.com/archive/2015/03/31/debugging-memory-leaks-in-ruby">Debugging Memory Leaks in Ruby</a> - Sam Saffron walks us through the current tooling to hunt down memory leaks</li>
+<li><a href="http://nth-test.com/">Nth-Test</a> - The ultimate nth-child visual tester</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/mraaroncruz">Aaron</a>:</h5>
+
+<ul>
+<li><a href="https://www.hackthissite.org/pages/index/index.php">Hack This Site</a> - &ldquo;a free, safe and legal training ground for hackers to test and expand their hacking skills.&rdquo; There are hacking contests and other pretty neat stuff.</li>
+<li><a href="https://netguru.co/blog/15-top-ruby-and-rails-events-from">15 Top Ruby/Rails Events Around The Globe</a> - A nice list of Ruby and Rails events/conferences around the world with descriptions.</li>
+<li><a href="http://www.mikeshea.net/My_Moleskine_GTD_System.html">My Moleskine GTD System</a> - I&rsquo;ve been trying to do more writing lately&hellip; you know&hellip; with a pen and paper. I almost forgot how to do it. This article shows an interesting way to move your GTD system from Omni Focus or Wunderlist to a handy moleskine.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://www.rubyflow.com/p/mng2bo-cfp-for-euruko-eurucamp-and-jrubyconf-eu-are-open">one cfp to rule them all</a> - cfp for EuRuKo, eurucamp and jRubyConf are now open.</li>
+<li><a href="https://www.google.com/maps/@43.0848052,-79.0949707,17z/data=!1e3">Google Maps PAC-MAN</a> - YES.</li>
+<li>[][12] -</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
@@ -659,44 +698,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <ul>
 <li><a href="http://channel9.msdn.com/Events/Build/2014/3-642">Thinking for programmers</a> - a great talk by Leslie Lamport, as recommended by Phillipp Röll (<a href="http://www.twitter.com/phillipp">@phillipp</a>)</li>
 <li><a href="http://www.developerdrive.com/2014/11/7-habits-of-highly-effective-web-developers/">7 habits of highly effective web developers</a> - &hellip; for you to repeat to yourself in the mirror</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/11/12/picks/"/>
-    <updated>2014-11-12T20:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/11/12/picks</id>
-    <content type="html"><![CDATA[<h3>11/12 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the eightieth edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="https://www.dwellable.com/blog/Rails-Rumble-Gem-Teardown">Rails Rumble Gem Teardown 2014</a> - Spying on which gems were the most likeable in this year&rsquo;s Rails Rumble projects</li>
-<li><a href="https://readme.io">Readme.io</a> - Beautiful documentation made easy. (And also because I like their <a href="https://dash.readme.io/login">login form animation</a> when you click on the password field)</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/stmichael/data-import">Data Import</a> - sequel based dsl to migrate data from a legacy database to a new home.</li>
-<li><a href="http://www.rubyraptor.org/how-we-made-raptor-up-to-4x-faster-than-unicorn-and-up-to-2x-faster-than-puma-torquebox/">RubyRaptor</a> - Insights into making the new Ruby Raptor Application Server faster than everything else</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/abathur/tdver">tdver</a> - test-driven versioning - keeping an eye on this</li>
-<li><a href="http://www.developerdrive.com/2014/10/jquery-3-0-jquery-compat-3-0-are-announced/">jQuery update</a> - it&rsquo;s on its way, prepare for appocalipse (pun intended)</li>
-<li><a href="http://www.sitepoint.com/creating-hello-world-app-swift/">Hello Swift</a> - Creating a ‘Hello World’ app with Swift</li>
-<li><a href="http://www.w3.org/blog/news/archives/4167">HTML5</a> - Now that HTML5 is a W3 recommendation - one better starts reading up on the phenomenon</li>
 </ul>
 
 ]]></content>

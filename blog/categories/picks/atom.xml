@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2015-04-01T07:31:03+00:00</updated>
+  <updated>2015-04-01T09:13:54+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/04/01/picks/"/>
+    <updated>2015-04-01T14:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2015/04/01/picks</id>
+    <content type="html"><![CDATA[<h3>04/01 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundredth (!!!) edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://2015.spaceappschallenge.org/challenge/">Space Apps Challenge</a> - The Space Apps Challenges are online in preparation for the worldwide NASA Hackathon next week. \o/</li>
+<li><a href="http://samsaffron.com/archive/2015/03/31/debugging-memory-leaks-in-ruby">Debugging Memory Leaks in Ruby</a> - Sam Saffron walks us through the current tooling to hunt down memory leaks</li>
+<li><a href="http://nth-test.com/">Nth-Test</a> - The ultimate nth-child visual tester</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/mraaroncruz">Aaron</a>:</h5>
+
+<ul>
+<li><a href="https://www.hackthissite.org/pages/index/index.php">Hack This Site</a> - &ldquo;a free, safe and legal training ground for hackers to test and expand their hacking skills.&rdquo; There are hacking contests and other pretty neat stuff.</li>
+<li><a href="https://netguru.co/blog/15-top-ruby-and-rails-events-from">15 Top Ruby/Rails Events Around The Globe</a> - A nice list of Ruby and Rails events/conferences around the world with descriptions.</li>
+<li><a href="http://www.mikeshea.net/My_Moleskine_GTD_System.html">My Moleskine GTD System</a> - I&rsquo;ve been trying to do more writing lately&hellip; you know&hellip; with a pen and paper. I almost forgot how to do it. This article shows an interesting way to move your GTD system from Omni Focus or Wunderlist to a handy moleskine.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://www.rubyflow.com/p/mng2bo-cfp-for-euruko-eurucamp-and-jrubyconf-eu-are-open">one cfp to rule them all</a> - cfp for EuRuKo, eurucamp and jRubyConf are now open.</li>
+<li><a href="https://www.google.com/maps/@43.0848052,-79.0949707,17z/data=!1e3">Google Maps PAC-MAN</a> - YES.</li>
+<li>[][12] -</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -159,44 +198,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <ul>
 <li><a href="https://www.aeyoun.com/posts/html5-input-number-localization.html">HTML5 number inputs</a> - Because I hate it when an app doesn&rsquo;t recognize both a comma AND a period as decimal marks</li>
 <li><a href="http://codepen.io/lbebber/full/zxpMZw/">Motion Blur experiment</a> - Because I like this</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2015/02/25/picks/"/>
-    <updated>2015-02-25T14:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2015/02/25/picks</id>
-    <content type="html"><![CDATA[<h3>02/25 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the ninety-fifth edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="http://www.meetup.com/RubyHabits">Ruby Habits</a> - There&rsquo;s a new Ruby meetup/study group in town!</li>
-<li><a href="http://phusion.github.io/traveling-ruby/">Traveling Ruby</a> - Self-contained, &ldquo;portable&rdquo; Ruby binaries</li>
-<li><a href="https://blog.engineyard.com/2015/life-beyond-rails-brief-look-alternate-web-frameworks-ruby">Life Beyond Rails</a> - A brief look at alternate web frameworks for Ruby</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/mraaroncruz">Aaron</a>:</h5>
-
-<ul>
-<li><a href="http://www.euruko2015.org/">Euroku in Salzburg!</a> - Euroko was cancelled last year because of the political unrest in Kiev and the panel has picked Salzburg to be the next venue October 17-18th. See you there!!!</li>
-<li><a href="http://blog.codinghorror.com/learn-to-read-the-source-luke/">Learn to read the source Luke</a> - codinghorror tells us that documentation is crap and that the source code is the source of all truth. Learn to read it.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://lanyrd.com/2015/rubyslava-february/">Mini Conf</a> - Rubyslava is celebrating its 4 years anniversary with a Mini Conference / Lightning talk edition</li>
-<li><a href="https://github.com/epistemex/HueWheel">huewheel</a> - a HUE color wheel for HTML5 browsers, make sure to <a href="http://epistemex.github.io/huewheel/">try the demo</a></li>
-<li><a href="https://rvm.io/blog/2015/02/maintainers-needed-for-rvm1">RVM1 maintainers</a> - Papis is looking for YOU</li>
 </ul>
 
 ]]></content>
