@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2015-04-08T20:30:09+00:00</updated>
+  <updated>2015-04-08T20:40:20+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -46,7 +46,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <ul>
 <li><a href="http://www.rubyflow.com/p/mng2bo-cfp-for-euruko-eurucamp-and-jrubyconf-eu-are-open">one cfp to rule them all</a> - cfp for EuRuKo, eurucamp and jRubyConf are now open.</li>
 <li><a href="https://www.google.com/maps/@43.0848052,-79.0949707,17z/data=!1e3">Google Maps PAC-MAN</a> - YES.</li>
-<li>[][12] -</li>
 </ul>
 
 ]]></content>
