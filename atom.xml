@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2015-04-10T08:28:09+00:00</updated>
+  <updated>2015-04-10T08:35:01+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,69 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/04/08/picks/"/>
+    <updated>2015-04-08T14:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2015/04/08/picks</id>
+    <content type="html"><![CDATA[<h3>04/08 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-first edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://christiannaths.com/#code-pen-plus-sublime-text">Editing a pen in Sublime</a> - Just what it says</li>
+<li><a href="http://joshmillard.com/blurst/">Blurst</a> - A genetic algorithm experiment</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/mraaroncruz">Aaron</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/gogotanaka/Rubype">Rubytype</a> - Type contracts for your Ruby methods.</li>
+<li><a href="https://www.omniref.com/ruby/2.2.0/files/vm_args.c?#annotation=4088663&amp;line=471">Running Rails jobs in background threads</a> - Some gotchas on how to run code in background threads in your Rails app.</li>
+<li>[Blocks are Procs in disguise][8] - Why blocks make Ruby methods 439% slower.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="https://twitter.com/RailsGirlsSoC/status/585854078539956224">Rails Girls Summer of Code hit their funding goal</a> - NOW LET&rsquo;S FUND AN ELEVENTH TEAM CAUSE WHY THE HECK NOT?!</li>
+<li><a href="https://medium.com/product-love/why-scrum-backlogs-lead-to-bad-product-decisions-461fcf339c63">Why SCRUM Backlogs lead to bad Product Decisions</a> - it&rsquo;s an oldie, yet still one for the must-read list, by the wonderful <a href="https://twitter.com/__tosh">@__tosh</a></li>
+<li><a href="http://speckyboy.com/2015/04/02/animating-css-only-hamburger-menu-icons/">Hamburger Menu Icons</a> - and how to animate them in/with CSS-Only</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a>:</h5>
+
+<ul>
+<li><a href="http://www.depesz.com/2015/04/02/waiting-for-9-5-allow-foreign-tables-to-participate-in-inheritance/">&ldquo;Allow foreign tables to participate in inheritance&rdquo;</a> - PostgreSQL 9.5 will get native sharding support</li>
+<li><a href="http://weblog.jamisbuck.org/2015/3/24/playing-with-constants-methods-and-superclasses.html">Ruby Tricks of Questionable Usefulness</a> - Jamis Buck presents a few fascinating features showing just how malleable Ruby is</li>
+<li><a href="http://patshaughnessy.net/2014/9/17/20000-leagues-under-activerecord">20,000 Leagues Under ActiveRecord</a> - The first of four posts by Pat Shaughnessy exploring how an ActiveRecord expression is processed all the way down to PostgreSQL</li>
+</ul>
+
+
+<h5>Phillipp:</h5>
+
+<ul>
+<li><a href="http://crystal-lang.org/">&ldquo;Crystal language&rdquo;</a> - Ruby inspired syntax, but compiled. Faster than go in some benchmarks, btw! Compiler started in Ruby, compiles itself by now.</li>
+</ul>
+
+
+<h5><a href="https://github.com/geraldb">Gerald</a>:</h5>
+
+<ul>
+<li><a href="http://planetruby.github.io/gems/">Ruby Gem of the Week Series @ Planet Ruby</a> - Gems so far include factbook, hoe, gli, kramdown, feedparser, and many more</li>
+<li><a href="http://www.informit.com/store/ruby-way-solutions-and-techniques-in-ruby-programming-9780321714633">New Book: The Ruby Way, 3rd Edition</a> - Free Sample Chapter: Working with Strings in Ruby</li>
+<li><a href="https://talk.jekyllrb.com/">Join the Discussion at Jekyll Talk</a> - Jekyll - a static site generator in Ruby - has now a discourse-powered discussion forum</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
@@ -668,35 +731,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://www.sitepoint.com/mini-chat-rails-server-sent-events/">Build a mini chat app</a> - &hellip; with Rails and HTML5 server-sent events</li>
 <li><a href="https://divshot.com/blog/opinion/the-future-of-the-web-according-to-google">The Future of the Web</a> - &hellip; according to Google</li>
 <li><a href="https://github.com/blog/1930-task-lists-are-open-source">Task lists</a> - Github open sourced their task list components</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/11/19/picks/"/>
-    <updated>2014-11-19T20:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/11/19/picks</id>
-    <content type="html"><![CDATA[<h3>11/19 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the eighty-first edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/pokonski/access-granted">Access Granted</a> - Multi-role authorisation gem for Rails</li>
-<li><a href="https://blog.engineyard.com/2014/ruby-list-comprehension">Building a Ruby List Comprehension</a> -..or attempting to. An interesting read by Ben Lewis</li>
-<li><a href="http://rubygems.org">RubyGems</a> - Believe it or not, RubyGems got a redesign - and it&rsquo;s gorgeous</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://channel9.msdn.com/Events/Build/2014/3-642">Thinking for programmers</a> - a great talk by Leslie Lamport, as recommended by Phillipp Röll (<a href="http://www.twitter.com/phillipp">@phillipp</a>)</li>
-<li><a href="http://www.developerdrive.com/2014/11/7-habits-of-highly-effective-web-developers/">7 habits of highly effective web developers</a> - &hellip; for you to repeat to yourself in the mirror</li>
 </ul>
 
 ]]></content>

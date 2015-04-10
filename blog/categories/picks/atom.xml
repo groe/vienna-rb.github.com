@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2015-04-10T08:28:09+00:00</updated>
+  <updated>2015-04-10T08:35:01+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,69 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/04/08/picks/"/>
+    <updated>2015-04-08T14:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2015/04/08/picks</id>
+    <content type="html"><![CDATA[<h3>04/08 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-first edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://christiannaths.com/#code-pen-plus-sublime-text">Editing a pen in Sublime</a> - Just what it says</li>
+<li><a href="http://joshmillard.com/blurst/">Blurst</a> - A genetic algorithm experiment</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/mraaroncruz">Aaron</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/gogotanaka/Rubype">Rubytype</a> - Type contracts for your Ruby methods.</li>
+<li><a href="https://www.omniref.com/ruby/2.2.0/files/vm_args.c?#annotation=4088663&amp;line=471">Running Rails jobs in background threads</a> - Some gotchas on how to run code in background threads in your Rails app.</li>
+<li>[Blocks are Procs in disguise][8] - Why blocks make Ruby methods 439% slower.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="https://twitter.com/RailsGirlsSoC/status/585854078539956224">Rails Girls Summer of Code hit their funding goal</a> - NOW LET&rsquo;S FUND AN ELEVENTH TEAM CAUSE WHY THE HECK NOT?!</li>
+<li><a href="https://medium.com/product-love/why-scrum-backlogs-lead-to-bad-product-decisions-461fcf339c63">Why SCRUM Backlogs lead to bad Product Decisions</a> - it&rsquo;s an oldie, yet still one for the must-read list, by the wonderful <a href="https://twitter.com/__tosh">@__tosh</a></li>
+<li><a href="http://speckyboy.com/2015/04/02/animating-css-only-hamburger-menu-icons/">Hamburger Menu Icons</a> - and how to animate them in/with CSS-Only</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a>:</h5>
+
+<ul>
+<li><a href="http://www.depesz.com/2015/04/02/waiting-for-9-5-allow-foreign-tables-to-participate-in-inheritance/">&ldquo;Allow foreign tables to participate in inheritance&rdquo;</a> - PostgreSQL 9.5 will get native sharding support</li>
+<li><a href="http://weblog.jamisbuck.org/2015/3/24/playing-with-constants-methods-and-superclasses.html">Ruby Tricks of Questionable Usefulness</a> - Jamis Buck presents a few fascinating features showing just how malleable Ruby is</li>
+<li><a href="http://patshaughnessy.net/2014/9/17/20000-leagues-under-activerecord">20,000 Leagues Under ActiveRecord</a> - The first of four posts by Pat Shaughnessy exploring how an ActiveRecord expression is processed all the way down to PostgreSQL</li>
+</ul>
+
+
+<h5>Phillipp:</h5>
+
+<ul>
+<li><a href="http://crystal-lang.org/">&ldquo;Crystal language&rdquo;</a> - Ruby inspired syntax, but compiled. Faster than go in some benchmarks, btw! Compiler started in Ruby, compiles itself by now.</li>
+</ul>
+
+
+<h5><a href="https://github.com/geraldb">Gerald</a>:</h5>
+
+<ul>
+<li><a href="http://planetruby.github.io/gems/">Ruby Gem of the Week Series @ Planet Ruby</a> - Gems so far include factbook, hoe, gli, kramdown, feedparser, and many more</li>
+<li><a href="http://www.informit.com/store/ruby-way-solutions-and-techniques-in-ruby-programming-9780321714633">New Book: The Ruby Way, 3rd Edition</a> - Free Sample Chapter: Working with Strings in Ruby</li>
+<li><a href="https://talk.jekyllrb.com/">Join the Discussion at Jekyll Talk</a> - Jekyll - a static site generator in Ruby - has now a discourse-powered discussion forum</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -159,44 +222,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://railsgirlssummerofcode.org/blog/support-rgsoc-with-your-company/">RGSoC</a> - Find out how your company can support Rails Girls Summer of Code!</li>
 <li><a href="https://github.com/blog/1970-students-work-on-open-source-with-github-this-summer">Github - ehhh - Google Summer of Code</a> - GitHub has been selected to participate as a mentoring organization for Google Summer of Code. If you want to work with a GitHubber on an open source project, check out our list of project ideas (Atom!).</li>
 <li><a href="http://github.myshopify.com/products/piratocat-shirt">Real Pirates Ship</a> - The new Octocat shirt is grrreat! (scroll down to the map #SeaPlusplus).</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2015/03/04/picks/"/>
-    <updated>2015-03-04T14:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2015/03/04/picks</id>
-    <content type="html"><![CDATA[<h3>03/04 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the ninety-sixth edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="http://leaverou.github.io/awesomplete/">Awesomeplete</a> - Simple autocomplete widget with zero dependencies</li>
-<li><a href="http://visualize-your-git.herokuapp.com/">Visualize your git</a> - because, well, git. &lt;3</li>
-<li><a href="https://github.com/tiimgreen/github-cheat-sheet">Git(Hub) Cheatsheet</a> - see above.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/mraaroncruz">Aaron</a>:</h5>
-
-<ul>
-<li><a href="http://voltframework.com/">The Volt Framework</a> - Volt is a newer Ruby web framework which has a goal of sharing Ruby on the frontend and backend. I am pretty excited about it</li>
-<li><a href="https://www.youtube.com/watch?v=7i6AL7Walc4">Isomorphic App Development with Ruby and Volt by Ryan Stout</a> - A great talk about Volt by its creator.</li>
-<li><a href="https://medium.com/building-timehop/why-timehop-chose-go-to-replace-our-rails-app-2855ea1912d">Why Timehop Chose Go to Replace Our Rails App</a> - I have been writing some Go code lately and this is an interesting article about one team&rsquo;s choice to switch when trying to scale their rails app.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="https://www.aeyoun.com/posts/html5-input-number-localization.html">HTML5 number inputs</a> - Because I hate it when an app doesn&rsquo;t recognize both a comma AND a period as decimal marks</li>
-<li><a href="http://codepen.io/lbebber/full/zxpMZw/">Motion Blur experiment</a> - Because I like this</li>
 </ul>
 
 ]]></content>
