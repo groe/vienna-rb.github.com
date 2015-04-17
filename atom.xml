@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2015-04-15T18:33:18+00:00</updated>
+  <updated>2015-04-17T18:51:30+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,44 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/04/15/picks/"/>
+    <updated>2015-04-15T14:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2015/04/15/picks</id>
+    <content type="html"><![CDATA[<h3>04/15 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-second edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://www.atlassian.com/git/articles/10-years-of-git/">10 years of Git</a> - Git turns ten years old this month!</li>
+<li><a href="http://potterapi.co.uk/">Potter API</a> - Just what it sounds like: A Harry Potter API.</li>
+<li><a href="http://www.sitepoint.com/markdown-processing-ruby">Markdown Processing in Ruby</a> - A look at four different Ruby implementations of Markdown</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://awesome-ruby.com/">Awesome Ruby</a> -  A collection of awesome Ruby libraries, tools, frameworks and software, sorted alphabetically.</li>
+<li><a href="http://devchat.tv/ruby-rogues/202-rr-the-struggles-new-ruby-users-have-with-jake-day-williams">Ruby Rogues #202</a> - The Struggles New Ruby Users Have with Jake Day Williams</li>
+</ul>
+
+
+<h5><a href="https://github.com/geraldb">Gerald</a>:</h5>
+
+<ul>
+<li><a href="http://shop.oreilly.com/product/0636920032236.do">New Book: Ruby Cookbook, 2nd Edition</a> -  A massive collection of Ruby recipes (1000+ pages) e.g. cook yourself an API service w/ Sinatra, and much more. Free sample chapter on &ldquo;What&rsquo;s News in Ruby 2.1&rdquo;.</li>
+<li><a href="http://www.sitepoint.com/jekyll-rails">Jekyll on Rails</a> - add Jekyll - a static site generator - to your Rails app; step by step instructions incl. how-to-use Rails-like asset pipeline in Jekyll</li>
+<li><a href="http://www.meetup.com/Ruby-User-Group-Linz-RUGL/">Free Event: Ruby Meetup in Linz, Upper Austria</a> - why not visit Linz and join this year&rsquo;s first Ruby Meetup in Upper Austria on May 20th at the AXIS Coworking Loft?</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
@@ -693,44 +731,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <ul>
 <li><a href="http://www.justinaguilar.com/animations/">CSS3 animation cheat sheet</a> -  a great set of preset, plug-and-play animations for your web projects.</li>
 <li><a href="https://github.com/tj/git-extras">git extras</a> - adding more git utilities to your toolbelt</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/11/26/picks/"/>
-    <updated>2014-11-26T20:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/11/26/picks</id>
-    <content type="html"><![CDATA[<h3>11/26 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the eighty-second edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/wellsriley/YosemiteSanFranciscoFont">Yosemite San Francisco</a> - Replace Helvetica Neue on your 10.10 Yosemite with the beautiful San Francisco Display (the Apple Watch font)</li>
-<li><a href="http://www.sitepoint.com/rake-automate-things">Automate all the things</a> - Because we just can&rsquo;t get enough of rake</li>
-<li><a href="https://hacksummit.org">Hacksummit</a> - A virtual conference for developers</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
-
-<ul>
-<li><a href="http://blog.phusion.nl/2014/11/25/introducing-phusion-passenger-5-beta-1-codename-raptor/">Ruby Raptor</a> - Phusion Passenger 5 (beta 1) got released!</li>
-<li><a href="http://pragtob.wordpress.com/2014/11/19/writing-dsls-in-ruby-without-monkeypatching-object/">Ruby DSLs</a> - Writing DSL&rsquo;s in Ruby without Monkeypatching</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://www.sitepoint.com/mini-chat-rails-server-sent-events/">Build a mini chat app</a> - &hellip; with Rails and HTML5 server-sent events</li>
-<li><a href="https://divshot.com/blog/opinion/the-future-of-the-web-according-to-google">The Future of the Web</a> - &hellip; according to Google</li>
-<li><a href="https://github.com/blog/1930-task-lists-are-open-source">Task lists</a> - Github open sourced their task list components</li>
 </ul>
 
 ]]></content>
