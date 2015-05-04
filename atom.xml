@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2015-04-30T06:34:58+00:00</updated>
+  <updated>2015-05-04T07:32:08+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/04/29/picks/"/>
+    <updated>2015-04-29T14:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2015/04/29/picks</id>
+    <content type="html"><![CDATA[<h3>04/29 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-fourth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/nvbn/thefuck">thef*ck</a> - magnificent app which corrects your previous console command</li>
+<li><a href="http://railsdiff.org">railsdiff</a> - View diff of app configuration for different Rails versions</li>
+<li><a href="http://alexwllms.com/general/'open/source'/conferences/2015/04/26/contributing-to-open-source-projects.html">COntributing to Open Source projects</a> - Alex Williams wrote a short recap of last weekend&rsquo;s ROSSConf on his blog</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
@@ -703,36 +724,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <ul>
 <li><a href="http://confreaks.com/events/RubyConf2014">RubyConf 2014</a> - The video&rsquo;s from RubyConf San Diego are online. I know what I&rsquo;ll be doing this weekend&hellip;</li>
 <li><a href="https://www.youtube.com/watch?v=wxswPdwI0DU">Ten Years of Ruby Conferences</a> - Jeremy Flores &amp; Carol Nichols created a &lsquo;dramatic revue&rsquo; of 10 years of Ruby conferences for Keep Ruby Weird. And it&rsquo;s good.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/12/10/picks/"/>
-    <updated>2014-12-10T13:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/12/10/picks</id>
-    <content type="html"><![CDATA[<h3>12/10 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the eighty-fourth edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="http://24pullrequests.com">24 Pull Requests</a> - Giving back little gifts of code for Christmas</li>
-<li><a href="https://github.com/giakki/uncss">Uncss</a> - Remove all those unused styles from your css!</li>
-<li><a href="http://regexcrossword.com">Regex Crosswords</a> - Show off those Regex skills you got</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="https://www.youtube.com/watch?v=HNGA6CiIZKM&amp;feature=youtu.be">Rails Girls Brno</a> - they shot this video during their November edition and it&rsquo;s &lt;3</li>
-<li><a href="https://bentoboxapp.herokuapp.com/">BentoBox app</a> - Nur Sah Ketene made this super useful resource for future Rails Girls workshops (or generally beginner workshops)</li>
-<li><a href="http://foodhack.wirsing.io/">Foodhack Vienna</a> - Aaron Cruz already introduced it during our last meetup: you can now help Austria eliminate food waste</li>
 </ul>
 
 ]]></content>
