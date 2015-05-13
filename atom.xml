@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2015-05-09T16:52:05+00:00</updated>
+  <updated>2015-05-13T20:57:38+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/05/13/picks/"/>
+    <updated>2015-05-13T14:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2015/05/13/picks</id>
+    <content type="html"><![CDATA[<h3>05/13 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-sixth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://kapeli.com/dash">Dash</a> - Offline API documentation sets</li>
+<li><a href="https://github.com/kaepora/npwd">npwd</a> - Command-line password management for your various accounts</li>
+<li><a href="http://night-of-support.at">Night of Support</a> - Some shameless promotion! Night of Support is coming this Friday to a sektor5 near you.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://rubythursday.com/">RubyThursday</a> - Build a portfolio in a fun and engaging way. What if you had access to a set of fresh Ruby on Rails projects and tutorials that helped you consistently code on a regular basis?</li>
+<li><a href="http://www.developingandrails.com/2015/04/setting-up-atom-for-rails-development.html">Atom for Rails</a> - Setting up Atom for Rails Development</li>
+<li><a href="http://codepen.io/parcon/pen/OVPKqg?utm_source=html5weekly&amp;utm_medium=email">Upset baby in pure CSS</a> - thihihi.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
@@ -706,43 +736,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://blog.codeship.com/repository-driven-infrastructure/">RDI</a> - Repository Driven Infrastructure, a term coined by our friends at Codeship. Interesting article.</li>
 <li><a href="http://internet-map.net/">Internet map</a> - Love this. via <a href="http://www.twitter.com/bastilian">Sebastian</a></li>
 <li><a href="http://media.ccc.de/browse/congress/2014/index.html">31c3 recordings</a> - I know what I&rsquo;ll be doing this weekend&hellip;</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
-    <link href="http://vienna-rb.at/blog/2014/12/24/picks/"/>
-    <updated>2014-12-24T20:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2014/12/24/picks</id>
-    <content type="html"><![CDATA[<h3>12/24 Picks, Merry Christmas everybody!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the eighty-sixth edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="http://cmu-is-projects.github.io/ferry">Ferry</a> - a command-line tool for data migrations and manipulation by the students of Carnegie Mellon</li>
-<li><a href="https://github.com/csm123/starburst">Starburst</a> - In-app announcements to users in your Rails app</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/beanieboi">Ben</a>:</h5>
-
-<ul>
-<li><a href="http://www.higherorderlogic.com/2010/07/bad-code-isnt-technical-debt-its-an-unhedged-call-option/">Bad, bad, bad</a> - Bad code isn’t Technical Debt, it’s an unhedged Call Option</li>
-<li><a href="http://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice/">Papers, please</a> - 10 Technical Papers Every Programmer Should Read (At Least Twice)</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/sferik/active_emoji">active_emoji</a> - <a href="https://github.com/sferik/">Erik</a> created a collection of emoji aliases for core Ruby methods. Got to love this.</li>
-<li><a href="http://evil-icons.io/">Evil Icons</a> - &hellip; a simple and clean SVG icon pack with the code to support Rails, Sinatra and Node.js.</li>
-<li><a href="https://github.com/janko-m/tic-tac-toe">tic-tac-toe</a> - play tic-tac-toe in your Terminal. Because you can.</li>
 </ul>
 
 ]]></content>
