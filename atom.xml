@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2015-05-13T20:57:38+00:00</updated>
+  <updated>2015-05-14T18:27:16+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -29,6 +29,14 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="https://kapeli.com/dash">Dash</a> - Offline API documentation sets</li>
 <li><a href="https://github.com/kaepora/npwd">npwd</a> - Command-line password management for your various accounts</li>
 <li><a href="http://night-of-support.at">Night of Support</a> - Some shameless promotion! Night of Support is coming this Friday to a sektor5 near you.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/mraaroncruz">Aaron</a>:</h5>
+
+<ul>
+<li><a href="https://blog.lateral.io/2015/05/full-text-search-in-milliseconds-with-postgresql/">Faster Search with PostgreSQL</a> - A really straight forward way to increase search performance using PostgreSQL&rsquo;s full text search and the JSON data type</li>
+<li><a href="https://www.amberbit.com/blog/2015/4/22/why-rails-5-turbolinks-3-action-cable-matter-and-why-dhh-was-right-all-along/">Why Rails 5 / Turbolinks 3.0 / Action Cable matter, and why @dhh was right all along</a> - Controversial article about Rails 5&rsquo;s new set of features. Also a good intro to Rails 5&rsquo;s new features.</li>
 </ul>
 
 
