@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2015-05-20T20:36:57+00:00</updated>
+  <updated>2015-05-20T20:38:38+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,65 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/05/20/picks/"/>
+    <updated>2015-05-20T10:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2015/05/20/picks</id>
+    <content type="html"><![CDATA[<h3>05/20 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-seventh edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/michaeldv/awesome_print">Awesome Print</a> - Pretty print your Ruby objects with style</li>
+<li><a href="http://vaidehijoshi.github.io/blog/2015/05/19/the-secret-life-of-your-database-part-1-migrations/">The Secret Life of your Database, part 1: Migrations</a> - a neat little article that take a look at database migrations. Bonus: the <code>rake db:migrate:status</code> command, which I had never used before &lt;3</li>
+<li><a href="https://github.com/mislav/everyenv">everyenv</a> - rbenv, but for ANYTHING</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/mraaroncruz">Aaron</a>:</h5>
+
+<ul>
+<li><a href="http://npf.io/2014/10/why-everyone-hates-go/">Why Everyone Hates Go</a> - An interesting take on why golang has so many haters. Angular could also fall into this reasoning.</li>
+<li><a href="http://www.fullstackfest.com/#speakers-section">Speakers Chosen For Full Stack Fest</a> - This conference looks like a must see. Amazing lineup.</li>
+<li><a href="https://www.youtube.com/results?search_query=baruco+2013&amp;page=&amp;utm_source=opensearch">Talks from Baruco 2013</a> - Since we&rsquo;re talking about Baruco (Full Stack Fest), here are the talks from 2013. It was, and still probably is, the best conference I have ever been to. It&rsquo;s super hard to pick a best, I think I&rsquo;ll pick them individually in the next editions of our picks!</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://aerolab.github.io/readremaining.js">ReadRemaining.js</a> - Tell your readers how long they&rsquo;ll need to get through all of your gibberish, with this clever jQuery plugin.</li>
+<li><a href="http://www.rossconf.io/event/berlin.html">ROSSConf Berlin</a> - Because who needs sleep, when there&rsquo;s conferences to organize?</li>
+</ul>
+
+
+<h5><a href="http://twitter.com/dch__">Dave</a>:</h5>
+
+<p>For the love of crypto! Elliptic Curves are the new hotness, especially
+given shock revelations of recent years regarding protocol flaws, government
+capability and general internet-enabled data collection. Here&rsquo;s some links
+to get your teeth into, but not biting off more than you can chew!</p>
+
+<p>Why should you care? Well, ECC-based Ed25519 ssh keys are shorter, almost
+memorisable, noticeably faster for session setup times, and throughput is
+improved! What&rsquo;s not to like? Similar advances are available in TLS and PGP.
+Be warned, not all OS, apps and browsers support these yet.</p>
+
+<ul>
+<li><a href="http://tonyarcieri.com/the-death-of-bitcoin">The Death of BitCoin</a> - a well supported but controversial view of BitCoin&rsquo;s future, touching on ECC.</li>
+<li><a href="http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/">A gentle introduction to ECC</a> - if you ignore most of the math this is indeed a gentle introduction.</li>
+<li><a href="https://www.youtube.com/watch?v=l6jTFxQaUJA">Another gentle introduction to ECC</a> - this is slightly less gentle but may be easier to digest as a video!</li>
+<li><a href="http://pqcrypto.org/">Post-quantum Crypto</a> - I just bookmarked this one for &ldquo;later reading&rdquo; when my brain has expanded but anything by D.J.Bernstein and T.Lange is always worth the time spent understanding.</li>
+<li><a href="https://stribika.github.io/2015/01/04/secure-secure-shell.html">Securing SSH</a> - a practical application of all the hard science you just skimmed ;-)</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -144,44 +203,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://www.rubyflow.com/p/i4zps2-set-up-sublime-text-3-for-ruby-development">Sublime 3.0</a> -  This is a pick for Laura; setting up Sublime Text 3 for Ruby Development.</li>
 <li><a href="http://2015.arrrrcamp.be/cfp/">Arrrrcamp CFP is open</a> - Because speaking at ArrrrCamp is arrrrsome!</li>
 <li><a href="https://github.com/planetruby/awesome-events">awesome events</a> - Gerald collects awesome (Ruby related) events in his awesome events repo.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2015/04/15/picks/"/>
-    <updated>2015-04-15T14:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2015/04/15/picks</id>
-    <content type="html"><![CDATA[<h3>04/15 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-second edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="https://www.atlassian.com/git/articles/10-years-of-git/">10 years of Git</a> - Git turns ten years old this month!</li>
-<li><a href="http://potterapi.co.uk/">Potter API</a> - Just what it sounds like: A Harry Potter API.</li>
-<li><a href="http://www.sitepoint.com/markdown-processing-ruby">Markdown Processing in Ruby</a> - A look at four different Ruby implementations of Markdown</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://awesome-ruby.com/">Awesome Ruby</a> -  A collection of awesome Ruby libraries, tools, frameworks and software, sorted alphabetically.</li>
-<li><a href="http://devchat.tv/ruby-rogues/202-rr-the-struggles-new-ruby-users-have-with-jake-day-williams">Ruby Rogues #202</a> - The Struggles New Ruby Users Have with Jake Day Williams</li>
-</ul>
-
-
-<h5><a href="https://github.com/geraldb">Gerald</a>:</h5>
-
-<ul>
-<li><a href="http://shop.oreilly.com/product/0636920032236.do">New Book: Ruby Cookbook, 2nd Edition</a> -  A massive collection of Ruby recipes (1000+ pages) e.g. cook yourself an API service w/ Sinatra, and much more. Free sample chapter on &ldquo;What&rsquo;s News in Ruby 2.1&rdquo;.</li>
-<li><a href="http://www.sitepoint.com/jekyll-rails">Jekyll on Rails</a> - add Jekyll - a static site generator - to your Rails app; step by step instructions incl. how-to-use Rails-like asset pipeline in Jekyll</li>
-<li><a href="http://www.meetup.com/Ruby-User-Group-Linz-RUGL/">Free Event: Ruby Meetup in Linz, Upper Austria</a> - why not visit Linz and join this year&rsquo;s first Ruby Meetup in Upper Austria on May 20th at the AXIS Coworking Loft?</li>
 </ul>
 
 ]]></content>
