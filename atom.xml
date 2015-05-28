@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2015-05-28T18:23:28+00:00</updated>
+  <updated>2015-05-28T18:53:40+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/05/27/picks/"/>
+    <updated>2015-05-27T14:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2015/05/27/picks</id>
+    <content type="html"><![CDATA[<h3>05/27 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-eighth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://muan.co/emoji-minesweeper/">Emoji Minesweeper</a> - Because this is the internet and you get <a href="https://twitter.com/alicetragedy/status/601625706083258368">what you ask for</a>.</li>
+<li><a href="https://github.com/holman/feedback/issues/690">Daily things you can do to help you with writing code</a> - Some pretty neat advice by <a href="https://twitter.com/holman">Zach Holman</a>.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/mraaroncruz">Aaron</a>:</h5>
+
+<ul>
+<li><a href="http://www.spinacms.com/">Spina CMS</a> - The new Rails powered CMS on the block.</li>
+<li><a href="https://github.com/YorickPeterse/oga">Oga</a> - A (mostly) Ruby Nokogiri replacement. It aims to be cross Ruby implementation and thread safe. Looks interesting.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="https://changelog.com/154/">Ruby Heroes</a> - Listen to my favorite podcast people from The Changelog talking with 2015’s Ruby Heroes.</li>
+<li><a href="https://github.com/blog/2011-transforming-the-future-of-nasa-with-codeconf-s-ariel-waldman">Ariel Waldman is so awesome</a> - Github talked to space kid Ariel Waldman about her experiences at NASA and her upcoming CodeConf talk.</li>
+<li><a href="https://github.myshopify.com/products/atom-shirt">Atom swag</a> - There&rsquo;s an <a href="https://github.myshopify.com/products/atom-shirt">Atom shirt</a> in the Octoshop, to celebrate <a href="https://github.com/blog/1997-atom-1-year-open-source-anniversary">Atom&rsquo;s 1 year anniversary</a>. Also, Github will release a Pridetocat shirt to celebrate <a href="https://github.com/blog/2005-celebrate-pride-with-github">Pride Week</a>.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
@@ -745,34 +782,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="https://github.com/narkoz/ginatra">ginatra</a> - &hellip; is a simple web-based git repository browser built on Ruby Sinatra</li>
 <li><a href="http://shipyourenemiesglitter.com/">Hate glitter mail</a> - ship your enemies glitter (via <a href="http://www.twitter.com/bastilian">Sebastian</a>)</li>
 <li><a href="http://coaching.rubymonstas.org/">Study group</a> - The Berlin based study group Ruby Monsters wrote up some tips on coaching a programming study group</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
-    <link href="http://vienna-rb.at/blog/2015/01/07/picks/"/>
-    <updated>2015-01-07T20:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2015/01/07/picks</id>
-    <content type="html"><![CDATA[<h3>01/7 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the eighty-eighth edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="https://www.seccasts.com">SecCasts</a> - Security Screencasts</li>
-<li><a href="http://tinyletter.com/b0rk/letters/how-do-you-become-an-excellent-programmer">How do you become an excellent programmer?</a> - <a href="http://twitter.com/b0rk">Julia Evans</a> asked around on twitter for advice on becoming an excellent programmer and gathered some of the answers in a post</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://www.developerdrive.com/2014/12/simplify-your-documentation-process-with-couscous/">Couscous</a> - &hellip; takes markdown files and converts them into professional standard HTML docs. For those who hate on documentation writing.</li>
-<li><a href="http://www.sitepoint.com/ruby-peek-2015/">Ruby 2015</a> - the managing editor for SitePoint on all things Ruby shares what he thinks is in store for our favorite language this year around.</li>
 </ul>
 
 ]]></content>

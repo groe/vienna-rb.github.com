@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2015-05-28T18:23:28+00:00</updated>
+  <updated>2015-05-28T18:53:40+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/05/27/picks/"/>
+    <updated>2015-05-27T14:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2015/05/27/picks</id>
+    <content type="html"><![CDATA[<h3>05/27 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-eighth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://muan.co/emoji-minesweeper/">Emoji Minesweeper</a> - Because this is the internet and you get <a href="https://twitter.com/alicetragedy/status/601625706083258368">what you ask for</a>.</li>
+<li><a href="https://github.com/holman/feedback/issues/690">Daily things you can do to help you with writing code</a> - Some pretty neat advice by <a href="https://twitter.com/holman">Zach Holman</a>.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/mraaroncruz">Aaron</a>:</h5>
+
+<ul>
+<li><a href="http://www.spinacms.com/">Spina CMS</a> - The new Rails powered CMS on the block.</li>
+<li><a href="https://github.com/YorickPeterse/oga">Oga</a> - A (mostly) Ruby Nokogiri replacement. It aims to be cross Ruby implementation and thread safe. Looks interesting.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="https://changelog.com/154/">Ruby Heroes</a> - Listen to my favorite podcast people from The Changelog talking with 2015’s Ruby Heroes.</li>
+<li><a href="https://github.com/blog/2011-transforming-the-future-of-nasa-with-codeconf-s-ariel-waldman">Ariel Waldman is so awesome</a> - Github talked to space kid Ariel Waldman about her experiences at NASA and her upcoming CodeConf talk.</li>
+<li><a href="https://github.myshopify.com/products/atom-shirt">Atom swag</a> - There&rsquo;s an <a href="https://github.myshopify.com/products/atom-shirt">Atom shirt</a> in the Octoshop, to celebrate <a href="https://github.com/blog/1997-atom-1-year-open-source-anniversary">Atom&rsquo;s 1 year anniversary</a>. Also, Github will release a Pridetocat shirt to celebrate <a href="https://github.com/blog/2005-celebrate-pride-with-github">Pride Week</a>.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -173,36 +210,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <ul>
 <li><a href="https://www.facebook.com/media/set/?set=a.562487283892623.1073741828.544720819002603&amp;type=1">Picture proof</a> - Can&rsquo;t help but falling in love with the gorgeous pictures Manuel Gruber took at ROSS Conf</li>
 <li><a href="https://speakerdeck.com/rossconf">ROSS Conf decks</a> - We collected the slides from ROSS Conf for you to relive the good times</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2015/04/22/picks/"/>
-    <updated>2015-04-22T14:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2015/04/22/picks</id>
-    <content type="html"><![CDATA[<h3>04/22 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-third edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="http://www.thesambarnes.com/digital-project-management/estimating-time-for-web-projects-more-accurately-part-2/">Estimating time for web projects more accurately</a> - in spite of it being really old, this article is a pretty good overview of how to somewhat accurately estimate web projects.</li>
-<li><a href="http://matt.might.net/articles/programmers-resolutions/">12 resolutions for programmers</a> - Challenge yourself with a new, month-sized, resolution every month.</li>
-<li><a href="http://microformats.org/wiki/existing-rel-values">Existing HTML rel values</a> - Entertaining to see how many strange rel values exist in HTML (hashtag: crush)</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://www.rubyflow.com/p/i4zps2-set-up-sublime-text-3-for-ruby-development">Sublime 3.0</a> -  This is a pick for Laura; setting up Sublime Text 3 for Ruby Development.</li>
-<li><a href="http://2015.arrrrcamp.be/cfp/">Arrrrcamp CFP is open</a> - Because speaking at ArrrrCamp is arrrrsome!</li>
-<li><a href="https://github.com/planetruby/awesome-events">awesome events</a> - Gerald collects awesome (Ruby related) events in his awesome events repo.</li>
 </ul>
 
 ]]></content>
