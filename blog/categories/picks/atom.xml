@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2015-06-03T12:43:50+00:00</updated>
+  <updated>2015-06-03T12:45:47+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/06/03/picks/"/>
+    <updated>2015-06-03T14:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2015/06/03/picks</id>
+    <content type="html"><![CDATA[<h3>06/03 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-ninth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/cldwalker/hirb">hirb</a> - view framework for console/irb</li>
+<li><a href="https://github.com/philipwalton/solved-by-flexbox">solved by flexbox</a> - vertically aligning with css.. a dream come true.</li>
+<li><a href="https://github.com/busyloop/lolcat">lolcat</a> - an oldie but goldie: rainbows and unicorns!</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/mraaroncruz">Aaron</a>:</h5>
+
+<ul>
+<li><a href="http://vaidehijoshi.github.io/blog/2015/06/02/code-smells-and-ruby-shorthand-unpacking-ampersand-plus-to-proc/">Unpacking Ampersand + To_proc</a> - Article about writing tighter Ruby code. Helpful if you aren&rsquo;t using the <code>(&amp;:message)</code> syntax or have never heard dof it.</li>
+<li><a href="http://rubyconf.pt/">Rubyconf Portugal 14-15 September</a> - I went last year (their first year) and it was fantastic. The lineup looks great and Braga and the venue are very nice. Maybe I&rsquo;ll see you there!</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://githubengineering.com/">Github Engineering Blog</a> - Github recently released their all-new Engineering blog.</li>
+<li><a href="http://tropicalrb.com/en/videos/">Tropical Ruby</a> - Tropical Ruby released talk recordings from their March&#8217; conference. Worth checking out!</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -181,35 +218,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="https://github.com/writekit/awesome-markdown">Awesome Markdown</a> - Yet another awesome collection on GitHub about all things Markup and Markdown</li>
 <li><a href="http://www.linuxwochen.at/Wien">Linuxwochen Wien @ FH Technikum, May/7-9</a> - New Event in Vienna; Free; Everyone Welcome</li>
 <li><a href="http://okfnlabs.org/blog/2015/04/26/datapak.html">Introducing datapak - Work with Tabular Data Packages using Ruby and ActiveRecord</a> - Article about Working w/ Open Data and SQL(ite) in Ruby</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2015/04/29/picks/"/>
-    <updated>2015-04-29T14:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2015/04/29/picks</id>
-    <content type="html"><![CDATA[<h3>04/29 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-fourth edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/nvbn/thefuck">thef*ck</a> - magnificent app which corrects your previous console command</li>
-<li><a href="http://railsdiff.org">railsdiff</a> - View diff of app configuration for different Rails versions</li>
-<li><a href="http://alexwllms.com/general/'open/source'/conferences/2015/04/26/contributing-to-open-source-projects.html">Contributing to Open Source projects</a> - Alex Williams wrote a short recap of last weekend&rsquo;s ROSSConf on his blog</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="https://www.facebook.com/media/set/?set=a.562487283892623.1073741828.544720819002603&amp;type=1">Picture proof</a> - Can&rsquo;t help but falling in love with the gorgeous pictures Manuel Gruber took at ROSS Conf</li>
-<li><a href="https://speakerdeck.com/rossconf">ROSS Conf decks</a> - We collected the slides from ROSS Conf for you to relive the good times</li>
 </ul>
 
 ]]></content>

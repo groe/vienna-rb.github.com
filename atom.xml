@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2015-06-03T12:43:50+00:00</updated>
+  <updated>2015-06-03T12:45:47+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/06/03/picks/"/>
+    <updated>2015-06-03T14:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2015/06/03/picks</id>
+    <content type="html"><![CDATA[<h3>06/03 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-ninth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/cldwalker/hirb">hirb</a> - view framework for console/irb</li>
+<li><a href="https://github.com/philipwalton/solved-by-flexbox">solved by flexbox</a> - vertically aligning with css.. a dream come true.</li>
+<li><a href="https://github.com/busyloop/lolcat">lolcat</a> - an oldie but goldie: rainbows and unicorns!</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/mraaroncruz">Aaron</a>:</h5>
+
+<ul>
+<li><a href="http://vaidehijoshi.github.io/blog/2015/06/02/code-smells-and-ruby-shorthand-unpacking-ampersand-plus-to-proc/">Unpacking Ampersand + To_proc</a> - Article about writing tighter Ruby code. Helpful if you aren&rsquo;t using the <code>(&amp;:message)</code> syntax or have never heard dof it.</li>
+<li><a href="http://rubyconf.pt/">Rubyconf Portugal 14-15 September</a> - I went last year (their first year) and it was fantastic. The lineup looks great and Braga and the venue are very nice. Maybe I&rsquo;ll see you there!</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://githubengineering.com/">Github Engineering Blog</a> - Github recently released their all-new Engineering blog.</li>
+<li><a href="http://tropicalrb.com/en/videos/">Tropical Ruby</a> - Tropical Ruby released talk recordings from their March' conference. Worth checking out!</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
@@ -743,45 +780,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <ul>
 <li><a href="https://www.facebook.com/events/339497852920953/">Rubyslava</a> - We all love the Bratislavian Ruby chapter, but their 45th edition is REALLY worth a visit</li>
 <li><a href="https://github.com/ianks/octodown">Octodown</a> - Github markdown previewing straight from your shell. Hot.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
-    <link href="http://vienna-rb.at/blog/2015/01/14/picks/"/>
-    <updated>2015-01-14T20:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2015/01/14/picks</id>
-    <content type="html"><![CDATA[<h3>01/14 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the eighty-ninth edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="http://www-cs-students.stanford.edu/~blynn/gitmagic">Git Magic</a> - A book to achieve Git Grandmastery (maybe)</li>
-<li><a href="http://pgcli.com">PGCLI</a> - Postgres command line interface with autocompletion and syntax highlighting</li>
-<li><a href="http://www.extremetech.com/extreme/187736-harvard-mit-create-first-self-assembling-robots-the-first-real-transformers">Origami Robots</a> - Harvard &amp; MIT create the first self-assembling robots</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/mraaroncruz">Aaron</a>:</h5>
-
-<ul>
-<li><a href="http://blog.testdouble.com/posts/2014-11-04-healthy-migration-habits.html#habit-4-don-t-reference-models">Healthy Migration Habits</a> - If you have felt the pain of referencing your ActiveRecord models in data migrations, here are some great tips</li>
-<li><a href="http://blog.lostpropertyhq.com/postgres-full-text-search-is-good-enough/">Postgres Full-Text Search is Good Enough!</a> - PostgreSQL does lots of things really well. Here is a short but sweet intro to full-text search using your favorite database.</li>
-<li><a href="https://speakerdeck.com/sferik/writing-fast-ruby">Writing Fast Ruby (slides)</a> - I normally wouldn&rsquo;t share slides but these are incredibly useful and beautifully designed. A little premature optimization for you :)</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/narkoz/ginatra">ginatra</a> - &hellip; is a simple web-based git repository browser built on Ruby Sinatra</li>
-<li><a href="http://shipyourenemiesglitter.com/">Hate glitter mail</a> - ship your enemies glitter (via <a href="http://www.twitter.com/bastilian">Sebastian</a>)</li>
-<li><a href="http://coaching.rubymonstas.org/">Study group</a> - The Berlin based study group Ruby Monsters wrote up some tips on coaching a programming study group</li>
 </ul>
 
 ]]></content>
