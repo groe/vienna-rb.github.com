@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2015-06-10T18:14:27+00:00</updated>
+  <updated>2015-06-11T06:34:53+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,71 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/06/10/picks/"/>
+    <updated>2015-06-10T14:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2015/06/10/picks</id>
+    <content type="html"><![CDATA[<h3>06/10 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-tenth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/sgentle/caniuse-cmd">caniuse</a> - a caniuse.com command line tool</li>
+<li><a href="https://blog.engineyard.com/2015/getting-started-with-ruby-processing">Getting Started with Ruby Processing</a> - the simplicity of Ruby coupled with the awesomeness of Processing</li>
+<li><a href="https://github.com/trulia/hologram">Hologram</a> - A markdown-based documentation system for style guides</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/mraaroncruz">Aaron</a>:</h5>
+
+<ul>
+<li><a href="https://icomoon.io/">Icomoon, generate project icon fonts</a> - A service I have been using for a long time. Great to organize icon fonts for your web app</li>
+<li><a href="https://www.youtube.com/watch?v=nY_Pl2x7Fgs">Talk: Yak Shaving is Best Shaving</a> - A great talk from Baruco 2013 (I said I would be adding these ;) by tenderlove. The a yak shaving into the internals of Ruby. Yaks all the way down.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://lanyrd.com/2015/rubyslava-june/">Rubyslava Conf&#8217;15</a> - Rubyslava is celebrating their 50th meetup with a free conference &lt;3 Talking about events, Herr Bauer added some great upcoming ones on <a href="https://github.com/planetruby/awesome-events">Awesome Events</a></li>
+<li><a href="http://devchat.tv/ruby-rogues/209-rr-robots-and-iot-with-julian-cheal">We all love Cheal</a> - Especially when he talks robots and IoT on the Ruby Rogues podcast</li>
+<li><a href="https://github.com/blog/2014-filter-pull-requests-by-status">status:success</a> - Filter your Pull Requests by their Status</li>
+</ul>
+
+
+<h5><a href="http://twitter.com/dch__">Dave</a>:</h5>
+
+<ul>
+<li><a href="http://lucene.apache.org/">Apache Lucene</a> is an amazing Java library for doing indexing and
+searching of your data. It&rsquo;s the core of <a href="http://lucene.apache.org/solr/">Apache Solr</a> and v5.2.0 was
+just released.</li>
+<li><a href="http://lucene.apache.org/solr/">Apache Solr</a> - scalable blazing fast search platform</li>
+<li><a href="https://www.elastic.co/products/elasticsearch">ElasticSearch</a> - a well-known commercial product based on the core Lucene
+technology</li>
+<li><a href="http://logstash.net/">LogStash</a> - JRuby based analytics tool</li>
+<li><a href="http://kibana.org/">Kibana</a> - a superb browser based analytics and search dashboard</li>
+<li><a href="https://github.com/rsolr/rsolr">RSolr</a> - a low-level gem for talking to Solr</li>
+<li><a href="https://github.com/rsolr/rsolr">Sunspot</a> - a nifty gem &amp; DSL for talking to Solr directly</li>
+</ul>
+
+
+<p>All of these are using <a href="http://blog.parsely.com/post/1691/lucene/">Inverted Indexes</a> - a really nice explanation.</p>
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a>:</h5>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=BVFtrrXhApw">Daniel Steinberg - The Ugly American Learns Swift (dotSwift 2015)</a> - On the importance of communities and being open to new and different ways of doing things, especially when learning a new language.</li>
+<li><a href="http://bravenewgeek.com/distributed-systems-are-a-ux-problem/">Distributed Systems Are a UX Problem</a> - Why &ldquo;solving&rdquo; distributed systems might not just be an entirely technical process.</li>
+<li><a href="http://www.amazon.de/Badass-Making-Awesome-Kathy-Sierra/dp/1491919019/">&ldquo;Badass - Making Users Awesome&rdquo; by Kathy Sierra</a> - It doesn&rsquo;t just make your users more awesome.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -179,45 +244,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="http://rubythursday.com/">RubyThursday</a> - Build a portfolio in a fun and engaging way. What if you had access to a set of fresh Ruby on Rails projects and tutorials that helped you consistently code on a regular basis?</li>
 <li><a href="http://www.developingandrails.com/2015/04/setting-up-atom-for-rails-development.html">Atom for Rails</a> - Setting up Atom for Rails Development</li>
 <li><a href="http://codepen.io/parcon/pen/OVPKqg?utm_source=html5weekly&amp;utm_medium=email">Upset baby in pure CSS</a> - thihihi.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2015/05/06/picks/"/>
-    <updated>2015-05-06T14:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2015/05/06/picks</id>
-    <content type="html"><![CDATA[<h3>05/06 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-fifth edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/github/gitignore">Gitignore</a> - A collection of useful gitignore templates</li>
-<li><a href="http://www.reddit.com/r/ruby/comments/348kro/whats_the_worst_thing_your_least_favorite_thing">What&rsquo;s your least favourite thing about Ruby?</a> - because sometimes, just sometimes, we have to go there</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://www.bootstrap.me.uk/bootstrapped-blog/fizzbuzz-as-a-ruby-hash">FizzBuzz Pro</a> - Solving the FizzBuzz test without a single If statement</li>
-<li><a href="https://blog.arkency.com/2015/05/how-to-store-emoji-in-a-rails-app-with-a-mysql-database/">Not just unicode</a> - How to store emoji in a Rails app with a MySQL database</li>
-<li><a href="http://www.codecademy.com/learn/learn-rails">Rails on Codecademy</a> - Codecademy added a course on Ruby on Rails 4. By the end of the course, you&rsquo;ll be able to use Ruby on Rails to create your own apps.</li>
-</ul>
-
-
-<h5><a href="https://github.com/geraldb">Gerald</a>:</h5>
-
-<ul>
-<li><a href="https://pragprog.com/book/adrpo/ruby-performance-optimization">Ruby Performance Optimization: Why Ruby Is Slow, and How to Fix It</a> - New (Beta) Book in the Pragmatic Programmers Ruby Series</li>
-<li><a href="https://github.com/writekit/awesome-markdown">Awesome Markdown</a> - Yet another awesome collection on GitHub about all things Markup and Markdown</li>
-<li><a href="http://www.linuxwochen.at/Wien">Linuxwochen Wien @ FH Technikum, May/7-9</a> - New Event in Vienna; Free; Everyone Welcome</li>
-<li><a href="http://okfnlabs.org/blog/2015/04/26/datapak.html">Introducing datapak - Work with Tabular Data Packages using Ruby and ActiveRecord</a> - Article about Working w/ Open Data and SQL(ite) in Ruby</li>
 </ul>
 
 ]]></content>
