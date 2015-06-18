@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2015-06-17T13:10:05+00:00</updated>
+  <updated>2015-06-18T09:09:47+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/06/17/picks/"/>
+    <updated>2015-06-17T14:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2015/06/17/picks</id>
+    <content type="html"><![CDATA[<h3>06/17 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-eleventh edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/vbarbaresi/MetroGit">MetroGit</a> - Paris Metro stations visualised as a git graph</li>
+<li><a href="http://firstpr.me/">First Pull Request</a> - A nifty tool to see the first pull request you ever sent on GitHub.</li>
+<li><a href="http://solnic.eu/2015/06/06/cutting-corners-or-why-rails-may-kill-ruby.html">Cutting Corners or Why Rails May Kill Ruby</a> - A very interesting and to-the-point article about &ldquo;monkey-patching all the things&rdquo; and why it might be terrible for our ecosystem, by <a href="https://twitter.com/_solnic_">Piotr Solnica</a></li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://skillcrush.com/2015/06/11/8-free-font-pairings/">Fonts that actually work together</a> - Skillcrush helps the non-design-savvy with free font pairings that WORK.</li>
+<li><a href="http://ilyabylich.svbtle.com/apipie-amazing-tool-for-documenting-your-rails-api">apipie</a> - <a href="https://github.com/Apipie/apipie-rails">Apipie</a> is an interesting tool/gem for documenting your Rails API.</li>
+<li><a href="https://www.eventbrite.co.uk/e/rice-steamer-tickets-17316927396">rice steamer</a> - don&rsquo;t think on it, simply register for this new event format at sektor5. Zero regrets guaranteed.</li>
+</ul>
+
+
+<h5><a href="https://github.com/geraldb">Gerald</a>:</h5>
+
+<ul>
+<li><a href="http://rosettacode.org/wiki/FizzBuzz">FizzBuzz @ Rosetta Code</a> - the &ldquo;classic&rdquo; exercise in hundred of (inspiring) versions</li>
+<li><a href="http://www.tomdalling.com/blog/software-design/fizzbuzz-in-too-much-detail">FizzBuzz In Too Much Detail</a> - write-up about the Fizz Buzz exercise in Ruby &ndash; from simple &ldquo;classic&rdquo; style to fully &ldquo;modern&rdquo; functional-style with clear separation of side effects (i/o functions)</li>
+<li><a href="http://planetruby.github.io/books">Ruby Books Page @ Planet Ruby</a> - summer beach reading recommendations</li>
+<li><a href="http://aosabook.org">The Architecture of Open Source Applications</a> - inspiring (free) book series about studying real world (patterns) code (applications) incl. Volume I, Volume II, Performance Edition and
+the upcoming 500-Lines-or-Less Edition</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -206,44 +247,6 @@ Be warned, not all OS, apps and browsers support these yet.</p>
 <li><a href="https://www.youtube.com/watch?v=l6jTFxQaUJA">Another gentle introduction to ECC</a> - this is slightly less gentle but may be easier to digest as a video!</li>
 <li><a href="http://pqcrypto.org/">Post-quantum Crypto</a> - I just bookmarked this one for &ldquo;later reading&rdquo; when my brain has expanded but anything by D.J.Bernstein and T.Lange is always worth the time spent understanding.</li>
 <li><a href="https://stribika.github.io/2015/01/04/secure-secure-shell.html">Securing SSH</a> - a practical application of all the hard science you just skimmed ;-)</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2015/05/13/picks/"/>
-    <updated>2015-05-13T14:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2015/05/13/picks</id>
-    <content type="html"><![CDATA[<h3>05/13 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-sixth edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="https://kapeli.com/dash">Dash</a> - Offline API documentation sets</li>
-<li><a href="https://github.com/kaepora/npwd">npwd</a> - Command-line password management for your various accounts</li>
-<li><a href="http://night-of-support.at">Night of Support</a> - Some shameless promotion! Night of Support is coming this Friday to a sektor5 near you.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/mraaroncruz">Aaron</a>:</h5>
-
-<ul>
-<li><a href="https://blog.lateral.io/2015/05/full-text-search-in-milliseconds-with-postgresql/">Faster Search with PostgreSQL</a> - A really straight forward way to increase search performance using PostgreSQL&rsquo;s full text search and the JSON data type</li>
-<li><a href="https://www.amberbit.com/blog/2015/4/22/why-rails-5-turbolinks-3-action-cable-matter-and-why-dhh-was-right-all-along/">Why Rails 5 / Turbolinks 3.0 / Action Cable matter, and why @dhh was right all along</a> - Controversial article about Rails 5&rsquo;s new set of features. Also a good intro to Rails 5&rsquo;s new features.</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://rubythursday.com/">RubyThursday</a> - Build a portfolio in a fun and engaging way. What if you had access to a set of fresh Ruby on Rails projects and tutorials that helped you consistently code on a regular basis?</li>
-<li><a href="http://www.developingandrails.com/2015/04/setting-up-atom-for-rails-development.html">Atom for Rails</a> - Setting up Atom for Rails Development</li>
-<li><a href="http://codepen.io/parcon/pen/OVPKqg?utm_source=html5weekly&amp;utm_medium=email">Upset baby in pure CSS</a> - thihihi.</li>
 </ul>
 
 ]]></content>
