@@ -4,7 +4,7 @@
   <title><![CDATA[Category: picks | User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/blog/categories/picks/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2015-06-24T10:50:13+00:00</updated>
+  <updated>2015-06-25T16:07:50+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/06/24/picks/"/>
+    <updated>2015-06-24T14:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2015/06/24/picks</id>
+    <content type="html"><![CDATA[<h3>06/24 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-twelfth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/jlevy/the-art-of-command-line">The Art of Command Line</a> - a collection of command line tricks and snippets</li>
+<li><a href="http://projectsthehardway.com/">Projects the Hard Way</a> - Coding Projects for Early Coders</li>
+<li><a href="http://blog.eurucamp.org/2015/06/19/the-rails-girls-summer-of-code-team-at-the-jrubyconfeu/">The RGSoC Team JRubyConf.EU</a> - With two MCs and one speaker, the Rails Girls Summer of Code Team is taking over JRubyConf this summer!</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://devchat.tv/ruby-rogues/213-rr-team-dynamics-api-design-and-system-resiliency-with-daniel-jacobson-of-netflix">Ruby Rogues with Netflix</a> - Daniel Jacobson of Netflix and the Ruby Rogues team discuss team dynamics, API design, and system resiliency.</li>
+<li><a href="https://github.com/blog/2023-a-closer-look-at-europe">Github demographics!</a> - &hellip; with a closer look on Europe. Rrr, data.</li>
+<li><a href="https://github.com/blog/2031-announcing-atom-1-0">They grow up so fast</a> - version 1.0 of the Atom text editor is now available from <a href="https://atom.io/">atom.io</a>.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
@@ -188,65 +218,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="https://changelog.com/154/">Ruby Heroes</a> - Listen to my favorite podcast people from The Changelog talking with 2015’s Ruby Heroes.</li>
 <li><a href="https://github.com/blog/2011-transforming-the-future-of-nasa-with-codeconf-s-ariel-waldman">Ariel Waldman is so awesome</a> - Github talked to space kid Ariel Waldman about her experiences at NASA and her upcoming CodeConf talk.</li>
 <li><a href="https://github.myshopify.com/products/atom-shirt">Atom swag</a> - There&rsquo;s an <a href="https://github.myshopify.com/products/atom-shirt">Atom shirt</a> in the Octoshop, to celebrate <a href="https://github.com/blog/1997-atom-1-year-open-source-anniversary">Atom&rsquo;s 1 year anniversary</a>. Also, Github will release a Pridetocat shirt to celebrate <a href="https://github.com/blog/2005-celebrate-pride-with-github">Pride Week</a>.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / what the vienna.rb team thinks is worth sharing this week]]></title>
-    <link href="http://vienna-rb.at/blog/2015/05/20/picks/"/>
-    <updated>2015-05-20T10:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2015/05/20/picks</id>
-    <content type="html"><![CDATA[<h3>05/20 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-seventh edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="https://github.com/michaeldv/awesome_print">Awesome Print</a> - Pretty print your Ruby objects with style</li>
-<li><a href="http://vaidehijoshi.github.io/blog/2015/05/19/the-secret-life-of-your-database-part-1-migrations/">The Secret Life of your Database, part 1: Migrations</a> - a neat little article that take a look at database migrations. Bonus: the <code>rake db:migrate:status</code> command, which I had never used before &lt;3</li>
-<li><a href="https://github.com/mislav/everyenv">everyenv</a> - rbenv, but for ANYTHING</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/mraaroncruz">Aaron</a>:</h5>
-
-<ul>
-<li><a href="http://npf.io/2014/10/why-everyone-hates-go/">Why Everyone Hates Go</a> - An interesting take on why golang has so many haters. Angular could also fall into this reasoning.</li>
-<li><a href="http://www.fullstackfest.com/#speakers-section">Speakers Chosen For Full Stack Fest</a> - This conference looks like a must see. Amazing lineup.</li>
-<li><a href="https://www.youtube.com/results?search_query=baruco+2013&amp;page=&amp;utm_source=opensearch">Talks from Baruco 2013</a> - Since we&rsquo;re talking about Baruco (Full Stack Fest), here are the talks from 2013. It was, and still probably is, the best conference I have ever been to. It&rsquo;s super hard to pick a best, I think I&rsquo;ll pick them individually in the next editions of our picks!</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://aerolab.github.io/readremaining.js">ReadRemaining.js</a> - Tell your readers how long they&rsquo;ll need to get through all of your gibberish, with this clever jQuery plugin.</li>
-<li><a href="http://www.rossconf.io/event/berlin.html">ROSSConf Berlin</a> - Because who needs sleep, when there&rsquo;s conferences to organize?</li>
-</ul>
-
-
-<h5><a href="http://twitter.com/dch__">Dave</a>:</h5>
-
-<p>For the love of crypto! Elliptic Curves are the new hotness, especially
-given shock revelations of recent years regarding protocol flaws, government
-capability and general internet-enabled data collection. Here&rsquo;s some links
-to get your teeth into, but not biting off more than you can chew!</p>
-
-<p>Why should you care? Well, ECC-based Ed25519 ssh keys are shorter, almost
-memorisable, noticeably faster for session setup times, and throughput is
-improved! What&rsquo;s not to like? Similar advances are available in TLS and PGP.
-Be warned, not all OS, apps and browsers support these yet.</p>
-
-<ul>
-<li><a href="http://tonyarcieri.com/the-death-of-bitcoin">The Death of BitCoin</a> - a well supported but controversial view of BitCoin&rsquo;s future, touching on ECC.</li>
-<li><a href="http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/">A gentle introduction to ECC</a> - if you ignore most of the math this is indeed a gentle introduction.</li>
-<li><a href="https://www.youtube.com/watch?v=l6jTFxQaUJA">Another gentle introduction to ECC</a> - this is slightly less gentle but may be easier to digest as a video!</li>
-<li><a href="http://pqcrypto.org/">Post-quantum Crypto</a> - I just bookmarked this one for &ldquo;later reading&rdquo; when my brain has expanded but anything by D.J.Bernstein and T.Lange is always worth the time spent understanding.</li>
-<li><a href="https://stribika.github.io/2015/01/04/secure-secure-shell.html">Securing SSH</a> - a practical application of all the hard science you just skimmed ;-)</li>
 </ul>
 
 ]]></content>

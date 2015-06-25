@@ -4,7 +4,7 @@
   <title><![CDATA[User group for Viennese rubyists]]></title>
   <link href="http://vienna-rb.at/atom.xml" rel="self"/>
   <link href="http://vienna-rb.at/"/>
-  <updated>2015-06-24T10:50:13+00:00</updated>
+  <updated>2015-06-25T16:07:50+00:00</updated>
   <id>http://vienna-rb.at/</id>
   <author>
     <name><![CDATA[vienna.rb team]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/06/24/picks/"/>
+    <updated>2015-06-24T14:00:00+00:00</updated>
+    <id>http://vienna-rb.at/blog/2015/06/24/picks</id>
+    <content type="html"><![CDATA[<h3>06/24 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-twelfth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/jlevy/the-art-of-command-line">The Art of Command Line</a> - a collection of command line tricks and snippets</li>
+<li><a href="http://projectsthehardway.com/">Projects the Hard Way</a> - Coding Projects for Early Coders</li>
+<li><a href="http://blog.eurucamp.org/2015/06/19/the-rails-girls-summer-of-code-team-at-the-jrubyconfeu/">The RGSoC Team JRubyConf.EU</a> - With two MCs and one speaker, the Rails Girls Summer of Code Team is taking over JRubyConf this summer!</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://devchat.tv/ruby-rogues/213-rr-team-dynamics-api-design-and-system-resiliency-with-daniel-jacobson-of-netflix">Ruby Rogues with Netflix</a> - Daniel Jacobson of Netflix and the Ruby Rogues team discuss team dynamics, API design, and system resiliency.</li>
+<li><a href="https://github.com/blog/2023-a-closer-look-at-europe">Github demographics!</a> - &hellip; with a closer look on Europe. Rrr, data.</li>
+<li><a href="https://github.com/blog/2031-announcing-atom-1-0">They grow up so fast</a> - version 1.0 of the Atom text editor is now available from <a href="https://atom.io/">atom.io</a>.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
@@ -789,36 +819,6 @@ Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So
 <li><a href="https://github.com/plribeiro3000/jazz_fingers">Jazz Fingers</a> - Pry-based enhancements for the default Rails 3 and 4 consoles. Rrrr.</li>
 <li><a href="https://github.com/FezVrasta/bootstrap-material-design">Material</a> - This Bootstrap theme is an easy way to use the new Material Design guidelines by Google in your Bootstrap 3 based application.</li>
 <li><a href="http://cssanimation.rocks/post/twitter-fave/">CSS Animation</a> - Recreating Twitter&rsquo;s brand new &lsquo;fave&rsquo; animation.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
-    <link href="http://vienna-rb.at/blog/2015/02/04/picks/"/>
-    <updated>2015-02-04T14:00:00+00:00</updated>
-    <id>http://vienna-rb.at/blog/2015/02/04/picks</id>
-    <content type="html"><![CDATA[<h3>02/04 Picks!</h3>
-
-<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
-Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the ninety-second edition:</p>
-
-<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
-
-<ul>
-<li><a href="https://twitter.com/GreatHaikuBot">GreatHaikuBot</a> - basically tech haikus.. because why not.</li>
-<li><a href="https://devmynd.com/blog/2015-1-pairing-with-junior-developers">Pairing with Junior Developers</a> - A few tips that might come in handy if you&rsquo;re considering pairing.</li>
-<li><a href="http://railsgirlssummerofcode.org/guide/projects">RGSoC: Call for Projects</a> - The Rails Girls Summer of Code is accepting projects for its 2015 programme. DO EET!</li>
-</ul>
-
-
-<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
-
-<ul>
-<li><a href="http://signal.twilio.com/call-for-presenters">Signal</a> - The CFP for Signal, Twilio&rsquo;s technical conference about how developers are changing communications, is open.</li>
-<li><a href="https://github.com/LunarLogic/gauguin">gauguin</a> - Nifty tool for retrieving the main colors from an image.</li>
-<li><a href="http://sarasoueidan.com/blog/compositing-and-blending-in-css">roarrr</a> - Because sexy: compositing and blending in CSS.</li>
 </ul>
 
 ]]></content>
